@@ -1,0 +1,103 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://lh6.googleusercontent.com/-Kb7enIj3UuQ/Vb2sR-RqjYI/AAAAAAAAdoE/NL2KfVlDMQU/w229-h223-no/OnSerieS%2Bnovo.png"
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-F1MoVbs6JIs/VXl7OihkT8I/AAAAAAAAazQ/QDK_YN5NESE/s593-no/OnSeries.png" group-title="testes",arrow 23 mediafire N RODA CHOMECAST
+http://transcode1.mediafire.com/lprk9cujnqqg/663rtgko7pxwum8/55cf/ep23.mp4?container=flv&media_size=480p
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-F1MoVbs6JIs/VXl7OihkT8I/AAAAAAAAazQ/QDK_YN5NESE/s593-no/OnSeries.png" group-title="testes",dayly vhelper
+http://www.dailymotion.com/cdn/H264-848x480/video/x325rul.mp4?auth=1440102574-2562-d5406amo-dc0dd8bd98a6108d71a9fcc747db0cfd
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-F1MoVbs6JIs/VXl7OihkT8I/AAAAAAAAazQ/QDK_YN5NESE/s593-no/OnSeries.png" group-title="testes",luso
+http://netseries.com.br/episodio/baixarEpisodioHD/6122
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-F1MoVbs6JIs/VXl7OihkT8I/AAAAAAAAazQ/QDK_YN5NESE/s593-no/OnSeries.png" group-title="testes",luso
+http://netseries.com.br/hd/Almost.Human.S01E04.mp4
+####################################################################################################################################################
+####################################################################################################################################################
+	##Rodada de Filmes!
+
+#EXTINF:-1 tvg-logo="http://goo.gl/bx8UXQ" group-title="Rodada de Filmes!",Vingança em Paris
+https://r9---sn-bg07yn7s.googlevideo.com/videoplayback?requiressl=yes&id=07c0569e6b8b7dc4&itag=22&source=webdrive&ip=189.26.32.141&ipbits=0&expire=1439272663&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=16EC30B8F38B6438607BFA83F332A693E1B2CFD2.60ECF0D8A00421D9F644174ADF68B11E8154DB3A&key=cms1&begin=0&pl=18&redirect_counter=1&req_id=7f38bafb6cbaa3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439243785&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/4IaaMF" group-title="Rodada de Filmes!",Um Santo Vizinho
+https://r18---sn-bg07yn7l.googlevideo.com/videoplayback?requiressl=yes&id=a77252ca3ac00032&itag=37&source=webdrive&ip=189.26.32.141&ipbits=0&expire=1439272231&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=3DB1BB6D9DAA065427BCC2F32C77A549E6D585D8.55D9682F6FCD54B794FDFB3961CE06136CFC47F9&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-bg07yn7l&ms=au&mt=1439243304&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5jEE6o" group-title="Rodada de Filmes!",Confiar
+https://r18---sn-bg07yn7s.googlevideo.com/videoplayback?requiressl=yes&id=b657360ee041b8e2&itag=22&source=webdrive&ip=189.26.32.141&ipbits=0&expire=1439272120&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=4233AE3BD9A66A3781E57D285947FB1279ACD29C.0AC03660205C796E0F07F2F27938FFA31819A13E&key=cms1&pl=18&redirect_counter=1&req_id=eb14af545055a3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439243327&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/shCD7I" group-title="Rodada de Filmes!",Vida de Adulto
+https://r4---sn-b8u-jfcl.googlevideo.com/videoplayback?requiressl=yes&id=0dc08fc4c2810124&itag=37&source=webdrive&ip=189.26.32.141&ipbits=0&expire=1439272072&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pcm2cms,pl,requiressl,source&signature=7FC384C43E894477E5A7072E2A6383C02CCD054E.06B319E311B725842E54A7897720B063BA6B767D&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcl&ms=au&mt=1439243189&mv=m&pcm2cms=yes&pl=18
+
+#EXTINF:-1 tvg-logo="http://goo.gl/moA9Bg" group-title="Rodada de Filmes!",O Jogador
+https://r3---sn-bg07dnle.googlevideo.com/videoplayback?requiressl=yes&id=33d159f3f73860d4&itag=37&source=webdrive&ip=189.26.32.141&ipbits=0&expire=1439272038&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=17507FB0443D83794BA4E34E29AB1AFA07A48F32.38C442BB2F5E4278A3FBA78711869E0C7A2F8985&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-bg07dnle&ms=au&mt=1439243189&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="http://goo.gl/fBN8Fe" group-title="Rodada de Filmes!",Jurassic World – O Mundo dos Dinossauros
+https://r4---sn-b8u-jfcl.googlevideo.com/videoplayback?requiressl=yes&id=99f134c0cf8b8519&itag=22&source=webdrive&ip=189.26.32.141&ipbits=0&expire=1439271857&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5C59681368BA620EC544AD9A99FE6D901F21976C.8353847481083E840F044865D94927262CAAC807&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcl&ms=au&mt=1439243071&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="http://goo.gl/eIWsyj" group-title="Rodada de Filmes!",O Perigo Vem do Lago
+https://r4---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=0f14733be2e8f5a5&itag=22&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439271671&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=70EAE4B616D01DA69CF2C029F74C74B3E5D7C3D6.3EAD3778A136D73C8A40769CE3DC306E5D125D36&key=cms1&begin=2720&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1439242833&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/j4UAqX" group-title="Rodada de Filmes!",Clube de compra Dallas
+https://r8---sn-p5qlsu7k.googlevideo.com/videoplayback?requiressl=yes&id=c66067ef61655d8b&itag=22&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439271449&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=0264543AAD8F626F9E86EDB5BFCDE619355D2A0E.535E6F7AFAEEE2713E365860BD66B0F3EC1E09EE&key=cms1&begin=0&pl=18&req_id=918cd9eac8b9a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7k&ms=tsu&mt=1439242598&mv=m
+
+#EXTINF:-1 tvg-logo="http://goo.gl/bOhsI2" group-title="Rodada de Filmes!",Livrai-nos do Mal
+https://r3---sn-b8u-jfcl.googlevideo.com/videoplayback?requiressl=yes&id=2641a8bc8e2af1b2&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439271379&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pcm2cms,pl,requiressl,source&signature=6FBC4DC0C6CE7DC2BD2D2708431D66D01B099772.5570683FB7ED16BFEF25ED168D19E1055F4D5F40&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcl&ms=au&mt=1439242461&mv=m&pcm2cms=yes&pl=18
+
+#EXTINF:-1 tvg-logo="http://goo.gl/rDZgeX" group-title="Rodada de Filmes!",Atividade Sobrenatural – A Vingança De Mery
+https://r11---sn-bg07yn7z.googlevideo.com/videoplayback?requiressl=yes&id=e17b5bc6d3e08394&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439271339&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=182912A578C75D05E74672BCD18CBB68E38A64A2.3D1C88C65A37A79B5DF78175C9C6E605C53F3E08&key=cms1&begin=0&pl=18&redirect_counter=1&req_id=2d0b35605a8aa3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439242507&mv=m
+
+#EXTINF:-1 tvg-logo="http://goo.gl/qR8pcD" group-title="Rodada de Filmes!",Livre
+https://r1---sn-bg07dnle.googlevideo.com/videoplayback?requiressl=yes&id=77227ab1f13a2da4&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439271122&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=6E92184C978DEB3AC48FAEB22DB1DB97A81A6EF9.360E301E076EBC86B1E4B494E34D76DD6C4217D3&key=cms1&begin=0&pl=18&redirect_counter=1&req_id=a7cfa87b7059a3ee&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439242231&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ADnyTX" group-title="Rodada de Filmes!",Vicio Inocente
+https://r10---sn-bg07yn7l.googlevideo.com/videoplayback?requiressl=yes&id=38a9cf737ef13d6d&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439271053&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=05DCE1EB073AF00E4BC732EA7A015EA15B51CACA.49B66FCD553AF59A481C65AE018618C605C8FC31&key=cms1&begin=0&pl=18&redirect_counter=1&req_id=793d1daaca1ba3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439242231&mv=m
+
+#EXTINF:-1 tvg-logo="http://goo.gl/ps2kYB" group-title="Rodada de Filmes!",O Misterioso Caso de Judith Winstead
+https://r5---sn-b8u-jfcl.googlevideo.com/videoplayback?requiressl=yes&id=0921f21d1d662c43&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439270821&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pcm2cms,pl,requiressl,source&signature=23AF1EE46C3EA76E1A23CC07BD213582BC0B8A0B.6BF39FCE1FC991BAC27041FEB9BC61547B21C08A&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcl&ms=au&mt=1439241970&mv=m&pcm2cms=yes&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/0zhDHo" group-title="Rodada de Filmes!",Azul é a cor mais quente
+https://r6---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=cbb005c77f3d3d3e&itag=22&source=webdrive&ip=201.22.55.6&ipbits=0&expire=1440387392&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=67F12CD59FDC58DF130AD9FD70547A6E2B2FE0CE.7B4C4AF15F163AEFBDDC7406F66CDDE8B0F58281&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1437795330&mv=m&pl=20
+
+#EXTINF:-1 tvg-logo="https://goo.gl/G3ZKvz" group-title="Rodada de Filmes!",Dois Lados do Amor
+https://r6---sn-bg07dnle.googlevideo.com/videoplayback?id=9c1007d2c5b4b3b9&itag=18&source=picasa&requiressl=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mv=m&pl=18&gir=yes&clen=326343986&dur=7372&lmt=1433256696231903&mime=video/mp4&mt=1439239674&ip=189.26.32.141&ipbits=0&expire=1439268503&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,gir,clen,dur,lmt,mime&signature=9344A9660DCEE96994327DB3380344718226CA5D.06B713250ABCC1A5F0FB309B9F87F95330E666A1&key=ck2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/aPcofh" group-title="Rodada de Filmes!",Uma Noite de Crime
+https://r9---sn-bg07yn7z.googlevideo.com/videoplayback?requiressl=yes&id=eef1ada6368047db&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439269040&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=01ACD43DBC2E448ABBC66E481836EACDB21396FE.0857BFBCB8EC0310F3EF33E3183021091A0F1A6A&key=cms1&begin=0&cm2=0&pl=18&redirect_counter=1&req_id=66856af80c4aa3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439240173&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/AYg6vz" group-title="Rodada de Filmes!",A Família Belier
+https://r5---sn-bg07yn7s.googlevideo.com/videoplayback?requiressl=yes&id=327d4f3e1346b4a6&itag=37&source=picasa&ip=189.26.32.141&ipbits=0&expire=1439269185&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pcm2cms,pl,requiressl,source&signature=5B468AF9E55A2409F28A6C3A60C1FD407FC1A3DE.47242BE304463D89B37DBA036F43DA596808E894&key=cms1&pl=18&redirect_counter=1&req_id=14fc094a98eba3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439240369&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/80IDhw" group-title="Rodada de Filmes!",Um Milhão de Maneiras de Pegar na Pistola
+https://r5---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=1a0759aefefe7297&itag=22&source=webdrive&ip=201.22.55.6&ipbits=0&expire=1440387648&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=7994922B73255CA8FE49AC1EF61AD7AD999FE866.1FA7B409CF5C13D4F51E589A772B57C154EA91B9&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1437795623&mv=m&pl=20
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FvKzaB" group-title="Rodada de Filmes!",Namoro ou liberdade
+https://r2---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=81c279a3ebbc3687&itag=22&source=webdrive&ip=201.22.55.6&ipbits=0&expire=1440281004&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=2D6D91C47196A56189E5DF6EDF33750FEF2D065C.6F0CE651F3F704919CEEFFEC41EBFA66AACD7235&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1437795528&mv=m&pl=20
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GhGYhH" group-title="Rodada de Filmes!",Se eu ficar
+https://r1---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=5402e45d81a642c7&itag=37&source=webdrive&ip=201.22.55.6&ipbits=0&expire=1440386712&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5B367B27A31E0FA9EAA5DD147EC5CE1A7952E47B.23AA7A04658E228BB4CA087D59065F479D01B6D4&key=cms1&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1437794656&mv=m&pl=20
+
+#EXTINF:-1 tvg-logo="https://goo.gl/d21CRg" group-title="Rodada de Filmes!",O Poderoso Chefão – Parte III
+https://r2---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=3a21ed906f5dc8ed&itag=22&source=picasa&ip=201.86.38.143&ipbits=0&expire=1440299171&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=2214E3F6FCC29F9A90492A0174AA6BAEC2BC8F06.4D8E14703A0509842251A13236B452445144588E&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1437707136&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xSFmHq" group-title="Rodada de Filmes!",O Poderoso Chefão – Parte II
+https://r6---sn-b8u-jfcs.googlevideo.com/videoplayback?requiressl=yes&id=a0e74fa41dc66209&itag=22&source=picasa&ip=201.86.38.143&ipbits=0&expire=1440299092&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5E3FBA4A6A174547BA9E88BC8D2AB87FD0368BE2.659742766829394520B13422DB4DC9831F0BB856&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcs&ms=au&mt=1437707041&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/NQ1xq5" group-title="Rodada de Filmes!",O Poderoso Chefão
+https://r4---sn-b8u-jfcl.googlevideo.com/videoplayback?requiressl=yes&id=725cf594850ea897&itag=22&source=picasa&ip=201.86.38.143&ipbits=0&expire=1440299036&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=21F58A233C62FB743E8E373B6199292FD1E19D98.08B303A40CE4C99A82E32EBA16BD0A688DD034B0&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcl&ms=au&mt=1437706938&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZP98xQ" group-title="Rodada de Filmes!",A Lista de Schindler
+https://r6---sn-b8u-jfcl.googlevideo.com/videoplayback?requiressl=yes&id=1b0abbba657f3361&itag=22&source=picasa&ip=201.86.38.143&ipbits=0&expire=1440298679&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5C9953398E1D6A1217897FDB325A5FB10F59F95E.44981F7F3B0C1A5D8EAF50E7EAED82091D40CC75&key=cms1&begin=0&cms_redirect=yes&mm=31&mn=sn-b8u-jfcl&ms=au&mt=1437706750&mv=m&pl=18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/4H4Jpt" group-title="Rodada de Filmes!",Homens Mulheres e Filhos
+https://r18---sn-bg07yn7l.googlevideo.com/videoplayback?requiressl=yes&id=d04eb20da3b3de0f&itag=37&source=picasa&ip=201.86.38.143&ipbits=0&expire=1440298570&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=048A6EFCC76169572C40D996191B29BFDD2DC26A.7C1C20105027567E33D3D5B45483A43E05CA63A9&key=cms1&begin=0&pl=18&redirect_counter=1&req_id=ecc989189f60a3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1437706537&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8a4RlG" group-title="Rodada de Filmes!",O Duplo
+https://r1---sn-p5qlsu7e.c.docs.google.com/videoplayback?requiressl=yes&id=2397f6ac70b77ab1&itag=22&source=webdrive&app=docs&ip=189.26.32.141&ipbits=0&expire=1439246939&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=39401CA360FE24502C1179C5B2EB5976EB4C436D.1D38D4113A1E775F9698A78A4E33AEBC598FB54F&key=cms1&pl=18&begin=0&req_id=b021be01946ba3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7e&ms=tsu&mt=1439243313&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ff33qR" group-title="Rodada de Filmes!",Sem dor Sem ganho
+https://r7---sn-bg07yn7e.c.docs.google.com/videoplayback?requiressl=yes&id=0e25e5a6151905a2&itag=22&source=webdrive&app=docs&ip=189.26.32.141&ipbits=0&expire=1439247244&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=60BAB673F24AAAFA6A81A3F968EA49D2AC10BC6C.243D1411925F4000A3A9063763FEDE29E663BA28&key=cms1&pl=18&begin=0&cm2=0&redirect_counter=1&req_id=7371c5da983ea3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439243601&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/9noqpg" group-title="Rodada de Filmes!",Capitão América 2: O Soldado Invernal
+https://r6---sn-bg07dnll.c.docs.google.com/videoplayback?requiressl=yes&id=4ce9f2172661cfd0&itag=37&source=webdrive&app=docs&ip=189.26.32.141&ipbits=0&expire=1439246633&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=469CE91ACC3D190B2280E3BA2E957555E6F80A9B.44B01D76156BD570A720B66DA890217BF1516B65&key=cms1&pl=18&begin=0&redirect_counter=1&req_id=260ad2067233a3ee&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439242975&mv=m
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SmGb5UKhCpM/VcbfZMEUnSI/AAAAAAAAeDc/XwfUTJPtamM/s152-no/filmes.png" group-title="Rodada de Filmes!",Rodada de Filmes!
+http://bit.ly/OnSerieS?filmes
