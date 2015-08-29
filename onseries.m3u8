@@ -1,64 +1,9 @@
 #EXTM3U
 ####################################################################################################################################################
 ####################################################################################################################################################
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/hOb3vZmO5RjQ_S3PwgKOno6MMI59cbwUc_TvFN5p7xoY=w394-h453-no"
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/hOb3vZmO5RjQ_S3PwgKOno6MMI59cbwUc_TvFN5p7xoY=w394-h453-no" group-title="ONSeries",FuckingTVShows
-http://bit.ly/ONSeries
-####################################################################################################################################################
-####################################################################################################################################################
-	##As 25+ Populares de Agosto!
-#EXTINF:-1 tvg-logo="https://goo.gl/dfzWpZ" group-title="As 25+ Populares de Agosto!",1.True Detective
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/n5uuSu" group-title="As 25+ Populares de Agosto!",2.GoT
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/l061i2" group-title="As 25+ Populares de Agosto!",3.Orange Is the New Black
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/VME7CU" group-title="As 25+ Populares de Agosto!",4.We Hot American
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/S9PvSS" group-title="As 25+ Populares de Agosto!",5.Mr. Robot
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/NtcRBa" group-title="As 25+ Populares de Agosto!",6.Pretty Little Liars
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/cs945y" group-title="As 25+ Populares de Agosto!",7.TWD
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/U5cY1b" group-title="As 25+ Populares de Agosto!",8.Suits
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/2nWQb0" group-title="As 25+ Populares de Agosto!",9.Teen Wolf
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/iHo7pp" group-title="As 25+ Populares de Agosto!",10.Arrow
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/v32Ow5" group-title="As 25+ Populares de Agosto!",11.Wayward Pines
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/yxysM4" group-title="As 25+ Populares de Agosto!",12.SoA
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/NgKCa9" group-title="As 25+ Populares de Agosto!",13.The Strain
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/HE5zCE" group-title="As 25+ Populares de Agosto!",14.The Big Bang Theory
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/Lqmcp1" group-title="As 25+ Populares de Agosto!",15.Sense 8
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/ud7kyA" group-title="As 25+ Populares de Agosto!",16.Breaking Bad
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/qUStiG" group-title="As 25+ Populares de Agosto!",17.Hannibal
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/HyYOJY" group-title="As 25+ Populares de Agosto!",18.AHS
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/Hlo940" group-title="As 25+ Populares de Agosto!",19.Humans
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/aGu1Ed" group-title="As 25+ Populares de Agosto!",20.The 100
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/jlCE9D" group-title="As 25+ Populares de Agosto!",21.Once Upon A Time
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/I6cgxm" group-title="As 25+ Populares de Agosto!",22.Daredevil
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/XxWDE7" group-title="As 25+ Populares de Agosto!",23.Supernatural
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/FYpMZf" group-title="As 25+ Populares de Agosto!",24.Grey's Anatomy
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/OMpiOH" group-title="As 25+ Populares de Agosto!",25.Sherlock
-http://bit.ly/ONSeries?curiosidades
-#EXTINF:-1 tvg-logo="https://goo.gl/wmQOea" group-title="As 25+ Populares de Agosto!",
-http://bit.ly/ONSeries?curiosidades
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no"
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="FuckingTVShows",FuckingTVShows
+http://bit.ly/FuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Agents of S.H.I.E.L.D. Dublado/Legendado > LEGServidorOnSerieS DUBwb5
