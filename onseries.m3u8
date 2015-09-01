@@ -4,10 +4,14 @@
 #PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no"
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="MyFuckingTVShows",MyFuckingTVShows
 http://bit.ly/MyFuckingTVShows
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-MOB -> CELULAR(SD)",LEG-MOB -> CELULAR
+http://bit.ly/MyFuckingTVShows
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-TV -> TV(HD)",LEG-TV -> TV
+http://bit.ly/MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Novas Series Adicionadas
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Novas Series Adicionadas",Narcos
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Novas Series Adicionadas",Dublado/Legendado HD
 http://bit.ly/OnSerieS
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -680,6 +684,7 @@ http://goo.gl/YCZZq6
 http://www.megavideoupload.com/media/db6f96aaf9a1a9e043f1ad448cd6633b.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/iHo7pp" group-title="Arrow",Arrow 1x18 LEG-TV Salvation
 http://goo.gl/dYhYRC
+#EXTINF:-1 tvg-logo="https://goo.gl/iHo7pp" group-title="Arrow",Arrow 1x17 The Huntress Returns
 #EXTINF:-1 tvg-logo="https://goo.gl/iHo7pp" group-title="Arrow",Arrow 1x17 LEG-TV The Huntress Returns
 http://goo.gl/pua9e5
 #EXTINF:-1 tvg-logo="https://goo.gl/qdT6V3" group-title="Arrow",Arrow 1x16 Dead to Rights
@@ -2787,7 +2792,7 @@ https://bit.ly/ONSeries?fear
 #EXTINF:-1 tvg-logo="https://goo.gl/z98Uw5" group-title="Fear The Walking Dead",Fear The Walking Dead 1x02 So Close, Yet So Far
 http://www.megavideoupload.com/media/9ba173566b28c8f712fb2f94383e97bd.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/z98Uw5" group-title="Fear The Walking Dead",Fear The Walking Dead 1x02 LEG-TV So Close Yet So Far
-https://bit.ly/ONSeries?fear
+http://www.megavideoupload.com/media/e6bfe6acba416fc675f2fcf803ef8604.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/z98Uw5" group-title="Fear The Walking Dead",Fear The Walking Dead 1x01 Pilot
 http://www.megavideoupload.com/media/8709edb0d5ea0f536625f2787c49561b.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/z98Uw5" group-title="Fear The Walking Dead",Fear The Walking Dead 1x01 LEG-TV Pilot
@@ -4315,26 +4320,46 @@ http://playfreehd.com/media/05f092e1f9bfeeff14545f041994e162.MP4?MyFuckingTVShow
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Narcos Dublado/Legendado > ServidorOnSerieS
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x10 LEG-MOB Decolando
-http://fab.fairytaill.com/156/Narcos/S01E10.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x09 LEG-MOB A Catedral
-http://fab.fairytaill.com/156/Narcos/S01E09.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x08 LEG-MOB A Grande Mentira
-http://fab.fairytaill.com/156/Narcos/S01E08.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x07 LEG-MOB Chorarás Lágrimas de Sangue
-http://fab.fairytaill.com/156/Narcos/S01E07.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x06 LEG-MOB Explosivos
-http://fab.fairytaill.com/156/Narcos/S01E06.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x05 LEG-MOB Haverá um Futuro
-http://fab.fairytaill.com/156/Narcos/S01E05.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x04 LEG-MOB O Palácio em Chamas
-http://fab.fairytaill.com/156/Narcos/S01E04.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x03 LEG-MOB Os Homens de Sempre
-http://fab.fairytaill.com/156/Narcos/S01E03.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x02 LEG-MOB A Espada de Simón Bolívar
-http://fab.fairytaill.com/156/Narcos/S01E02.MP4?MyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x01 LEG-MOB A chegada
-http://fab.fairytaill.com/156/Narcos/S01E01.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x10 Decolando
+http://www.megavideoupload.com/media/2b1273d366a7b127c45e7746179ff298.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x10 LEG-TV Decolando
+http://www.megavideoupload.com/media/de5d752b560a49cde357258e543d6740.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x09 A Catedral
+http://www.megavideoupload.com/media/874338470eceaced02aea94a1fb2e0f9.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x09 LEG-TV A Catedral
+http://www.megavideoupload.com/media/e1e48cf1475d46bc98a7314105c5532b.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x08 A Grande Mentira
+http://www.megavideoupload.com/media/441a37ea1ab92f0690b6b2e56e3c63c3.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x08 LEG-TV A Grande Mentira
+http://www.megavideoupload.com/media/f4b1287c705673bffdb2b8cd2b9b1506.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x07 Chorarás Lágrimas de Sangue
+http://www.megavideoupload.com/media/650e297a48e2d835066923487b99acc5.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x07 LEG-TV Chorarás Lágrimas de Sangue
+http://www.megavideoupload.com/media/f3d9dcb6b16f8c4c54c41a3db9c002b5.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x06 Explosivos
+http://www.megavideoupload.com/media/b2323ba60d3bdf0414996c212ac6818a.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x06 LEG-TV Explosivos
+http://www.megavideoupload.com/media/0884a5f9acc1d45fc94358ddbeae2721.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x05 Haverá um Futuro
+http://www.megavideoupload.com/media/49ca6fadf634799382c56171fd31816f.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x05 LEG-TV Haverá um Futuro
+http://www.megavideoupload.com/media/2bdc49cd6c7dec0856856c87c3fc26c9.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x04 O Palácio em Chamas
+http://www.megavideoupload.com/media/c9c2187a8a89f2826329eb61900740fb.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x04 LEG-TV O Palácio em Chamas
+http://www.megavideoupload.com/media/b6fa6dc2dfd6c69baf8c03cec4badd5c.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x03 Os Homens de Sempre
+http://www.megavideoupload.com/media/6bf5f9c056e4b581295fcb0bdda3fa89.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x03 LEG-TV Os Homens de Sempre
+http://www.megavideoupload.com/media/8699bf29c208ba048ca5209bc68a37c0.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x02 A Espada de Simón Bolívar
+http://www.megavideoupload.com/media/644ce3b020ab68c8d334e42433fad140.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x02 LEG-TV A Espada de Simón Bolívar
+http://www.megavideoupload.com/media/f3687657dbc6cc5af56ddea3d6963e21.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x01 A chegada
+http://www.megavideoupload.com/media/d93b537586ba15314e24122d7bf78f27.MP4?MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/j1jvdP" group-title="Narcos",Narcos 1x01 LEG-TV A chegada
+http://www.megavideoupload.com/media/d8e5003e20872556f5663f9cf91147e2.MP4?MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Olympus Legendado > ServidorOnSerieS2
@@ -5626,6 +5651,8 @@ http://playfreehd.com/media/ac55b03c5c453c0ef244affa53078109.MP4?MyFuckingTVShow
 	##The Last Ship Dublado/Legendado > ServidorOnSerieS2
 #EXTINF:-1 tvg-logo="https://goo.gl/steqQl" group-title="The Last Ship",The Last Ship 2x12 30/08/2015
 http://bit.ly/ONSeries?thelastship
+#EXTINF:-1 tvg-logo="https://goo.gl/steqQl" group-title="The Last Ship",The Last Ship 2x12 LEG-TV Cry Havoc
+http://www.megavideoupload.com/media/ab042b65cac54cc7aceecc7f54e49b94.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/steqQl" group-title="The Last Ship",The Last Ship 2x11 Valkyrie
 http://www.megavideoupload.com/media/df94c6e589585bc87720430f5bd23cc0.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/steqQl" group-title="The Last Ship",The Last Ship 2x11 LEG-TV Valkyrie
