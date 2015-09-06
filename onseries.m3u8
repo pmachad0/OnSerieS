@@ -2583,8 +2583,10 @@ http://goo.gl/sC6Zlk
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Extant Legendado > ServidorOnSerieS2
-#EXTINF:-1 tvg-logo="https://goo.gl/wYTIRG" group-title="Extant",Extant 2x11 02/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/wYTIRG" group-title="Extant",Extant 2x12 09/09/2015
 http://bit.ly/ONSeries?extant
+#EXTINF:-1 tvg-logo="https://goo.gl/wYTIRG" group-title="Extant",Extant 2x11 LEG-TV Zugzwang
+http://www.megavideoupload.com/media/6c310dee7d766aa8f6a6798b79534208.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/wYTIRG" group-title="Extant",Extant 2x10 LEG-TV Don't Shoot The Messenger
 http://www.megavideoupload.com/media/9c219bd4210230fab851b5f6af75adde.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/wYTIRG" group-title="Extant",Extant 2x09 LEG-TV The Other Side
@@ -4162,8 +4164,8 @@ http://goo.gl/qOdIxe
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Mr. Robot Legendado > ServidorOnSerieS2
-#EXTINF:-1 tvg-logo="https://goo.gl/S9PvSS" group-title="Mr. Robot",Mr. Robot 1x10 02/09/2015
-http://bit.ly/ONSeries?mrrobot
+#EXTINF:-1 tvg-logo="https://goo.gl/S9PvSS" group-title="Mr. Robot",Mr. Robot 1x10 LEG-TV _zer0-day.avi
+http://www.megavideoupload.com/media/417f440651a7a5699d7228bdf6afacc3.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/S9PvSS" group-title="Mr. Robot",Mr. Robot 1x09 LEG-TV _m1rr0r1ng.qt
 http://www.megavideoupload.com/media/fbd7258565fcd91151ea6ed039764171.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/S9PvSS" group-title="Mr. Robot",Mr. Robot 1x08 LEG-TV _wh1ter0se.m4v
@@ -4990,8 +4992,8 @@ http://pao.fairytaill.com/156/Salem/S01E01.MP4?MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Legendado > ServidorOnSerieS2
-#EXTINF:-1 tvg-logo="https://goo.gl/7GR2VD" group-title="Scream",Scream 1x10 01/09/2015 - Season Finale
-http://bit.ly/ONSeries?scream
+#EXTINF:-1 tvg-logo="https://goo.gl/7GR2VD" group-title="Scream",Scream 1x10 LEG-TV Revelations - Season Finale
+http://www.megavideoupload.com/media/c350569d2d5bc21d00a705933169fe8e.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/7GR2VD" group-title="Scream",Scream 1x09 LEG-TV The Dance
 http://www.megavideoupload.com/media/193fc2bd87aa872023122db1084f7dab.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/7GR2VD" group-title="Scream",Scream 1x08 LEG-TV Ghosts
