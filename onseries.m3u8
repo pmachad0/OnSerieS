@@ -4,6 +4,8 @@
 #PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" pltv-name="MyFuckingTVShows" pltv-description="Lista de séries para PlaylisTV/IPTV" pltv-cover="http://i.ytimg.com/vi/UoMYfrdAmV8/maxresdefault.jpg" pltv-author="PMachado" pltv-site="www.targa.me" pltv-email="pmachado@n5x.mobi" pltv-phone="0000000000"
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/MyFuckingTVShows",bit.ly/MyFuckingTVShows
 http://bit.ly/MyFuckingTVShows
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="#COMPARTILHE!!!",#COMPARTILHE!!!
+http://bit.ly/MyFuckingTVShows
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-MOB -> CELULAR(SD)",LEG-MOB -> CELULAR
 http://bit.ly/MyFuckingTVShows
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-TV -> TV(HD)",LEG-TV -> TV
@@ -32,6 +34,8 @@ http://bit.ly/MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/zGPkCL" group-title="Novas Series Adicionadas",Dublado HD
 http://bit.ly/MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/4s5HUJ" group-title="Novas Series Adicionadas",Dublado HD
+http://bit.ly/MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/O3mUT0" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -5159,6 +5163,15 @@ http://playfreehd.com/media/63d8ded0ab185b7a5d3a1c5dd5400b13.MP4?MyFuckingTVShow
 http://playfreehd.com/media/da9bafac12e47fcb836f10d703da142c.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/7GR2VD" group-title="Scream",Scream 1x01 LEG-TV Pilot
 http://playfreehd.com/media/5f4b42ac66c7088526a037b340a03238.MP4?MyFuckingTVShows
+####################################################################################################################################################
+####################################################################################################################################################
+	##Scream Queens Legendado > ServidorMyFuckingTVShows2
+#EXTINF:-1 tvg-logo="https://goo.gl/O3mUT0" group-title="Scream Queens",Scream Queens 1x02 22/09/2015
+http://bit.ly/MyFuckingTVShows?screamqueens
+#EXTINF:-1 tvg-logo="https://goo.gl/O3mUT0" group-title="Scream Queens",Scream Queens 1x01 22/09/2015
+http://bit.ly/MyFuckingTVShows?screamqueens
+#EXTINF:-1 tvg-logo="https://goo.gl/O3mUT0" group-title="Scream Queens",Scream Queens 1x00 LEG-TV Inside Look
+http://www.megavideoupload.com/media/3ec65bd0f12b687ecf5b8da230ddeba5.MP4?MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Sense 8 Legendado > ServidorMyFuckingTVShows
