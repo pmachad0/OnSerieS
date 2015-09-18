@@ -18,6 +18,10 @@ http://bit.ly/MyFuckingTVShows
 http://bit.ly/MyFuckingTVShows
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-TV -> TV(HD)",LEG-TV -> TV
 http://bit.ly/MyFuckingTVShows
+#EXTINF:0 tvg-logo="http://gw.ifsc.edu.br/site/images/2015/aviso_importante.jpg" group-title="SERVIDOR EM",SERVIDOR EM
+http://bit.ly/MyFuckingTVShows
+#EXTINF:0 tvg-logo="http://gw.ifsc.edu.br/site/images/2015/aviso_importante.jpg" group-title="MANUTENCAO",MANUTENCAO
+http://bit.ly/MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Novas Series Adicionadas
@@ -3193,6 +3197,8 @@ http://goo.gl/WjVOIk
 	##Fear The Walking Dead Dublado/Legendado > ServidorMyFuckingTVShows2
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 UPANDO
 https://bit.ly/MyFuckingTVShows?fear
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 The Dog
+http://www.megavideoupload.com/media/ac1e4e6c6d2ad941d68431a0fd225e71.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 LEG-TV The Dog
 http://www.megavideoupload.com/media/22a72111c27a487b6527adcb8e2e0be7.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x02 So Close Yet So Far
@@ -4201,6 +4207,8 @@ http://fab.fairytaill.com/156/Grimm/S01E01.MP4?MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Hannibal Legendado > 1ServidorRedeC LEGServidorMyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="Hannibal",Hannibal - Serie Cancelada
+http://bit.ly/MyFuckingTVShows?hannibal
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="Hannibal",Hannibal 3x13 LEG-MOB He Wrath of the Lamb - Season Finale
 http://pao.fairytaill.com/156/Hannibal/S03E13.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="Hannibal",Hannibal 3x12 LEG-MOB The Number of the Beast Is 666...
