@@ -81,6 +81,8 @@ http://bit.ly/MyFuckingTVShows
 http://bit.ly/MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/MyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Novas Series Adicionadas",2T Legendado HD
+http://bit.ly/MyFuckingTVShows
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##24 Horas Legendado > 
@@ -376,6 +378,8 @@ http://pao.fairytaill.com/156/Alcatraz/S01E01.MP4?alcatraz
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##As Visoes da Raven Dublado > ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/0OA6SO" group-title="As Visoes da Raven",As Visoes da Raven - Serie Cancelada
+http://bit.ly/MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/0OA6SO" group-title="As Visoes da Raven",As Visoes da Raven 4x22 Onde há Fumo
 http://goo.gl/XoaP0X
 #EXTINF:-1 tvg-logo="https://goo.gl/0OA6SO" group-title="As Visoes da Raven",As Visoes da Raven 4x21 Da Maneira que Nós Éramos
@@ -837,7 +841,7 @@ http://tet.fairytaill.com/156/American%20Horror%20Story/S01E01.MP4?MyFuckingTVSh
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Arrow Dublado/Legendado > DUBSrevidosEdge LEGServidorMyFuckingTVShows
-#EXTINF:-1 tvg-logo="https://goo.gl/GuC88L" group-title="Arrow",Arrow 4x01 7/10
+#EXTINF:-1 tvg-logo="https://goo.gl/GuC88L" group-title="Arrow",Arrow 4x01 07/10/2015
 http://bit.ly/MyFuckingTVShows?arrow
 #EXTINF:-1 tvg-logo="https://goo.gl/GuC88L" group-title="Arrow",Arrow 3x23 My name is Oliver Queen
 http://www.megavideoupload.com/media/8dfc65bc52d829db5ba6d5bc7df3c2be.MP4?MyFuckingTVShows
@@ -3453,6 +3457,10 @@ http://goo.gl/p8aTpi
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Gotham Dublado/Legendado > ServidorMyFuckingTVShows
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x02 28/09/2015
+http://bit.ly/MyFuckingTVShows?gotham
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x01 LEG-TV Damned If You Do
+http://megavideoupload.com/media/ad5763a84c0443e24fb00c4d86bf26c6.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 1x22 All Happy Families Are Alike
 http://www.megavideoupload.com/media/65244f3d62968b3221fe8d028a3a3950.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 1x22 LEG-MOB All Happy Families Are Alike
@@ -9145,6 +9153,7 @@ http://www.megavideoupload.com/media/0c2ff391b6b300f9bb2318590d4b8f5d.MP4?MyFuck
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x12 LEG-TV Incandescence
 http://www.megavideoupload.com/media/c5c84eff9efae42e729f0f02604d2340.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x11 Love is a Battlefield
+http://www.megavideoupload.com/media/1c0d75c74d8ffbcc0031f6300fdb68d0.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x11 LEG-TV Love is a Battlefield
 http://www.megavideoupload.com/media/516f540ff41339f06a69e29320a1fe8e.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x10 Legacy
@@ -9383,8 +9392,10 @@ http://playfreehd.com/media/20068e955a57e2bbbe7b2082dfcd1541.MP4?MyFuckingTVShow
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Zoo Legendado > ServidorMyFuckingTVShows2
-#EXTINF:-1 tvg-logo="https://goo.gl/bnFq0S" group-title="Zoo",Zoo 1x13 15/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/bnFq0S" group-title="Zoo",Zoo - Serie em pausa
 http://bit.ly/MyFuckingTVShows?zoo
+#EXTINF:-1 tvg-logo="https://goo.gl/bnFq0S" group-title="Zoo",Zoo 1x13 LEG-TV That Great a Big Hill of Hope
+http://megavideoupload.com/media/24926000c6a1f28fb69671c858a344dd.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/bnFq0S" group-title="Zoo",Zoo 1x11-12 LEG-TV Eats Shoots and Leaves/Wild Things
 http://www.megavideoupload.com/media/aaf1d51fa77fc518e7f1fd2a37c26490.MP4?MyFuckingTVShows
 #EXTINF:-1 tvg-logo="https://goo.gl/bnFq0S" group-title="Zoo",Zoo 1x10 LEG-TV Emotional Contagion
