@@ -93,6 +93,8 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9NVak0" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##24 Horas Legendado > 
@@ -6044,8 +6046,10 @@ http://pao.fairytaill.com/156/Sherlock/S01E00.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Significant Mother Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/RBDEQi" group-title="Significant Mother",Significant Mother 1x06 14/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/RBDEQi" group-title="Significant Mother",Significant Mother 1x07 21/09/2015
 https://bit.ly/ONSeries?significantmother
+#EXTINF:-1 tvg-logo="https://goo.gl/RBDEQi" group-title="Significant Mother",Significant Mother 1x06 LEG-TV Get Forked
+http://megavideoupload.com/media/a0ede87b2c3b76fae0125383a7176c35.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/RBDEQi" group-title="Significant Mother",Significant Mother 1x05 LEG-TV Suffering & Succotash
 http://www.megavideoupload.com/media/a67a371e2d31aa9727b4381135eed99d.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/RBDEQi" group-title="Significant Mother",Significant Mother 1x04 LEG-TV Edible Wrecks
@@ -7165,6 +7169,15 @@ http://pao.fairytaill.com/156/The%20100/S01E03.MP4?ONSeries
 http://pao.fairytaill.com/156/The%20100/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9mv0vc" group-title="The 100",The 100 1x01 LEG-MOB Pilot
 http://pao.fairytaill.com/156/The%20100/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##The Bastard Executioner Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x03 22/09/2015
+http://bit.ly/ONSeries?thebastardexecutioner
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x02 LEG-MOB Pilot - Part 2
+http://megavideoupload.com/media/135010989ec1a228a236cf5eb5aa8182.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x01 LEG-MOB Pilot - Part 1
+http://megavideoupload.com/media/1373098ace200f6d36e01b3b8ae20c33.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Big Bang Theory Dublado > ServidorONSeries
@@ -9108,7 +9121,8 @@ http://playfreehd.com/media/d6343ecb1a6dda96e5ec4bb798e2c5e9.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x07 Whatever It Takes
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x07 LEG-TV Whatever It Takes
 http://playfreehd.com/media/48b5abfaa9ceb30a6c10ef5860ea2baa.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x06 The Archer 
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x06 The Archer
+http://megavideoupload.com/media/15074b21d3775856c1cf3c05ec32bc2f.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x06 LEG-TV The Archer 
 http://playfreehd.com/media/53e57b0631c52c7442a13ab78d9fa2f7.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x05 What Lies Beneath
@@ -10216,8 +10230,10 @@ http://playfreehd.com/media/8902b8eee858af453cf9c1a100faa779.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Z Nation Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x02 18/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x03 25/09/2015
 http://bit.ly/ONSeries?znation
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x02 LEG-TV White Light 
+http://megavideoupload.com/media/842b457ace3293ef02ebee4114827c75.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x01 LEG-TV The Murphy
 http://www.megavideoupload.com/media/30597c865f5812ffd03b5ba6060be111.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 1x13 Doctor of the Dead
