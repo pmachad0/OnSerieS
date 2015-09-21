@@ -2518,6 +2518,8 @@ http://tet.fairytaill.com/156/Constantine/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Continuum Legendado/Dublado > 1,2ServidorRedeC > 3wb5
+#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 4x01 11/07/2015
+http://bit.ly/ONSeries?continuum
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 3x13 Último Momento
 http://www.megavideoupload.com/media/1817ce22d8b218427a5125a5190b8bb6.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 3x12 Os Minutos Finais
@@ -3660,6 +3662,8 @@ http://tet.fairytaill.com/156/Gotham/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Grey's Anatomy Legendado > 10,11 wb5
+#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 12x01 24/07/2015
+http://bit.ly/ONSeries?greysanatomy
 #EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x24 LEG-TV You're My Home
 http://r14---sn-bg07yn7s.googlevideo.com/videoplayback?id=97737ea85c6dea54&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753054&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=795038D2115B430AD4AEE29C4DDEC9946229270C.66959F06D1748CD12C59BC0F9EE13BA166798A60&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605532&mv=m&pl=20
 #EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x23 LEG-TV Time Stops
@@ -4976,6 +4980,8 @@ http://playfreehd.com/media/30856fa3fb6883e9b79efa5e0263500c.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##iZombie Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x01 06/10/2015
+http://bit.ly/ONSeries?izombie
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x13 LEG-MOB Blaine’s World
 http://fab.fairytaill.com/156/iZombie/S01E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x12 LEG-MOB Dead Rat Live Rat Brown Rat White Rat
@@ -6059,6 +6065,8 @@ http://www.megavideoupload.com/media/f24755e68fd43b7d7060eaa7f3d05ca9.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Sleepy Hollow Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 3x01 01/10/2015
+http://bit,ly/ONSeries?sleepyhollow
 #EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 2x18 LEG-MOB Tempus Fugit
 http://fab.fairytaill.com/156/Sleepy%20Hollow/S02E18.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 2x17 LEG-MOB Awakening
@@ -6384,7 +6392,7 @@ http://fab.fairytaill.com/156/Supergirl/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 	##Supernatural Dublado/Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x01 07/10/2015
-http://bit.ly/ONSeries
+http://bit.ly/ONSeries?supernatural
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 10x23 Brother’s Keeper
 http://www.megavideoupload.com/media/1dd6028a83a641ecb6dc5d1243a8f8f4.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 10x23 LEG-MOB Brother’s Keeper
@@ -7591,6 +7599,8 @@ http://playfreehd.com/media/928df839d797b0007e0d18dac47ee550.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Flash Legendado/Dublado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x01 06/10/2015
+http://nit.ly/ONSeries?theflash
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 1x23 Fast Enough
 http://www.megavideoupload.com/media/69063b239de91e62dbcbd546402370c1.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 1x23 LEG-MOB Fast Enough
