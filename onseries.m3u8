@@ -2,7 +2,7 @@
 ####################################################################################################################################################
 ####################################################################################################################################################
 #PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" pltv-name="ONSeries" pltv-description="Lista de séries para PlaylisTV/IPTV" pltv-cover="http://i.ytimg.com/vi/UoMYfrdAmV8/maxresdefault.jpg" pltv-author="PMachado" pltv-site="www.targa.me" pltv-email="pmachado@n5x.mobi" pltv-phone="0000000000"
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/ONSeries",bit.ly/ONSeries
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/MyFuckingTVShows",bit.ly/MyFuckingTVShows
 http://bit.ly/ONSeries
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/ONSeries",bit.ly/ONSeries
 http://bit.ly/ONSeries
