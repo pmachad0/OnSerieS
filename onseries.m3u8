@@ -21,38 +21,6 @@ http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Novas Series Adicionadas
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Novas Series Adicionadas",Dublado/Legendado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Novas Series Adicionadas",Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Novas Series Adicionadas",Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Novas Series Adicionadas",Dublado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Novas Series Adicionadas",3T Dublado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Novas Series Adicionadas",10T Dublado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/ewNiEo" group-title="Novas Series Adicionadas",3T Dublado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="Novas Series Adicionadas",Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="Novas Series Adicionadas",6/7/8T Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Novas Series Adicionadas",Dublado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Novas Series Adicionadas",Dublado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Novas Series Adicionadas",Legendado HD
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="Novas Series Adicionadas",1/2/3T Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/GkbVY2" group-title="Novas Series Adicionadas",Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Novas Series Adicionadas",Legendado MOB
-http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/ZQBfr7" group-title="Novas Series Adicionadas",8/9/10T Legendado MOB
-http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/6jMh7Y" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/6ibEnq" group-title="Novas Series Adicionadas",Legendado MOB
@@ -91,9 +59,13 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="Novas Series Adicionadas",9T Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##24 Horas Legendado > 
+	##24 Horas Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24 Horas",24 Horas 4x01 UPANDO
 http://bit.ly/ONSeries?24horas
 #EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24 Horas",24 Horas 3x24 LEG-MOB – Day 3: 12:00 P.M.-1:00 P.M. – Season Finale
@@ -3309,8 +3281,12 @@ http://goo.gl/WjVOIk
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Fear The Walking Dead Dublado/Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 UPANDO
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 27/09/2015
 https://bit.ly/ONSeries?fear
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 Not Fade Awa
+http://megavideoupload.com/media/1728db076e2e5808f168c9ec57a78f4e.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 LEG-TV Not Fade Awa
+http://megavideoupload.com/media/cf3b2570b939a7500b41a6021547f51c.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 The Dog
 http://www.megavideoupload.com/media/ac1e4e6c6d2ad941d68431a0fd225e71.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 LEG-TV The Dog
@@ -3326,8 +3302,10 @@ http://www.megavideoupload.com/media/faf4517a37f51810c0f63b65063ef71f.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##From Dusk Till Dawn: The Series Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x04 UPANDO
+#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x05 22/09/2015
 http://bit.ly/ONSeries?fromdusktill
+#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x04 LEG-MOB The Best Little Horror House in Texas
+http://fab.fairytaill.com/156/From%20Dusk%20Till%20Dawn/S02E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x03 LEG-MOB Attack of the 50 Ft. Sex Machine
 http://tet.fairytaill.com/156/From%20Dusk%20Till%20Dawn/S02E03.MP4?fromdusktill
 #EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x02 LEG-MOB In a Dark Time
@@ -5008,6 +4986,13 @@ http://fab.fairytaill.com/156/iZombie/S01E03.MP4?ONSeries
 http://fab.fairytaill.com/156/iZombie/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x01 LEG-MOB Pilot
 http://fab.fairytaill.com/156/iZombie/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##Limitless Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x02 29/09/2015
+http://bit.ly/ONSeries?limitless
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x01 LEG-TV Pilot
+http://megavideoupload.com/media/97620044b7cba2afb3a3eb17ebdfa927.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Lucifer Legendado > wb5
@@ -7185,8 +7170,10 @@ http://megavideoupload.com/media/1373098ace200f6d36e01b3b8ae20c33.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Big Bang Theory Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="The Big Bang Theory",The Big Bang Theory 9x01 21/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="The Big Bang Theory",The Big Bang Theory 9x02 28/09/2015
 http://bit.ly/ONSeries?thebigbang
+#EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-MOB The Matrimonial Momentum
+http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="The Big Bang Theory",The Big Bang Theory 8x24 LEG-MOB The Commitment Determination
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QnoJMv" group-title="The Big Bang Theory",The Big Bang Theory 8x23 LEG-MOB The Maternal Combustion
@@ -8645,7 +8632,7 @@ http://goo.gl/f0P1Fa
 http://fab.fairytaill.com/156/The%20Strain/S02E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x12 27/09/2015
 http://fab.fairytaill.com/156/The%20Strain/S02E12.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x11 20/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x11 LEG-MOB Dead End
 http://fab.fairytaill.com/156/The%20Strain/S02E11.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x10 LEG-MOB The Assassin
 http://fab.fairytaill.com/156/The%20Strain/S02E10.MP4?ONSeries
