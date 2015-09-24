@@ -65,6 +65,8 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XEtVkr" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##24 Horas Legendado > ServidorONSeries
@@ -1499,6 +1501,13 @@ http://pao.fairytaill.com/156/Black%20Sails/S01E03.MP4?blacksails
 http://pao.fairytaill.com/156/Black%20Sails/S01E02.MP4?blacksails
 #EXTINF:-1 tvg-logo="https://goo.gl/3aD49Q" group-title="Black Sails",Black Sails 1x01 LEG-MOB I
 http://pao.fairytaill.com/156/Black%20Sails/S01E01.MP4?blacksails
+####################################################################################################################################################
+####################################################################################################################################################
+	##Blindspot Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x02 28/09/2015
+http://bit.ly/ONSeries?blindspot
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x01 LEG-TV 28/09/2015
+http://www.megavideoupload.com/media/3415572440530dafaf909ca55d0750d0.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Bloodline Legendado > ServidorONSeries
@@ -5980,10 +5989,10 @@ http://playfreehd.com/media/5f4b42ac66c7088526a037b340a03238.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Queens Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x02 22/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x03 29/09/2015
 http://bit.ly/ONSeries?screamqueens
-#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x01 22/09/2015
-http://bit.ly/ONSeries?screamqueens
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x01-2 LEG-TV Pilot/Hell Week
+http://megavideoupload.com/media/8708882147780637b07c5a41cbcb491f.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x00 LEG-TV Inside Look
 http://www.megavideoupload.com/media/3ec65bd0f12b687ecf5b8da230ddeba5.MP4?ONSeries
 ####################################################################################################################################################
