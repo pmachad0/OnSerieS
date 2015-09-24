@@ -2491,9 +2491,15 @@ http://tet.fairytaill.com/156/Constantine/S01E02.MP4?ONSeries
 http://tet.fairytaill.com/156/Constantine/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Continuum Legendado/Dublado > 1,2ServidorRedeC > 3wb5
-#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 4x01 11/07/2015
+	##Continuum Legendado/Dublado > ServidorRedeC ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 4x04 25/09/2015
 http://bit.ly/ONSeries?continuum
+#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 4x03 LEG-TV Power Hour
+http://megavideoupload.com/media/d6ef13c36c2e6471e7239c4f2e22161c.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 4x02 LEG-TV Rush Hour
+http://www.megavideoupload.com/media/0755cc76ad688e07c4aff7011b37aa67.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 4x01 LEG-TV Lost Hours
+http://www.megavideoupload.com/media/266c332d4673fceff2e5751889e1a829.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 3x13 Último Momento
 http://www.megavideoupload.com/media/1817ce22d8b218427a5125a5190b8bb6.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="Continuum",Continuum 3x12 Os Minutos Finais
