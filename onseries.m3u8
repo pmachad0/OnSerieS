@@ -77,6 +77,8 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sCje0h" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Novas Series Adicionadas",2T Legendado HD
+http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/mKw9Np" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
 ####################################################################################################################################################
@@ -3149,8 +3151,10 @@ http://goo.gl/sC6Zlk
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Empire Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x01 23/09/1015
+#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x02 30/09/1015
 http://bit.ly/ONSeries?empire
+#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x01 LEG-TV The Devils Are Here
+http://www.megavideoupload.com/media/5b86a802b1f99af23eecb4539df33bb9.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 1x12 LEG-MOB Who I Am
 http://pao.fairytaill.com/156/Empire/S01E12.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 1x11 LEG-MOB Die But Once
