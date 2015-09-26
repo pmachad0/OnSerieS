@@ -49,7 +49,7 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/l7bZiJ" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
@@ -61,7 +61,7 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="Novas Series Adicionadas",9T Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="Novas Series Adicionadas",9T Legendado MOB
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XEtVkr" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
@@ -80,6 +80,12 @@ http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Novas Series Adicionadas",2T Legendado HD
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/mKw9Np" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/n0o1Qx" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -4967,6 +4973,13 @@ http://pao.fairytaill.com/156/House%20of%20Cards/S01E02.MP4?ONSeries
 http://pao.fairytaill.com/156/House%20of%20Cards/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##How to Get Away with Murder Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 1x02 01/10/2015
+http://bit.ly/ONSeries?howtogetaway
+#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 1x01 LEG-TV It's Time to Move On
+http://www.megavideoupload.com/media/66bf31b388ca0ba608a6f9f52ef991c8.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Humans Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x08 LEG-TV Episódio 8 – Season Finale
 http://playfreehd.com/media/44985032febf5c1d520bda8b240b8712.MP4?ONSeries
@@ -6074,6 +6087,13 @@ http://pao.fairytaill.com/156/Salem/S01E03.MP4?ONSeries
 http://pao.fairytaill.com/156/Salem/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/yl1aTb" group-title="Salem",Salem 1x01 LEG-MOB The Vow
 http://pao.fairytaill.com/156/Salem/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##Scorpion Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 1x02 28/09/2015
+http://bit.ly/ONSeries?scorpion
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 1x01 LEG-TV Satellite of Love
+http://www.megavideoupload.com/media/7ae87260c26349dc2429797e5cf62ce9.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Legendado > ServidorONSeries2
@@ -7347,153 +7367,153 @@ http://megavideoupload.com/media/1373098ace200f6d36e01b3b8ae20c33.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Big Bang Theory Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 9x02 28/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x02 28/09/2015
 http://bit.ly/ONSeries?thebigbang
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-MOB The Matrimonial Momentum
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-MOB The Matrimonial Momentum
 http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x24 LEG-MOB The Commitment Determination
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x24 LEG-MOB The Commitment Determination
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E24.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x23 LEG-MOB The Maternal Combustion
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x23 LEG-MOB The Maternal Combustion
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E23.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x22 LEG-MOB The Graduation Transmission
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x22 LEG-MOB The Graduation Transmission
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E22.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x21 LEG-MOB The Communication Deterioration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x21 LEG-MOB The Communication Deterioration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E21.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x20 LEG-MOB The Fortification Implementation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x20 LEG-MOB The Fortification Implementation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E20.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x19 LEG-MOB The Skywalker Incursion
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x19 LEG-MOB The Skywalker Incursion
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E19.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x18 LEG-MOB The Leftover Thermalization
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x18 LEG-MOB The Leftover Thermalization
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E18.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x17 LEG-MOB The Colonization Application
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x17 LEG-MOB The Colonization Application
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E17.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x16 LEG-MOB The Intimacy Acceleration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x16 LEG-MOB The Intimacy Acceleration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E16.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x15 LEG-MOB The Comic Book Store Regeneration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x15 LEG-MOB The Comic Book Store Regeneration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E15.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x14 LEG-MOB The Troll Manifestation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x14 LEG-MOB The Troll Manifestation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E14.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x13 LEG-MOB The Anxiety Optimization
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x13 LEG-MOB The Anxiety Optimization
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E13.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x12 LEG-MOB The Space Probe Disintegration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x12 LEG-MOB The Space Probe Disintegration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E12.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x11 LEG-MOB The Clean Room Infiltration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x11 LEG-MOB The Clean Room Infiltration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E11.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x10 LEG-MOB The Champagne Reflection
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x10 LEG-MOB The Champagne Reflection
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E10.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x09 LEG-MOB The Septum Deviation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x09 LEG-MOB The Septum Deviation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E09.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x08 LEG-MOB The Prom Equivalency
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x08 LEG-MOB The Prom Equivalency
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E08.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x07 LEG-MOB The Misinterpretation Agitation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x07 LEG-MOB The Misinterpretation Agitation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E07.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x06 LEG-MOB The Expedition Approximation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x06 LEG-MOB The Expedition Approximation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E06.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x05 LEG-MOB The Focus Attentuation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x05 LEG-MOB The Focus Attentuation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E05.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x04 LEG-MOB The Hook-Up Reverberation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x04 LEG-MOB The Hook-Up Reverberation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E04.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x03 LEG-MOB The First Pitch Insufficiency
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x03 LEG-MOB The First Pitch Insufficiency
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E03.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x02 LEG-MOB The Junior Professor Solution
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x02 LEG-MOB The Junior Professor Solution
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E02.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 8x01 LEG-MOB The Locomotion Interruption
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x01 LEG-MOB The Locomotion Interruption
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x24 LEG-MOB The Status Quo Combustion
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x24 LEG-MOB The Status Quo Combustion
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E24.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x23 LEG-MOB The Gorilla Dissolution
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x23 LEG-MOB The Gorilla Dissolution
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E23.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x22 LEG-MOB The Proton Transmogrification
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x22 LEG-MOB The Proton Transmogrification
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E22.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x21 LEG-MOB The Anything Can Happen Recurrence
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x21 LEG-MOB The Anything Can Happen Recurrence
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E21.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x20 LEG-MOB The Relationship Diremption
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x20 LEG-MOB The Relationship Diremption
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E20.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x19 LEG-MOB The Indecision Amalgamation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x19 LEG-MOB The Indecision Amalgamation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E19.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x18 LEG-MOB The Mommy Observation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x18 LEG-MOB The Mommy Observation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E18.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x17 LEG-MOB The Friendship Turbulence
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x17 LEG-MOB The Friendship Turbulence
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E17.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x16 LEG-MOB The Table Polarization
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x16 LEG-MOB The Table Polarization
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E16.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x15 LEG-MOB The Locomotive Manipulation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x15 LEG-MOB The Locomotive Manipulation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E15.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x14 LEG-MOB The Convention Conundrum
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x14 LEG-MOB The Convention Conundrum
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E14.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x13 LEG-MOB The Occupation Recalibration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x13 LEG-MOB The Occupation Recalibration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E13.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x12 LEG-MOB The Hesitation Ramification
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x12 LEG-MOB The Hesitation Ramification
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E12.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x11 LEG-MOB The Cooper Extraction
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x11 LEG-MOB The Cooper Extraction
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E11.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x10 LEG-MOB The Discovery Dissipation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x10 LEG-MOB The Discovery Dissipation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E10.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x09 LEG-MOB The Thanksgiving Decoupling
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x09 LEG-MOB The Thanksgiving Decoupling
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E09.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x08 LEG-MOB The Itchy Brain Simulation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x08 LEG-MOB The Itchy Brain Simulation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E08.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x07 LEG-MOB The Proton Displacement
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x07 LEG-MOB The Proton Displacement
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E07.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x06 LEG-MOB The Romance Resonance
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x06 LEG-MOB The Romance Resonance
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E06.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x05 LEG-MOB The Workplace Proximity
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x05 LEG-MOB The Workplace Proximity
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E05.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x04 LEG-MOB The Raiders Minimization
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x04 LEG-MOB The Raiders Minimization
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E04.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x03 LEG-MOB The Scavenger Vortex
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x03 LEG-MOB The Scavenger Vortex
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E03.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x02 LEG-MOB The Deception Verification
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x02 LEG-MOB The Deception Verification
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E02.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 7x01 LEG-MOB The Hofstadter Insufficiency
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 7x01 LEG-MOB The Hofstadter Insufficiency
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S07E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x24 LEG-MOB The Bon Voyage Reaction
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x24 LEG-MOB The Bon Voyage Reaction
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E24.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x23 LEG-MOB The Love Spell Potential
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x23 LEG-MOB The Love Spell Potential
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E23.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x22 LEG-MOB The Proton Resurgence
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x22 LEG-MOB The Proton Resurgence
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E22.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x21 LEG-MOB The Closure Alternative
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x21 LEG-MOB The Closure Alternative
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E21.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x20 LEG-MOB The Tenure Turbulence
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x20 LEG-MOB The Tenure Turbulence
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E20.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x19 LEG-MOB The Closet Reconfiguration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x19 LEG-MOB The Closet Reconfiguration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E19.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x18 LEG-MOB The Contractual Obligation Implementation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x18 LEG-MOB The Contractual Obligation Implementation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E18.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x17 LEG-MOB The Monster Isolation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x17 LEG-MOB The Monster Isolation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E17.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x16 LEG-MOB The Tangible Affection Proof
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x16 LEG-MOB The Tangible Affection Proof
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E16.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x15 LEG-MOB The Spoiler Alert Segmentation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x15 LEG-MOB The Spoiler Alert Segmentation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E15.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x14 LEG-MOB The Cooper/Kripke Inversion
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x14 LEG-MOB The Cooper/Kripke Inversion
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E14.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x13 LEG-MOB The Bakersfield Expedition
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x13 LEG-MOB The Bakersfield Expedition
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E13.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x12 LEG-MOB The Egg Salad Equivalency
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x12 LEG-MOB The Egg Salad Equivalency
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E12.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x11 LEG-MOB The Santa Simulation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x11 LEG-MOB The Santa Simulation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E11.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x10 LEG-MOB The Fish Guts Displacement
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x10 LEG-MOB The Fish Guts Displacement
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E10.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x09 LEG-MOB The Parking Spot Escalation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x09 LEG-MOB The Parking Spot Escalation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E09.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x08 LEG-MOB The 43 Peculiarity
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x08 LEG-MOB The 43 Peculiarity
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E08.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x07 LEG-MOB The Habitation Configuration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x07 LEG-MOB The Habitation Configuration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E07.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x06 LEG-MOB The Extract Obliteration
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x06 LEG-MOB The Extract Obliteration
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E06.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x05 LEG-MOB The Holographic Excitation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x05 LEG-MOB The Holographic Excitation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E05.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x04 LEG-MOB The Re-Entry Minimization
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x04 LEG-MOB The Re-Entry Minimization
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E04.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x03 LEG-MOB The Higgs Boson Observation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x03 LEG-MOB The Higgs Boson Observation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E03.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x02 LEG-MOB The Decoupling Fluctuation
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x02 LEG-MOB The Decoupling Fluctuation
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E02.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3ER7uu" group-title="The Big Bang Theory",The Big Bang Theory 6x01 LEG-MOB The Date Night Variable
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 6x01 LEG-MOB The Date Night Variable
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S06E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/vj7jt2" group-title="The Big Bang Theory",The Big Bang Theory 5x24 LEG-MOG The Countdown Reflection
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S05E24.MP4?ONSeries
@@ -8847,6 +8867,13 @@ http://goo.gl/3IiH4a
 http://goo.gl/UkrIku
 #EXTINF:-1 tvg-logo="https://goo.gl/whZjjC" group-title="The O.C Um Estranho no Paraiso",The O.C Um Estranho no Paraiso 1x01 Piloto
 http://goo.gl/f0P1Fa
+####################################################################################################################################################
+####################################################################################################################################################
+	##The Player Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/n0o1Qx" group-title="The Player",The Player 1x02 Ante Up
+http://bit.ly/ONSeries?theplayer
+#EXTINF:-1 tvg-logo="https://goo.gl/n0o1Qx" group-title="The Player",The Player 1x01 LEG-TV Pilot
+http://www.megavideoupload.com/media/d2cf1dda7216f67f142e9ad19f94c455.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Strain Legendado > ServidorONSeries
