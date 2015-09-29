@@ -67,9 +67,17 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FkhUfC" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/gS69o5" group-title="Novas Series Adicionadas",2T Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/5Lp2Ao" group-title="Novas Series Adicionadas",5T Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##100 Code Legendado > ServidorONSeries
+	##100 Code Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code",100 Code 2x01 EM 2016
 http://bit.ly/ONSeries?100code
 #EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code",100 Code 1x12 LEG-TV Everytime You Think You’re Winning - Season Finale
@@ -3382,8 +3390,10 @@ http://goo.gl/WjVOIk
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Fear The Walking Dead Dublado/Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 27/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 04/10/2015
 https://bit.ly/ONSeries?fear
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 LEG-TV Cobalt
+http://www.megavideoupload.com/media/9059ceb686bd0620a5c6c41864f6109c.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 Not Fade Awa
 http://megavideoupload.com/media/1728db076e2e5808f168c9ec57a78f4e.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 LEG-TV Not Fade Awa
@@ -3745,104 +3755,10 @@ http://tet.fairytaill.com/156/Gotham/S01E01.MP4?ONSeries
 http://bit.ly/ONSeries?greysanatomy
 #EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 12x01 LEG-TV Sledgehammer
 http://www.megavideoupload.com/media/df613b1545827be2fe476788584e5981.MP4?ONSeries
-
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x24 LEG-TV You're My Home
-http://r14---sn-bg07yn7s.googlevideo.com/videoplayback?id=97737ea85c6dea54&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753054&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=795038D2115B430AD4AEE29C4DDEC9946229270C.66959F06D1748CD12C59BC0F9EE13BA166798A60&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605532&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x23 LEG-TV Time Stops
-http://r16---sn-bg07yn7l.googlevideo.com/videoplayback?id=77583b039bdf7db6&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753073&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=59EFD03E7C1C7A6912ABB73BBD6CC6C0CC3A88F3.6ECB72DDAF45D88319EB4D68220BE52EAD4FBDC4&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605532&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x22 LEG-TV She's Leaving Home
-http://r5---sn-bg07dnle.googlevideo.com/videoplayback?id=602a3f22eb7b2113&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753072&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=632A7FEB06BA888E4476F8BCE665E70B166D59D0.4BAA00173C11344B0341B820A2BE2D578478F233&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439605532&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x21 LEG-TV How to Save a Life
-http://r12---sn-bg07yn7z.googlevideo.com/videoplayback?id=4edf56f7101a6605&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753067&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6B9E29C47A556F3BA48F2CF0CB71CA8F47C703DA.2E554F5C75CA452B68C66BB5A2E7458F29565584&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605532&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x20 LEG-TV One Flight Down
-http://r19---sn-bg07yn7l.googlevideo.com/videoplayback?id=0936272c83d5af53&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753059&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=7CC09502F9B1F3F527F84FF885FF51C5486EFA90.1DB513913D891D4E46BC818EAF933DDF74EF5DA8&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605532&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x19 LEG-TV Crazy Love
-http://r5---sn-bg07dnll.googlevideo.com/videoplayback?id=ceccec53991fd9e5&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753200&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=25226BE3111416DEBAF2F3656A838F98733E1786.5F3AC48B0462917F992C0CDA8DABBF84D530A25F&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x18 LEG-TV When I Grow Up
-http://r3---sn-bg07yn7l.googlevideo.com/videoplayback?id=17f4947572a56c93&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753197&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=27BE26B37156EA538367F07B292E50E9972F5D6D.377655E8860E1CC3A56A9BE0FF6482F34BB2ED28&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x17 LEG-TV With or Without You
-http://r3---sn-bg07yn7z.googlevideo.com/videoplayback?id=de115cc6dabe0f2d&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753194&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=29A2A4E6157FC2354DF5A29601CE90069D57DE8C.7EBF7D257A81BC1BBBB3F738AE99079365CD77DB&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x16 LEG-TV Don't Dream It's Over
-http://r5---sn-bg07dnll.googlevideo.com/videoplayback?id=47bde62498843b03&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753192&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=46CCB356F6C0E905F30CF7057EDCF1430443444F.0D078BB18B70C46DC19851DB403A95C6F5FF38DF&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x15 LEG-TV I Feel the Earth Move
-http://r6---sn-bg07dnll.googlevideo.com/videoplayback?id=3092af55fbea88fe&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753189&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6636872E0EBA9AD41E89DE0C51AB06338035AD19.80BAA65437E6A211E86A2C4DE35F1674080BA310&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x14 LEG-TV The Distance
-http://r3---sn-bg07yn7z.googlevideo.com/videoplayback?id=b202c772c0c21d62&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753187&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=80F627F282CFC003F2ADBD1B8EFEBD9A5C0CA59B.5B4241FD5E6C6B4D5EE31355955047C3ABF607E1&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x13 LEG-TV Staring at the End
-http://r1---sn-bg07yn7e.googlevideo.com/videoplayback?id=7ceb6647a65a6dee&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753185&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5C286A6E7DCC25BB67855B1E2F0F8224C2ACC845.7DE6CFFF2843CE4C57E658E503AC8DF47909FD01&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x12 LEG-TV The Great Pretender
-http://r16---sn-bg07yn7e.googlevideo.com/videoplayback?id=324cb7e3cf72095f&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753182&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=513983986DB14A091AA083CAC82A76B4D0089B23.3BDB503F063D306A991795384D579DDAD1342526&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x11 LEG-TV All I Could Do Was Cry
-http://r3---sn-bg07dnll.googlevideo.com/videoplayback?id=787803435f4b1a7e&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753179&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=04DF0A9125B2149A5D01E74DB95A70673CF69833.47E7217C4C3ABFDABF59FE942E5678FAC691C299&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x10 LEG-TV The Bed's Too Big Without You
-http://r6---sn-bg07dnle.googlevideo.com/videoplayback?id=382dfe0beca69093&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753178&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=017641F5712B94E2552F081A65825E623A60F6F3.372C18C22188106378C4B796F1030F1F2CCD443D&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x09 LEG-TV Where Do We Go From Here
-http://r1---sn-bg07yn7z.googlevideo.com/videoplayback?id=7d6abb17d1eb826b&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753176&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=49471AE6E69CF20A3C54C183BD92993B3F1B5247.71003DBDFBCA9FB0854A96FC03050DA81B23FFC1&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x08 LEG-TV Risk
-http://r3---sn-bg07yn7z.googlevideo.com/videoplayback?id=f5890ba6537c8378&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753174&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=68674CE9FAD41DA2A0E953B2687589450E8F2215.2B9BEE8A0922540467AA9E4D785E47D03421B3B3&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x07 LEG-TV Can We Start Again Please?
-http://r20---sn-bg07yn7s.googlevideo.com/videoplayback?id=e7764f49a5070b87&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753172&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=79ABBFDE9BD538971B329D319EFAEC52B116A97E.82C15B0C66591A280E4D1E8D5D1B70585B8B14BC&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x06 LEG-TV Don't Let's Start
-http://r4---sn-bg07yn7z.googlevideo.com/videoplayback?id=5ba6f26ba316be72&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753169&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=7CF068CA465CFCB54C4E993C7D116E4441B70CAC.2B14EA5620BAF37A7D9BFBDEE257D9FF26D60BA5&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x05 LEG-TV Bend and Break
-http://r9---sn-bg07yn7l.googlevideo.com/videoplayback?id=7b2a9fa42060e202&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753166&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=591CD3062790E728C3980A1D71401B9B2359994A.0DF17D3CAEA6AEE4223B9E3F2EF9519E113D97AF&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605663&mv=m&pl=20&ir=1&rr=12
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x04 LEG-TV Only Mama Knows
-http://r1---sn-bg07dnle.googlevideo.com/videoplayback?id=91638d175476fb56&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753164&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=587F19FD6F811563EA87167D579D1ACC5E0C3173.6A833F74E87F160C8AEFCD63A35EEE6AD520C1DE&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439605663&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x03 LEG-TV Got to Be Real
-http://r5---sn-bg07yn7s.googlevideo.com/videoplayback?id=001abb957caa1341&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753159&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=30EC3673068EC017F619D6FFFFE77C0148EA8D6D.0BDEEDCC22A6257D76FA17336980DB2272D5F532&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605596&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x02 LEG-TV Puzzle with a Missing Piece
-http://r4---sn-bg07dnle.googlevideo.com/videoplayback?id=f095a16595cca22c&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753154&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=0A128540B903F4AD36865A206E0EEA97BB849FC4.04CEB503B3C35D3FC7C005F1BD146EBC7EAE87DB&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439605596&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11x01 LEG-TV I Must Have Lost It on the Wind
-http://r12---sn-bg07yn7z.googlevideo.com/videoplayback?id=323c3c0a99e9781b&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441753150&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=16A6129964D46CCAAD583547DACAC991586ADA04.0567B58533FA65F987CC7263A81A42E906C1C61B&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605596&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x24 LEG-TV Fear
-http://r5---sn-bg07dnle.googlevideo.com/videoplayback?id=0bc61006498964b6&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752940&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=83BDE147DCC0FDECC486A7C803F3890EA560ADF3.288B0033F73750564C27F7B4EA40F97A18AF329F&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x23 LEG-TV Everything I Try to Do Nothing Seems to Turn Out Right
-http://r14---sn-bg07yn7e.googlevideo.com/videoplayback?id=2c0eb7b436930741&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752939&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=46D35E81FE76631B45A875B105D0D7B1728075E1.3EC9AF24417E133FA66D1333B611B811634E3032&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x22 LEG-TV We Are Never Getting Back Together
-http://r6---sn-bg07dnll.googlevideo.com/videoplayback?id=e3edd0170e9b02dc&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752935&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5C07533B2213F616903E76FAE97E03F7FDBF569E.67FFE65CE870CBA5F8DA1E8D7A62596A761FB7AA&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x21 LEG-TV Change of Heart
-http://r13---sn-bg07yn7e.googlevideo.com/videoplayback?id=3da72b27f30ae9af&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752933&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=4DA75B68F22D81C5F692E41293136FD1D15EBA2A.616A6B98C74008AAD87FECF15668890379BEA87D&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x20 LEG-TV Go It Alone
-http://r15---sn-bg07yn7s.googlevideo.com/videoplayback?id=3321f0b42fbe35f5&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752930&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5289848F2088D3294F06738CEF74FB97BC12BF67.0B3C4E0B2FBF43BE1A011C5FEB275CECA1009953&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x19 LEG-TV I’m Winning
-http://r11---sn-bg07yn7e.googlevideo.com/videoplayback?id=8fef77614a80c0b9&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752928&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=1DCBEDFDFA72FF77F7EA62BFFD686860A750BD80.1551A9869654303AE1433A42298F5875DCCEC718&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x18 LEG-TV You Be Illin
-http://r11---sn-bg07yn7s.googlevideo.com/videoplayback?id=520707d526e6d623&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752925&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=0A25BC3C424A5CDB4C6AE2E2B88C8CA725BA3B4D.30D409B0920518B5E1934D68CA79EE73D8CA8FF0&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x17 LEG-TV Do You Know?
-http://r11---sn-bg07yn7s.googlevideo.com/videoplayback?id=62e952c4fb1b1f0a&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752922&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6E5BEA4284FD31684E451B05C3AE6A6CAFCFC20F.2E90C79C57246C67645C13391E2F95153EF18970&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x16 LEG-TV We Gotta Get Out Of This Place
-http://r17---sn-bg07yn7l.googlevideo.com/videoplayback?id=d2a5222f515e17da&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752919&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=51D1957946CD95446903D5AF98A8C15735718E21.36D4C5EA230CDD38716F9CE18AD1E1DCCF95108F&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x15 LEG-TV Throwing it All Away
-http://r15---sn-bg07yn7z.googlevideo.com/videoplayback?id=66b90a2f487bc97d&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752917&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=0A8FB4BCBFFA79998ED4DC497C9E11EF9C2B2F9F.6085043CA0C0B6B5E42A55520CEFB34C4F7E988B&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x14 LEG-TV You Got to Hide Your Love Away
-http://r3---sn-bg07dnll.googlevideo.com/videoplayback?id=7c504967df3eb89b&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752915&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=65F9C93ECB267F3403F938B9E947CD64BAE8E9C6.47C15A90DD1A801F7E513A71133BEC455750B217&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x13 LEG-TV Take It Back
-http://r8---sn-bg07yn7z.googlevideo.com/videoplayback?id=3fcee866deba167a&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752912&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=0CFBB648D60F3D64D334918A5B807EFA152EFF90.4F50A441FD2D0E9242DD980539ECF2753091EAF6&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x12 LEG-TV Get Up Stand Up
-http://r3---sn-bg07dnle.googlevideo.com/videoplayback?id=7c57594d03651c5c&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752910&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=56EDF7CFE5B3C4CCED2B849FC3340022CC1387E8.0495D904D42BD3CF453571C2B369D5774CD301B1&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x11 LEG-TV Man on the Moon
-http://r9---sn-bg07yn7z.googlevideo.com/videoplayback?id=7fa00db75ca5f70a&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752908&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=11667AC8E923644513A86FA6AC3D7CB71CCEC9B5.799C7F69AF70CE02198A22C12437B64C4AAE740A&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x10 LEG-TV Somebody I used to know
-http://r1---sn-bg07dnll.googlevideo.com/videoplayback?id=dba235e50109240f&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752906&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=4D3D3E5FB48473A6D0654B0716477D5982E35FB5.21B684A9B247F3BCAB6FE8E1A0942119FDEFB912&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x09 LEG-TV Sorry Seems to be the Hardest Word
-http://r18---sn-bg07yn7l.googlevideo.com/videoplayback?id=61ca76e1833fdc22&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752903&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=748BB5ECAD27ECCD45B1957E2D3B06ADAB6F0615.18495223CB4704D6C983099BC91E2A04ADBEF48D&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x08 LEG-TV Two Against One
-http://r12---sn-bg07yn7l.googlevideo.com/videoplayback?id=c786a35f3be7804b&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752901&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=2189010EE77B7DEDB22604318AE32A1ECC948FA6.3165042D44929F3525D94023C7208939BD09E0CC&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605404&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x07 LEG-TV Thriller
-http://r2---sn-bg07dnll.googlevideo.com/videoplayback?id=d718e6ce702ab406&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752899&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=4898A6176FFBAC8000928AF7DD8B6ADB97D20B0A.1F9B39569BDDA35D9E4243346F74D0143D6AA16E&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1439605334&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x06 LEG-TV Map of You
-http://r2---sn-bg07yn7z.googlevideo.com/videoplayback?id=b4bf4b97a7d496c6&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752897&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6647CED1DC99B78D5EBE34F5773185B38FAB10B3.204E05844E42FFFD2C1D1DD155BBD394C18D6BCC&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605334&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x05 LEG-TV I Bet It Stung
-http://r10---sn-bg07yn7s.googlevideo.com/videoplayback?id=177b14bbf4932692&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752895&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6363DA8E2B9DE2E072F593E9D2B52BF4FF8F6494.04838A9BD0EC0161E815BAA9442E948297153820&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605334&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x04 LEG-TV Puttin’ on the Ritz
-http://r18---sn-bg07yn7e.googlevideo.com/videoplayback?id=aafcf9dc431d5ec8&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752892&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=794FEF8766F3A658A91D4B2700803451BDD60FDF.0E7354942A73F042A4A8CB420FC153C9AC92BA04&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1439605334&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x03 LEG-TV Everybody’s Crying Mercy
-http://r1---sn-bg07yn7z.googlevideo.com/videoplayback?id=d5de5871470986a4&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752890&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6D7CE80589748C32F1C7F8BC22FF48453F2850EB.70BBA4EFB1976B9A25B857401716A444BDD963&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1439605334&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x02 LEG-TV I Want You With Me
-http://r13---sn-bg07yn7l.googlevideo.com/videoplayback?id=ba7df1f45426ae26&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752888&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=8187A7191A273E473973BB6805B2B1D8603937D7.0AEA1FA07911FB7EF79BBFFD2E379CE5097AEEA5&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1439605334&mv=m&pl=20&ir=1&rr=12
-#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10x01 LEG-TV Seal Our Fate
-http://r9---sn-bg07yn7s.googlevideo.com/videoplayback?id=1d482d373532c3f3&itag=18&source=blogger&app=blogger&ip=191.251.65.37&ipbits=0&expire=1441752879&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=1D175D2CA07FA95B2902DC6435E4E22576DA51A9.37E6C043B89AC0FD377FDD054848314587B2A244&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1439605334&mv=m&pl=20
-
+#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 11T EM BREVE
+http://bit.ly/ONSeries?greysanatomy
+#EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 10T EM BREVE
+http://bit.ly/ONSeries?greysanatomy
 #EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 9x24 LEG-TV Perfect Storm
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/GRATS09EP24.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YqwM3U" group-title="Grey's Anatomy",Grey's Anatomy 9x23 LEG-TV Readiness Is All
@@ -5010,10 +4926,12 @@ http://pao.fairytaill.com/156/House%20of%20Cards/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##How to Get Away with Murder Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 1x02 01/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 2x02 01/10/2015
 http://bit.ly/ONSeries?howtogetaway
-#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 1x01 LEG-TV It's Time to Move On
+#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 2x01 LEG-TV It's Time to Move On
 http://www.megavideoupload.com/media/66bf31b388ca0ba608a6f9f52ef991c8.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="How to Get Away with Murder",How to Get Away with Murder 1T EM BREVE
+http://bit.ly/ONSeries?howtogetaway
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Humans Legendado > ServidorONSeries2
@@ -5182,6 +5100,13 @@ http://goo.gl/2MdE6T
 http://goo.gl/qOdIxe
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##Midwinter of the Spirit Legendado > ServidorONSerieS2
+#EXTINF:-1 tvg-logo="https://goo.gl/FkhUfC" group-title="Midwinter of the Spirit",Midwinter of the Spirit 1x02 30/09/2015
+http://bit.ly/ONSeries?midwinterofthespirit
+#EXTINF:-1 tvg-logo="https://goo.gl/FkhUfC" group-title="Midwinter of the Spirit",Midwinter of the Spirit 1x01 LEG-TV Episode 01
+http://www.megavideoupload.com/media/352cd2dbacc29e991107087b1cc1b762.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Minority Report Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/SyZWQc" group-title="Minority Report",Minority Report 1x02 28/09/2015
 http://bit.ly/ONSeries?minorityreport
@@ -5298,6 +5223,13 @@ http://www.megavideoupload.com/media/d93b537586ba15314e24122d7bf78f27.MP4?ONSeri
 http://www.megavideoupload.com/media/d8e5003e20872556f5663f9cf91147e2.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##New Orleans Legendado > ServidorONSerieS2
+#EXTINF:-1 tvg-logo="https://goo.gl/gS69o5" group-title="New Orleans",New Orleans 2x02 29/09/2015
+http://bit.ly/ONSeries?neworleans
+#EXTINF:-1 tvg-logo="https://goo.gl/gS69o5" group-title="New Orleans",New Orleans 2x01 LEG-TV Sic Semper Tyrannis
+http://www.megavideoupload.com/media/0e79d22e8e544999ab0d1c91dd8735e3.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Olympus Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/ZsK8XG" group-title="Olympus",Olympus 1x13 LEG-TV Truth - Season Finale
 http://playfreehd.com/media/31325e8a1df30c9d5dcf7794582df56a.MP4?ONSeries
@@ -5325,6 +5257,184 @@ http://playfreehd.com/media/3b1f54d7a8ce024c31964cea7ab3e5e8.MP4?ONSeries
 http://playfreehd.com/media/519b6caccbaf04913bdb3bf0164c3c49.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/ZsK8XG" group-title="Olympus",Olympus 1x01 LEG-TV The Temple of Gaia
 http://playfreehd.com/media/961d6d783ce505a509c13b9136b0830d.MP4?ONSeries
+####################################################################################################################################################
+	##Once Upon A Time Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 5x02 EM BREVE
+http://bit.ly/ONSeries?onceupon
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 5x01 LEG-MOB The Dark Swan
+http://reb.fairytaill.com/156/Once%20Upon%20a%20Time/S05E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x22-23 LEG-MOB Operation Mongoose
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E22-23.MP4
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x21 LEG-MOB Mother
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E21.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x20 LEG-MOB Lily
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E20.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x19 LEG-MOB Sympathy for the De Vil
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E19.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x18 LEG-MOB Heart of Gold
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E18.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x17 LEG-MOB Best Laid Plans
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E17.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x16 LEG-MOB Poor Unfortunate Soul
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E16.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x15 LEG-MOB Enter the Dragon
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E15.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x14 LEG-MOB Unforgiven
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E14.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x13 LEG-MOB Darkness on the Edge of Town
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x12 LEG-MOB Heroes and Villains
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x11 LEG-MOB Shattered Sight
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x10 LEG-MOB Fall
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x08-09 LEG-MOB Smash the Mirror
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E08-09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x07 LEG-MOB The Snow Queen
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x06 LEG-MOB Family Business
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x05 LEG-MOB Breaking Glass
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x04 LEG-MOB The Apprentice
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x03 LEG-MOB Rocky Road
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x02 LEG-MOB White Out
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x01 LEG-MOB A Tale of Two Sisters
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S04E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x21-22 LEG-MOB There’s No Place Like Home
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E21-22.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x20 LEG-MOB Kansas
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E20.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x19 LEG-MOB A Curious Thing
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E19.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x18 LEG-MOB Bleeding Through
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E18.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x17 LEG-MOB The Jolly Roger
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E17.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x16 LEG-MOB It’s Not Easy Being Green
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E16.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x15 LEG-MOB Quiet Minds
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E15.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x14 LEG-MOB The Tower
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E14.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x13 LEG-MOB Witch Hunt
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x12 LEG-MOB New York City Serenade
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x11 LEG-MOB Going Home
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x10 LEG-MOB The New Neverland
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x09 LEG-MOB Save Henry
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x08 LEG-MOB Think Lovely Thoughts
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x07 LEG-MOB Dark Hollow
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x06 LEG-MOB Ariel
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x05 LEG-MOB Good Form
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x04 LEG-MOB Nasty Habits
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x03 LEG-MOB Quite a Common Fairy
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x02 LEG-MOB Lost Girl
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 3x01 LEG-MOB The Heart of the Truest Believer
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S03E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x22 LEG-MOB And Straight On ‘Til Morning
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E22.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x21 LEG-MOB Second Star To The Right
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E21.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x20 LEG-MOB The Evil Queen
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E20.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x19 LEG-MOB Lacey
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E19.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x18 LEG-MOB Selfless Brave and True
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E18.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x17 LEG-MOB Welcome to Storybrooke
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E17.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x16 LEG-MOB The Miller’s Daughter
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E16.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x15 LEG-MOB The Queen is Dead
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E15.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x14 LEG-MOB Manhattan
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E14.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x13 LEG-MOB Tiny
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x12 LEG-MOB In The Name Of The Brother
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x11 LEG-MOB The Outsider
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x10 LEG-MOB The Cricket Game
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x09 LEG-MOB Queen Of Hearts
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x08 LEG-MOB Into The Deep
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x07 LEG-MOB Child Of The Moon
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x06 LEG-MOB Tallahassee
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x05 LEG-MOB The Doctor
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x04 LEG-MOB The Crocodile
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x03 LEG-MOB Lady of the Lake
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x02 LEG-MOB We Are Both
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 2x01 LEG-MOB Broken
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S02E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x22 LEG-MOB A Land Without Magic
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E22.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x21 LEG-MOB An Apple Red as Blood
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E21.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x20 LEG-MOB The Stranger
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E20.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x19 LEG-MOB The Return
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E19.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x18 LEG-MOB Stable Boy
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E18.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x17 LEG-MOB Hat Trick
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E17.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x16 LEG-MOB Heart of Darkness
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E16.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x15 LEG-MOB Red-Handed
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E15.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x14 LEG-MOB Dreamy
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E14.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x13 LEG-MOB What Happened to Frederick
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x12 LEG-MOB Skin Deep
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x11 LEG-MOB Fruit of the Poisonous Tree
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x10 LEG-MOB 7:15 A.M.
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x09 LEG-MOB True North
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x08 LEG-MOB Desperate Souls
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x07 LEG-MOB The Heart Is a Lonely Hunter
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x06 LEG-MOB The Shepherd
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x05 LEG-MOB That Still Small Voice
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x04 LEG-MOB The Price of Gold
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x03 LEG-MOB Snow Falls
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x02 LEG-MOB The Thing You Love the Most
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 1x01 LEG-MOB Pilot
+http://pao.fairytaill.com/156/Once%20Upon%20a%20Time/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Orange Is the New Black Legendado > ServidorONSeries
@@ -6125,14 +6235,25 @@ http://pao.fairytaill.com/156/Salem/S01E02.MP4?ONSeries
 http://pao.fairytaill.com/156/Salem/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##Scandal Legendado > ServidorONSerieS2
+#EXTINF:-1 tvg-logo="https://goo.gl/5Lp2Ao" group-title="Scandal",Scandal 1x02 01/10/2015
+http://bit.ly/ONSeries?scandal
+#EXTINF:-1 tvg-logo="https://goo.gl/5Lp2Ao" group-title="Scandal",Scandal 1x01 LEG-TV Heavy Is the Head
+http://www.megavideoupload.com/media/8229d882b54d054d23b5760be4c65a92.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Scorpion Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 1x02 28/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x02 28/09/2015
 http://bit.ly/ONSeries?scorpion
-#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 1x01 LEG-TV Satellite of Love
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x01 LEG-TV Satellite of Love
 http://www.megavideoupload.com/media/7ae87260c26349dc2429797e5cf62ce9.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 1T EM BREVE
+http://bit.ly/ONSeries?scorpion
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 2x01 EM 2016
+http://bit.ly/ONSeries?scream
 #EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x10 LEG-TV Revelations - Season Finale
 http://www.megavideoupload.com/media/c350569d2d5bc21d00a705933169fe8e.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x09 LEG-TV The Dance
