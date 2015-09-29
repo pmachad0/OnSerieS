@@ -75,6 +75,12 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VjtPqn" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##100 Code Legendado > ServidorONSeries2
@@ -3392,6 +3398,8 @@ http://goo.gl/WjVOIk
 	##Fear The Walking Dead Dublado/Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 04/10/2015
 https://bit.ly/ONSeries?fear
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 Cobalt
+http://www.megavideoupload.com/media/395782bdeee9097bc50437b205fa4a29.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 LEG-TV Cobalt
 http://www.megavideoupload.com/media/9059ceb686bd0620a5c6c41864f6109c.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 Not Fade Awa
@@ -5825,6 +5833,12 @@ http://playfreehd.com/media/eb88df96a18426fcf899111a0b38bd7a.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/ysI8R0" group-title="Proof",Proof 1x01 LEG-TV Pilot
 http://playfreehd.com/media/5d012de528533008412c73b78eae5989.MP4?ONSeries
 ####################################################################################################################################################
+	##Quantico Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x02 04/10/2015
+http://bit.ly/ONSeries?quantico
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x01 LEG-TV Run
+http://www.megavideoupload.com/media/fe263d13e7d14d0393902d18d1964ed5.MP4?ONSeries
+####################################################################################################################################################
 ####################################################################################################################################################
 	##Revenge Dublado/Legendado > 1,2DUBServidorRedeC > LEGServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/nmOyur" group-title="Revenge",Revenge 4x23 LEG-MOB Two Graves
@@ -6178,6 +6192,12 @@ http://goo.gl/GuG4vR
 http://goo.gl/opRcfo
 #EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 1x01 LEG-TV Pilot
 http://goo.gl/j9AWl2
+####################################################################################################################################################
+	##Rosewood Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/VjtPqn" group-title="Rosewood",Rosewood 1x02 30/09/2015
+http://bit.ly/ONSeries?rosewood
+#EXTINF:-1 tvg-logo="https://goo.gl/VjtPqn" group-title="Rosewood",Rosewood 1x01 LEG-TV Pilot
+http://www.megavideoupload.com/media/faf4517a37f51810c0f63b65063ef71f.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Salem Legendado > ServidorONSeries
@@ -8675,6 +8695,12 @@ http://playfreehd.com/media/9fcb463a4bb7b9c50095b1cf4bdca0e5.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/KCLhUJ" group-title="The Messengers",The Messengers 1x01 LEG-MOB Awakening
 http://tet.fairytaill.com/156/The%20Messengers/S01E01.MP4?ONSeries
 ####################################################################################################################################################
+	##The Muppets Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x02 29/09/2015
+http://bit.ly/ONSeries?themuppets
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x01 LEG-TV Pilot/Pig Girls Don't Cry
+http://www.megavideoupload.com/media/e4ebdf8aedce921b08721c8dd681ccfd.MP4?ONSeries
+####################################################################################################################################################
 ####################################################################################################################################################
 	##The Musketeers Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/XEtVkr" group-title="The Musketeers",The Musketeers 3x01 EM JANEIRO
@@ -9827,7 +9853,7 @@ http://playfreehd.com/media/055fb53632c8ff1350a797a89d9d3fba.MP4?ONSeries
 http://playfreehd.com/media/4599064494f8665b33bda4b21c733649.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Two And A Half Men Dublado/Legendado > DUBServidorEdge LEGServidorONSeries
+	##Two And A Half Men Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 12x15/16 LEG-MOB Of Course He’s Dead
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S12E15-16.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 12x14 LEG-MOB Don’t Give A Monkey A Gun
