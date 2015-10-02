@@ -37,8 +37,6 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="Novas Series Adicionadas",9T Legendado MOB
-http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XEtVkr" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Novas Series Adicionadas",Legendado MOB
@@ -82,6 +80,12 @@ http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/VjtPqn" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/B73UBi" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/PXLRIF" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/svuIve" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -285,8 +289,10 @@ http://fab.fairytaill.com/156/Agent%20Carter/S01E01.MP4?agentcarter
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Agents of S.H.I.E.L.D. Dublado/Legendado > LEGServidorONSeries DUBwb5
-#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x01 29/07/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x02 06/10/2015
 http://bit.ly/ONSeries?marvels
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x01 LEG-MOB Laws of Nature
+http://reb.fairytaill.com/156/Agents%20of%20S.H.I.E.L.D/S03E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 2x21/22 LEG-MOB S.O.S.
 http://tet.fairytaill.com/156/Agents%20of%20S.H.I.E.L.D/S02E21-22.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 2x20 LEG-MOB Scars
@@ -1584,6 +1590,12 @@ http://pao.fairytaill.com/156/Bloodline/S01E03.MP4?bloodline
 http://pao.fairytaill.com/156/Bloodline/S01E02.MP4?bloodline
 #EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline",Bloodline 1x01 LEG-MOB Part 1
 http://pao.fairytaill.com/156/Bloodline/S01E01.MP4?bloodline
+####################################################################################################################################################
+	##Blood and Oil Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/svuIve" group-title="Blood and Oil",Blood and Oil 1x02 04/10/2015
+http://bit.ly/ONSeries?bloodandoil
+#EXTINF:-1 tvg-logo="https://goo.gl/svuIve" group-title="Blood and Oil",Blood and Oil 1x01 LEG-TV Pilot
+http://www.megavideoupload.com/media/eb8773f3084efca3479426d977c129ba.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Breaking Bad Dublado/Legendado > 1a4ServidorRedeC > LEGServidorONSeries
@@ -7554,10 +7566,10 @@ http://megavideoupload.com/media/1373098ace200f6d36e01b3b8ae20c33.MP4?ONSeries
 	##The Big Bang Theory Dublado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x03 05/10/2015
 http://bit.ly/ONSeries?thebigbang
-#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x02 LEG-MOB The Separation Oscillation
-http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E02.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-MOB The Matrimonial Momentum
-http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x02 LEG-TV The Separation Oscillation
+http://www.megavideoupload.com/media/5be5587cb2aa2cef12ffd79ea4297a4b.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-TV The Matrimonial Momentum
+http://megavideoupload.com/media/b9fe0dc92e6e2effc35aecd95a545eb6.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x24 LEG-MOB The Commitment Determination
 http://pao.fairytaill.com/156/The%20Big%20Bang%20Theory/S08E24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x23 LEG-MOB The Maternal Combustion
@@ -8712,6 +8724,16 @@ http://tet.fairytaill.com/156/The%20Messengers/S01E02.MP4?ONSeries
 http://playfreehd.com/media/9fcb463a4bb7b9c50095b1cf4bdca0e5.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/KCLhUJ" group-title="The Messengers",The Messengers 1x01 LEG-MOB Awakening
 http://tet.fairytaill.com/156/The%20Messengers/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##The Mysteries of Laura Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/PXLRIF" group-title="The Mysteries of Laura",The Mysteries of Laura 2x02 30/09/2015
+http://bit.ly/ONSeries?themysteriesoflaura
+#EXTINF:-1 tvg-logo="https://goo.gl/PXLRIF" group-title="The Mysteries of Laura",The Mysteries of Laura 2x01 LEG-TV The Mystery of the Taken Boy
+http://www.megavideoupload.com/media/1ce1ef357da361876189b7757a4efc25.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/PXLRIF" group-title="The Mysteries of Laura",The Mysteries of Laura 1T EM BREVE
+http://bit.ly/ONSeries?themysteriesoflaura
+####################################################################################################################################################
 ####################################################################################################################################################
 	##The Muppets Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x02 29/09/2015
