@@ -23,6 +23,24 @@ http://bit.ly/ONSeries
 	##Novas Series Adicionadas
 #EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Novas Series Adicionadas",3T Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="Novas Series Adicionadas",1T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Novas Series Adicionadas",1T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Novas Series Adicionadas",3T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="Novas Series Adicionadas",2T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="Novas Series Adicionadas",2T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="Novas Series Adicionadas",5T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Novas Series Adicionadas",11T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Novas Series Adicionadas",4T Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##100 Code Legendado > ServidorONSeries2
@@ -224,9 +242,11 @@ http://fab.fairytaill.com/156/Agent%20Carter/S01E02.MP4?agentcarter
 http://fab.fairytaill.com/156/Agent%20Carter/S01E01.MP4?agentcarter
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Agents of S.H.I.E.L.D. Dublado/Legendado > LEGServidorONSeries DUBwb5
-#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x02 06/10/2015
+	##Agents of S.H.I.E.L.D. Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x03 13/10/2015
 http://bit.ly/ONSeries?marvels
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x02 LEG-MOB Purpose in the Machine
+http://reb.fairytaill.com/156/Agents%20of%20S.H.I.E.L.D/S03E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x01 LEG-MOB Laws of Nature
 http://reb.fairytaill.com/156/Agents%20of%20S.H.I.E.L.D/S03E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 2x21/22 LEG-MOB S.O.S.
@@ -738,8 +758,10 @@ http://goo.gl/XkdiF1
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##American Horror Story Dublado/Legendado > DUB1ServidorRedeC 2ServidorEgde LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x01 07/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x02 14/10/2015
 http://bit.ly/ONSeries?americanhorror
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x01 LEG-MOB Checking In
+http://reb.fairytaill.com/156/American%20Horror%20Story/S05E01A.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 4x13 LEG-MOB Curtain Call
 http://tet.fairytaill.com/156/American%20Horror%20Story/S04E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 4x12 LEG-MOB Show Stoppers
@@ -869,8 +891,10 @@ http://tet.fairytaill.com/156/American%20Horror%20Story/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Arrow Dublado/Legendado > DUBSrevidosEdge LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x01 07/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x02 14/10/2015
 http://bit.ly/ONSeries?arrow
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x01 LEG-MOB Green Arrow
+http://reb.fairytaill.com/156/Arrow/S04E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 3x23 My name is Oliver Queen
 http://www.megavideoupload.com/media/8dfc65bc52d829db5ba6d5bc7df3c2be.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 3x23 LEG-MOB My name is Oliver Queen
@@ -2730,6 +2754,63 @@ http://playfreehd.com/media/4802407d4fff1cbc69a0d1172db9c237.MP4?ONSeries
 http://playfreehd.com/media/93c9bc281f62c5c1bfd7bc8ce1813fed.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##Da Vinci’s Demons Dublado/Legendado > 1ServidorRedeC > 2DUBwb5
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 3x01 24/10/2015
+http://bit.ly/ONSeries?davinci
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x10 The Sins of Daedalus
+http://goo.gl/veczle
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x09 The Enemies of Man
+http://goo.gl/XGvDso
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x08 The Fall from Heaven
+http://goo.gl/pa4I77
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x07 The Vault of Heaven
+http://goo.gl/GKNZfw
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x06 The Rope of the Dead
+http://goo.gl/7VYFcz
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x05 The Sun and the Moon
+http://goo.gl/3kke88
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x04 The Ends of the Earth
+http://goo.gl/cbAhIg
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x03 The Voyage of the Damned
+http://goo.gl/2FxmEE
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x02 The Blood of Brothers
+http://goo.gl/IpVN8x
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x01 The Blood of Man
+http://goo.gl/Llx23H
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x08 The Lovers
+http://goo.gl/dCpcFH
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x08 LEG-MOB The Lovers
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x07 The Hierophant
+http://goo.gl/SaAPfS
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x07 LEG-MOB The Hierophant
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x06 The Devil
+http://goo.gl/P8aCUh
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x06 LEG-MOB The Devil
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x05 The Tower
+http://goo.gl/huoanm
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x05 LEG-MOB The Tower
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x04 The Magician
+http://goo.gl/AjY8LH
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x04 LEG-MOB The Magician
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x03 The Prisoner
+http://goo.gl/GjKvnm
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x03 LEG-MOB The Prisoner
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x02 The Serpent
+http://goo.gl/ZexGDp
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x02 LEG-MOB The Serpent
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x01 The Hanged Man
+http://goo.gl/pkP9ew
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x01 LEG-MOB The Hanged Man
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Deutschland 83 Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/6ehOyC" group-title="Deutschland 83",Deutschland 83 1x08 LEG-TV Able Archer - Season Finale
 http://www.megavideoupload.com/media/6b05c05dcdcb177bf1b296b863faabdf.MP4?ONSeries
@@ -3183,8 +3264,9 @@ http://playfreehd.com/media/e5a21f15992d94753455bf928ec96042.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Faking It Legendado > ServidorONSerieS
-#EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x16 05/10/2015
 http://bit.ly/ONSeries?fakingit
+#EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x16 LEG-MOB Faking It… Again
+http://reb.fairytaill.com/156/Faking%20It/S02E16.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x15 LEG-MOB Boiling Point
 http://reb.fairytaill.com/156/Faking%20It/S02E15.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x14 LEG-MOB Saturday Fight Live
@@ -3348,8 +3430,8 @@ http://goo.gl/WjVOIk
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Fear The Walking Dead Dublado/Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 04/10/2015
-https://bit.ly/ONSeries?fear
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 LEG-MOB The Good Man 
+http://fab.fairytaill.com/156/Fear%20The%20Walking%20Dead/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 Cobalt
 http://www.megavideoupload.com/media/395782bdeee9097bc50437b205fa4a29.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 LEG-TV Cobalt
@@ -3620,10 +3702,16 @@ http://goo.gl/p8aTpi
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Gotham Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x03 05/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x04 12/10/2015
 http://bit.ly/ONSeries?gotham
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x03 LEG-MOB The Last Laugh
+http://reb.fairytaill.com/156/Gotham/S02E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x02 LEG-MOB Knock Knock
+http://reb.fairytaill.com/156/Gotham/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x02 LEG-TV Knock Knock
 http://www.megavideoupload.com/media/21305e98633a09d062a51f31fa7ef9f6.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x01 LEG-MOB Damned If You Do
+http://reb.fairytaill.com/156/Gotham/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 2x01 LEG-TV Damned If You Do
 http://megavideoupload.com/media/ad5763a84c0443e24fb00c4d86bf26c6.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/J43If4" group-title="Gotham",Gotham 1x22 All Happy Families Are Alike
@@ -4960,8 +5048,10 @@ http://playfreehd.com/media/30856fa3fb6883e9b79efa5e0263500c.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##iZombie Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x01 06/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x02 13/10/2015
 http://bit.ly/ONSeries?izombie
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x01 LEG-MOB Grumpy Old Liv 
+http://reb.fairytaill.com/156/iZombie/S02E01.MP4ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x13 LEG-MOB Blaine’s World
 http://fab.fairytaill.com/156/iZombie/S01E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x12 LEG-MOB Dead Rat Live Rat Brown Rat White Rat
@@ -5000,8 +5090,14 @@ http://www.megavideoupload.com/media/04887d2deda316319c35a9316b4c5972.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Limitless Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x02 29/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x04 20/10/2015
 http://bit.ly/ONSeries?limitless
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x03 LEG-MOB The Legend of Marcos Ramos 
+http://reb.fairytaill.com/156/Limitless/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x02 LEG-MOB Badge! Gun!
+http://reb.fairytaill.com/156/Limitless/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x01 LEG-MOB Pilot
+http://reb.fairytaill.com/156/Limitless/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x01 LEG-TV Pilot
 http://megavideoupload.com/media/97620044b7cba2afb3a3eb17ebdfa927.MP4?ONSeries
 ####################################################################################################################################################
@@ -5123,25 +5219,47 @@ http://reb.fairytaill.com/156/Mortal%20Kombat%20Legacy/S01E02.MP4?ONSeries
 http://reb.fairytaill.com/156/Mortal%20Kombat%20Legacy/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Mr. Robot Legendado > ServidorONSeries2
+	##Mr. Robot Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 2x01 EM 2016
+http://bit.ly/ONSeries?mrrobot
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x10 LEG-MOB _zer0-day.avi
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x10 LEG-TV _zer0-day.avi
 http://www.megavideoupload.com/media/417f440651a7a5699d7228bdf6afacc3.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x09 LEG-MOB _m1rr0r1ng.qt
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x09 LEG-TV _m1rr0r1ng.qt
 http://www.megavideoupload.com/media/fbd7258565fcd91151ea6ed039764171.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x08 LEG-MOB _wh1ter0se.m4v
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x08 LEG-TV _wh1ter0se.m4v
 http://www.megavideoupload.com/media/1ddaadd204167a9447667d1177af1d58.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x07 LEG-MOB _v1ew-s0urce.flv
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x07 LEG-TV _v1ew-s0urce.flv
 http://playfreehd.com/media/b288e18e8d322687031b708021fccc5d.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x06 LEG-MOB _br4ve-trave1er.asf
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x06 LEG-TV _br4ve-trave1er.asf
 http://playfreehd.com/media/78c59d67cc69aa91cac824f919c3eb81.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x05 LEG-MOB _3xpl0its.wmv
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x05 LEG-TV _3xpl0its.wmv
 http://playfreehd.com/media/faaf03ae7cf60e946066aa3fb6741986.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x04 LEG-MOB _da3m0ns.mp4
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x04 LEG-TV _da3m0ns.mp4
 http://playfreehd.com/media/e222a7371e15615b80941966e86ba540.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x03 LEG-MOB _d3bug.mkv
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x03 LEG-TV _d3bug.mkv
 http://playfreehd.com/media/f545c02c38f54268eaf980597883ca14.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x02 LEG-MOB _ones-and-zer0es.mpeg
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x02 LEG-TV _ones-and-zer0es.mpeg
 http://playfreehd.com/media/37ef7df1bf8bea136214d9c133dae407.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x01 LEG-MOB _hellofriend.mov
+http://reb.fairytaill.com/156/Mr.%20Robot/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="Mr. Robot",Mr. Robot 1x01 LEG-TV _hellofriend.mov
 http://playfreehd.com/media/05f092e1f9bfeeff14545f041994e162.MP4?ONSeries
 ####################################################################################################################################################
@@ -5225,8 +5343,10 @@ http://playfreehd.com/media/519b6caccbaf04913bdb3bf0164c3c49.MP4?ONSeries
 http://playfreehd.com/media/961d6d783ce505a509c13b9136b0830d.MP4?ONSeries
 ####################################################################################################################################################
 	##Once Upon A Time Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 5x02 EM BREVE
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 5x03 EM BREVE
 http://bit.ly/ONSeries?onceupon
+#EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 5x02 LEG-MOB The Price
+http://reb.fairytaill.com/156/Once%20Upon%20a%20Time/S05E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 5x01 LEG-MOB The Dark Swan
 http://reb.fairytaill.com/156/Once%20Upon%20a%20Time/S05E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/eldfBg" group-title="Once Upon A Time",Once Upon A Time 4x22-23 LEG-MOB Operation Mongoose
@@ -5792,8 +5912,12 @@ http://playfreehd.com/media/eb88df96a18426fcf899111a0b38bd7a.MP4?ONSeries
 http://playfreehd.com/media/5d012de528533008412c73b78eae5989.MP4?ONSeries
 ####################################################################################################################################################
 	##Quantico Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x02 04/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x03 11/10/2015
 http://bit.ly/ONSeries?quantico
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x02 LEG-MOB America
+http://reb.fairytaill.com/156/Quantico/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x01 LEG-MOB Run
+http://reb.fairytaill.com/156/Quantico/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x01 LEG-TV Run
 http://www.megavideoupload.com/media/fe263d13e7d14d0393902d18d1964ed5.MP4?ONSeries
 ####################################################################################################################################################
@@ -6255,10 +6379,20 @@ http://playfreehd.com/media/5f4b42ac66c7088526a037b340a03238.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Queens Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x03 29/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x05 13/10/2015
 http://bit.ly/ONSeries?screamqueens
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x04 LEG-MOB Haunted House
+http://reb.fairytaill.com/156/Scream%20Queens/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x03 LEG-MOB Chainsaw
+http://reb.fairytaill.com/156/Scream%20Queens/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x02 LEG-MOB Hell Week
+http://reb.fairytaill.com/156/Scream%20Queens/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x01 LEG-MOB Pilot
+http://reb.fairytaill.com/156/Scream%20Queens/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x01-2 LEG-TV Pilot/Hell Week
 http://megavideoupload.com/media/8708882147780637b07c5a41cbcb491f.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x00 LEG-MOB Inside Look
+http://reb.fairytaill.com/156/Scream%20Queens/S01E00.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x00 LEG-TV Inside Look
 http://www.megavideoupload.com/media/3ec65bd0f12b687ecf5b8da230ddeba5.MP4?ONSeries
 ####################################################################################################################################################
@@ -6332,6 +6466,47 @@ http://www.megavideoupload.com/media/65b9bcf958f6652c26fe9450b878a70a.MP4?ONSeri
 http://www.megavideoupload.com/media/6164c54edb2c67948709aa823e61144d.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gbKxnQ" group-title="Significant Mother",Significant Mother 1x01 LEG-TV Welcome to Bonetown
 http://www.megavideoupload.com/media/f24755e68fd43b7d7060eaa7f3d05ca9.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##Silicon Valley Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 3x01 EM 2016
+http://bit.lY/ONSeries?siliconvalley
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x10 LEG-MOB Two Days of the Condor
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x09 LEG-MOB Binding Arbitration
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x08 LEG-MOB White Hat/Black Hat
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x07 LEG-MOB Adult Content
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x06 LEG-MOB Homicide
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x05 LEG-MOB Server Space
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x04 LEG-MOB The Lady
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x03 LEG-MOB Bad Money
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x02 LEG-MOB Runaway Devaluation
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 2x01 LEG-MOB Sand Hill Shuffle
+http://reb.fairytaill.com/156/Silicon%20Valley/S02E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x08 LEG-MOB Optimal Tip-to-Tip Efficiency
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x07 LEG-MOB Proof of Concept
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x06 LEG-MOB Third Party Insourcing
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x05 LEG-MOB Signaling Risk
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x04 LEG-MOB Fiduciary Duties
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x03 LEG-MOB Articles of Incorporation
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x02 LEG-MOB The Cap Table
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/EmLTUv" group-title="Silicon Valley",Silicon Valley 1x01 LEG-MOB Minimum Viable Product
+http://reb.fairytaill.com/156/Silicon%20Valley/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Sleepy Hollow Legendado > ServidorONSeries
@@ -6708,8 +6883,10 @@ http://fab.fairytaill.com/156/Supergirl/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Supernatural Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x01 07/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x02 14/10/2015
 http://bit.ly/ONSeries?supernatural
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x01 LEG-MOB Out of the Darkness Into the Fire
+http://reb.fairytaill.com/156/Supernatural/S11E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 10x23 Brother’s Keeper
 http://www.megavideoupload.com/media/1dd6028a83a641ecb6dc5d1243a8f8f4.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 10x23 LEG-MOB Brother’s Keeper
@@ -7495,8 +7672,16 @@ http://pao.fairytaill.com/156/The%20100/S01E01.MP4?ONSeries
 	##The Bastard Executioner Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x04 29/09/2015
 http://bit.ly/ONSeries?thebastardexecutioner
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x05 LEG-MOB Piss Profit/Proffidwyr Troeth
+http://reb.fairytaill.com/156/The%20Bastard%20Executioner/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x04 LEG-MOB A Hunger/Newyn
+http://reb.fairytaill.com/156/The%20Bastard%20Executioner/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x03 LEG-MOB Effigy/Delw
+http://reb.fairytaill.com/156/The%20Bastard%20Executioner/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x03 LEG-TV Effigy/Delw
 http://megavideoupload.com/media/11a7207a89c1b760191ec9ba2bb58a99.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x01-2 LEG-MOB Pilot
+http://reb.fairytaill.com/156/The%20Bastard%20Executioner/S01E01-02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x02 LEG-TV Pilot - Part 2
 http://megavideoupload.com/media/135010989ec1a228a236cf5eb5aa8182.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x01 LEG-TV Pilot - Part 1
@@ -7504,10 +7689,16 @@ http://megavideoupload.com/media/1373098ace200f6d36e01b3b8ae20c33.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Big Bang Theory Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x03 05/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x04 12/10/2015
 http://bit.ly/ONSeries?thebigbang
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x03 LEG-MOB
+http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x02 LEG-MOB The Separation Oscillation
+http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x02 LEG-TV The Separation Oscillation
 http://www.megavideoupload.com/media/5be5587cb2aa2cef12ffd79ea4297a4b.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-MOB The Matrimonial Momentum
+http://reb.fairytaill.com/156/The%20Big%20Bang%20Theory/S09E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x01 LEG-TV The Matrimonial Momentum
 http://megavideoupload.com/media/b9fe0dc92e6e2effc35aecd95a545eb6.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 8x24 LEG-MOB The Commitment Determination
@@ -7922,8 +8113,10 @@ http://playfreehd.com/media/928df839d797b0007e0d18dac47ee550.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Flash Legendado/Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x01 06/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x02 13/10/2015
 http://nit.ly/ONSeries?theflash
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x01 LEG-MOB The Man Who Saved Central City
+http://reb.fairytaill.com/156/The%20Flash/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 1x23 Fast Enough
 http://www.megavideoupload.com/media/69063b239de91e62dbcbd546402370c1.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 1x23 LEG-MOB Fast Enough
@@ -8676,9 +8869,13 @@ http://bit.ly/ONSeries?themysteriesoflaura
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Muppets Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x02 29/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x03 06/10/2015
 http://bit.ly/ONSeries?themuppets
-#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x01 LEG-TV Pilot/Pig Girls Don't Cry
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x02 LEG-MOB Hostile Makeover
+http://reb.fairytaill.com/156/The%20Muppets/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x01 LEG-MOB Pig Girls Don't Cry
+http://reb.fairytaill.com/156/The%20Muppets/S01E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VSMXA2" group-title="The Muppets",The Muppets 1x01 LEG-TV Pig Girls Don't Cry
 http://www.megavideoupload.com/media/e4ebdf8aedce921b08721c8dd681ccfd.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -9040,7 +9237,7 @@ http://www.megavideoupload.com/media/d2cf1dda7216f67f142e9ad19f94c455.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Strain Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x13 04/10/2015 - Season Finale
+#EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x13 LEG-MOB Night Train - Season Finale
 http://fab.fairytaill.com/156/The%20Strain/S02E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/6nVLZJ" group-title="The Strain",The Strain 2x12 LEG-MOB Fallen Light
 http://fab.fairytaill.com/156/The%20Strain/S02E12.MP4?ONSeries
@@ -9505,50 +9702,78 @@ http://tet.fairytaill.com/156/The%20Walking%20Dead/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Whispers Legendado/Dublado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 2x01 SEM DATA
+http://bit.ly/ONSeries?thewhispers
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x13 Game Over - Season Finale
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x13 LEG-MOB Game Over - Season Finale
+http://reb.fairytaill.com/156/The%20Whispers/S01E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x13 LEG-TV Game Over - Season Finale
 http://www.megavideoupload.com/media/3c9d8aa1006629d787f66034a18f262b.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x12 Traveller in the Dark
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x12 LEG-MOB Traveller in the Dark
+http://reb.fairytaill.com/156/The%20Whispers/S01E12.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x12 LEG-TV Traveller in the Dark
 http://www.megavideoupload.com/media/b0d3204a3c618fb5effa6db7eaa98812.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x11 Homesick
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x11 LEG-MOB Homesick
+http://reb.fairytaill.com/156/The%20Whispers/S01E11.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x11 LEG-TV Homesick
 http://www.megavideoupload.com/media/9c50d185c371a5ea1e953262a94d23e8.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x10 Darkest Fears
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x10 LEG-MOB Darkest Fears
+http://reb.fairytaill.com/156/The%20Whispers/S01E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x10 LEG-TV Darkest Fears
 http://www.megavideoupload.com/media/640f160d23fdbb5a2a9370c10bf09d00.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x09 Broken Child
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x09 LEG-MOB Broken Child
+http://reb.fairytaill.com/156/The%20Whispers/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x09 LEG-TV Broken Child
 http://www.megavideoupload.com/media/3fab152c57d1311b9c57f4907c49cb31.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x08 A Hollow Man
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x08 LEG-MOB A Hollow Man
+http://reb.fairytaill.com/156/The%20Whispers/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x08 LEG-TV A Hollow Man
 http://playfreehd.com/media/d6343ecb1a6dda96e5ec4bb798e2c5e9.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x07 Whatever It Takes
 http://megavideoupload.com/media/3f42658458a1db6a2b35e06f284cb19d.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x07 LEG-MOB Whatever It Takes
+http://reb.fairytaill.com/156/The%20Whispers/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x07 LEG-TV Whatever It Takes
 http://playfreehd.com/media/48b5abfaa9ceb30a6c10ef5860ea2baa.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x06 The Archer
 http://megavideoupload.com/media/15074b21d3775856c1cf3c05ec32bc2f.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x06 LEG-MOB The Archer 
+http://reb.fairytaill.com/156/The%20Whispers/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x06 LEG-TV The Archer 
 http://playfreehd.com/media/53e57b0631c52c7442a13ab78d9fa2f7.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x05 What Lies Beneath
 http://www.megavideoupload.com/media/0189ce05a4a12e339efd788e86280659.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x05 LEG-MOB What Lies Beneath
+http://reb.fairytaill.com/156/The%20Whispers/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x05 LEG-TV What Lies Beneath
 http://playfreehd.com/media/6b13ef81e86bb85cf4b8bdcb28c68ad5.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x04 Meltdown
 http://www.megavideoupload.com/media/5f1ebbfb06b05560303fb1cbb51a1c22.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x04 LEG-MOB Meltdown
+http://reb.fairytaill.com/156/The%20Whispers/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x04 LEG-TV Meltdown
 http://playfreehd.com/media/a12566abe4c9e3d2205d0e7bcb627209.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x03 Collision
 http://www.megavideoupload.com/media/256daf0fcf163a7c7b8f6cbe09f36428.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x03 LEG-MOB Collision
+http://reb.fairytaill.com/156/The%20Whispers/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x03 LEG-TV Collision
 http://playfreehd.com/media/5f9a39cd3f8a61ffca489df9ce6c2dab.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x02 Hide & Seek
 http://www.megavideoupload.com/media/88994334c407a1db9c46de303616b876.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x02 LEG-MOB Hide & Seek
+http://reb.fairytaill.com/156/The%20Whispers/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x02 LEG-TV Hide & Seek
 http://playfreehd.com/media/4918908e6ef26bd1b92675d3dac3394a.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x01 X Marks the Spot
 http://www.megavideoupload.com/media/2897f1faeaf569c9402337d4d04c5daf.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x01 LEG-MOB X Marks the Spot
+http://reb.fairytaill.com/156/The%20Whispers/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/lLRdfn" group-title="The Whispers",The Whispers 1x01 LEG-TV X Marks the Spot
 http://playfreehd.com/media/9171efcb2768a88a6a9e0a5cd3d0179b.MP4?ONSeries
 ####################################################################################################################################################
