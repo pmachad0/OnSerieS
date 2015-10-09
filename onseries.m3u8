@@ -2,6 +2,8 @@
 ####################################################################################################################################################
 ####################################################################################################################################################
 #PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" pltv-name="ONSeries" pltv-description="Lista de séries para PlaylisTV/IPTV" pltv-cover="http://i.ytimg.com/vi/UoMYfrdAmV8/maxresdefault.jpg" pltv-author="PMachado" pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="0000000000"
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="SERVIDOR HD OFF",SERVIDOR HD OFF
+http://bit.ly/ONSeries
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/MyFuckingTVShows",bit.ly/MyFuckingTVShows
 http://bit.ly/ONSeries
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/ONSeries",bit.ly/ONSeries
@@ -40,6 +42,10 @@ http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Novas Series Adicionadas",11T Legendado MOB
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Novas Series Adicionadas",4T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="Novas Series Adicionadas",7T Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="Novas Series Adicionadas",3T Legendado MOB
 http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -6510,8 +6516,10 @@ http://reb.fairytaill.com/156/Silicon%20Valley/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Sleepy Hollow Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 3x02 08/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 3x03 15/10/2015
 http://bit,ly/ONSeries?sleepyhollow
+#EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 3x02 LEG-MOB Whispers in the Dark
+http://reb.fairytaill.com/156/Sleepy%20Hollow/S03E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 3x01 LEG-MOB I Witness
 http://reb.fairytaill.com/156/Sleepy%20Hollow/S03E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/uesOf7" group-title="Sleepy Hollow",Sleepy Hollow 2x18 LEG-MOB Tempus Fugit
@@ -8950,8 +8958,10 @@ http://fab.fairytaill.com/156/The%20Knick/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Originals Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x01 08/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x02 15/10/2015
 http://bit.ly/ONSeries/theoriginals
+#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x01 LEG-MOB For The Next Millennium
+http://reb.fairytaill.com/156/The%20Originals/S03E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 2x22 LEG-MOB Ashes to Ashes
 http://pao.fairytaill.com/156/The%20Originals/S02E22.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 2x21 LEG-MOB Fire with Fire
@@ -9292,8 +9302,10 @@ http://fab.fairytaill.com/156/The%20Strain/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Vampire Diaries Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x01 08/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x02 15/10/2015
 http://bit.ly/ONSeries/thevampirediaries
+#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x01 LEG-MOB Day One of Twenty-Two Thousand - Give or Take
+http://reb.fairytaill.com/156/The%20Vampire%20Diaries/S07E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 6x22 LEG-MOB I’m Thinking Of You All The While
 http://tet.fairytaill.com/156/The%20Vampire%20Diaries/S06E22.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 6x21 LEG-MOB I'll Wed You In The Golden Summertime
