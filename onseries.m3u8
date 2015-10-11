@@ -3192,8 +3192,12 @@ http://goo.gl/sC6Zlk
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Empire Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x02 30/09/1015
+#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x03 07/10/1015
 http://bit.ly/ONSeries?empire
+#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x02 LEG-MOB Without a Country
+http://reb.fairytaill.com/156/Empire/S02E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x01 LEG-MOB The Devils Are Here
+http://reb.fairytaill.com/156/Empire/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 2x01 LEG-TV The Devils Are Here
 http://www.megavideoupload.com/media/5b86a802b1f99af23eecb4539df33bb9.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/r9JA0U" group-title="Empire",Empire 1x12 LEG-MOB Who I Am
@@ -10867,12 +10871,22 @@ http://playfreehd.com/media/8902b8eee858af453cf9c1a100faa779.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Z Nation Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x04 02/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x06 16/10/2015
 http://bit.ly/ONSeries?znation
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x05 LEG-MOB Zombaby!
+http://fab.fairytaill.com/156/Z%20Nation/S02E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x04 LEG-MOB Batch 47
+http://fab.fairytaill.com/156/Z%20Nation/S02E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x03 LEG-MOB Zombie Road
+http://fab.fairytaill.com/156/Z%20Nation/S02E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x03 LEG-TV Zombie Road
 http://www.megavideoupload.com/media/f1799e505efa2be0ffc01a9e53580c5e.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x02 LEG-MOB White Light 
+http://fab.fairytaill.com/156/Z%20Nation/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x02 LEG-TV White Light 
 http://megavideoupload.com/media/842b457ace3293ef02ebee4114827c75.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x01 LEG-MOB The Murphy
+http://fab.fairytaill.com/156/Z%20Nation/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 2x01 LEG-TV The Murphy
 http://www.megavideoupload.com/media/30597c865f5812ffd03b5ba6060be111.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/DjYKtQ" group-title="Z Nation",Z Nation 1x13 Doctor of the Dead
