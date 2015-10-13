@@ -47,6 +47,8 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="Novas Series Adicionadas",3T Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="Novas Series Adicionadas",6T Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##100 Code Legendado > ServidorONSeries2
@@ -9579,8 +9581,10 @@ http://streaming.redecanais.com/RedeCanais/RCServer3/ondemand/DDUVS01EP01.MP4?ON
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Walking Dead Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="The Walking Dead",The Walking Dead 6x01 11/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="The Walking Dead",The Walking Dead 6x02 18/10/2015
 http://bit.ly/ONSeries/thewalkingdead
+#EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="The Walking Dead",The Walking Dead 6x01 LEG-MOB First Time Again
+http://reb.fairytaill.com/156/The%20Walking%20Dead/S06E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="The Walking Dead",The Walking Dead 5x16 LEG-MOB Conquer
 http://tet.fairytaill.com/156/The%20Walking%20Dead/S05E16.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="The Walking Dead",The Walking Dead 5x15 LEG-MOB Try
