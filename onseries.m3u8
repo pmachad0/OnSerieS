@@ -1,24 +1,24 @@
 #EXTM3U
 ####################################################################################################################################################
 ####################################################################################################################################################
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" pltv-name="ONSeries" pltv-description="Lista de séries para PlaylisTV/IPTV" pltv-cover="http://i.ytimg.com/vi/UoMYfrdAmV8/maxresdefault.jpg" pltv-author="PMachado" pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="0000000000"
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="SERVIDOR HD OFF",SERVIDOR HD OFF
+#PLAYLISTV: pltv-logo="https://goo.gl/UW9kcR" pltv-name="ONSeries" pltv-description="Lista de séries para PlaylisTV/IPTV" pltv-cover="http://i.ytimg.com/vi/UoMYfrdAmV8/maxresdefault.jpg" pltv-author="PMachado" pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="0000000000"
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="SERVIDOR HD OFF",SERVIDOR HD OFF
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/MyFuckingTVShows",bit.ly/MyFuckingTVShows
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="bit.ly/MyFuckingTVShows",bit.ly/MyFuckingTVShows
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/ONSeries",bit.ly/ONSeries
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="bit.ly/ONSeries",bit.ly/ONSeries
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/PlaylisTVSeries",bit.ly/PlaylisTVSeries
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="bit.ly/PlaylisTVSeries",bit.ly/PlaylisTVSeries
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/IPTVSeries",bit.ly/IPTVSeries
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="bit.ly/IPTVSeries",bit.ly/IPTVSeries
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="bit.ly/ListaSeries",bit.ly/ListaSeries
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="bit.ly/ListaSeries",bit.ly/ListaSeries
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="#COMPARTILHE!!!",#COMPARTILHE!!!
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="#COMPARTILHE!!!",#COMPARTILHE!!!
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-MOB -> CELULAR(SD)",LEG-MOB -> CELULAR
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="LEG-MOB -> CELULAR(SD)",LEG-MOB -> CELULAR
 http://bit.ly/ONSeries
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5c4WnXXdGMwcnHrr3wnmONo0waTOF3JuhE1ASM4zrXvv=w394-h453-no" group-title="LEG-TV -> TV(HD)",LEG-TV -> TV
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="LEG-TV -> TV(HD)",LEG-TV -> TV
 http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
