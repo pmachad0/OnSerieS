@@ -49,6 +49,14 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tX4D0t" group-title="Novas Series Adicionadas",6T Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Novas Series Adicionadas",1T Legendado MOB
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##100 Code Legendado > ServidorONSeries2
@@ -251,8 +259,10 @@ http://fab.fairytaill.com/156/Agent%20Carter/S01E01.MP4?agentcarter
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Agents of S.H.I.E.L.D. Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x03 13/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x04 20/10/2015
 http://bit.ly/ONSeries?marvels
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x03 LEG-MOB A Wanted (Inhu)man
+http://reb.fairytaill.com/156/Agents%20of%20S.H.I.E.L.D/S03E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x02 LEG-MOB Purpose in the Machine
 http://reb.fairytaill.com/156/Agents%20of%20S.H.I.E.L.D/S03E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x01 LEG-MOB Laws of Nature
@@ -766,10 +776,12 @@ http://goo.gl/XkdiF1
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##American Horror Story Dublado/Legendado > DUB1ServidorRedeC 2ServidorEgde LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x02 14/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x03 21/10/2015
 http://bit.ly/ONSeries?americanhorror
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x02 LEG-MOB Chutes and Ladders
+http://reb.fairytaill.com/156/American%20Horror%20Story/S05E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x01 LEG-MOB Checking In
-http://reb.fairytaill.com/156/American%20Horror%20Story/S05E01A.MP4?ONSeries
+http://reb.fairytaill.com/156/American%20Horror%20Story/S05E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 4x13 LEG-MOB Curtain Call
 http://tet.fairytaill.com/156/American%20Horror%20Story/S04E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 4x12 LEG-MOB Show Stoppers
@@ -899,8 +911,10 @@ http://tet.fairytaill.com/156/American%20Horror%20Story/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Arrow Dublado/Legendado > DUBSrevidosEdge LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x02 14/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x03 21/10/2015
 http://bit.ly/ONSeries?arrow
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x02 LEG-MOB The Candidate 
+http://reb.fairytaill.com/156/Arrow/S04E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x01 LEG-MOB Green Arrow
 http://reb.fairytaill.com/156/Arrow/S04E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 3x23 My name is Oliver Queen
@@ -1481,6 +1495,57 @@ http://pao.fairytaill.com/156/Better%20Call%20Saul/S01E02.MP4?ONSeries
 http://pao.fairytaill.com/156/Better%20Call%20Saul/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##Bitten Legendado > ServidorONSerieS
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 3T EM 2016
+http://bit.ly/ONSeries?bitten
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x10 LEG Fine Temporum
+http://reb.fairytaill.com/156/Bitten/S02E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x09 LEG Scavenger’s Daughter
+http://reb.fairytaill.com/156/Bitten/S02E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x08 LEG Dark Arts
+http://reb.fairytaill.com/156/Bitten/S02E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x07 LEG Bad Dreams
+http://reb.fairytaill.com/156/Bitten/S02E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x06 LEG Nine Circles
+http://reb.fairytaill.com/156/Bitten/S02E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x05 LEG Rabbit Hole
+http://reb.fairytaill.com/156/Bitten/S02E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x04 LEG Dead Meat
+http://reb.fairytaill.com/156/Bitten/S02E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x03 LEG Hell’s Teeth
+http://reb.fairytaill.com/156/Bitten/S02E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x02 LEG Scare Tactics
+http://reb.fairytaill.com/156/Bitten/S02E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x01 LEG Bad Blood
+http://reb.fairytaill.com/156/Bitten/S02E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x13 LEG Bad Ready
+http://reb.fairytaill.com/156/Bitten/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x12 LEG-MOB Caged
+http://reb.fairytaill.com/156/Bitten/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x11 LEG-MOB Settling
+http://reb.fairytaill.com/156/Bitten/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x10 LEG-MOB Descent
+http://reb.fairytaill.com/156/Bitten/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x09 LEG-MOB Vengeance
+http://reb.fairytaill.com/156/Bitten/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x08 LEG-MOB Prisoner
+http://reb.fairytaill.com/156/Bitten/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x07 LEG-MOB Stalking
+http://reb.fairytaill.com/156/Bitten/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x06 LEG-MOB Committed
+http://reb.fairytaill.com/156/Bitten/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x05 LEG-MOB Bitten
+http://reb.fairytaill.com/156/Bitten/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x04 LEG-MOB Grief
+http://reb.fairytaill.com/156/Bitten/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x03 LEG-MOB Trespass
+http://reb.fairytaill.com/156/Bitten/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x02 LEG-MOB Prodigal
+http://reb.fairytaill.com/156/Bitten/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x01 LEG-MOB Summons
+http://reb.fairytaill.com/156/Bitten/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Black Sails Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/3aD49Q" group-title="Black Sails",Black Sails 3x01 EM 2016
 http://bit.ly/ONSeries?blacksails
@@ -1523,8 +1588,16 @@ http://pao.fairytaill.com/156/Black%20Sails/S01E01.MP4?blacksails
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Blindspot Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x02 28/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x05 19/10/2015
 http://bit.ly/ONSeries?blindspot
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x04 LEG-MOB Bone May Rot
+http://reb.fairytaill.com/156/Blindspot/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x03 LEG-MOB Eight Slim Grins
+http://reb.fairytaill.com/156/Blindspot/S01E03.MP4?ONSeriest
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x02 LEG-MOB Stray Howl
+http://reb.fairytaill.com/156/Blindspot/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x01 LEG-MOB Pilot
+http://reb.fairytaill.com/156/Blindspot/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x01 LEG-TV 28/09/2015
 http://www.megavideoupload.com/media/3415572440530dafaf909ca55d0750d0.MP4?ONSeries
 ####################################################################################################################################################
@@ -1978,6 +2051,31 @@ http://tet.fairytaill.com/156/Californication/S01E03.MP4?ONSeries
 http://tet.fairytaill.com/156/Californication/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/8VaGbx" group-title="Californication",Californication 1x01 LEG-MOB Pilot
 http://tet.fairytaill.com/156/Californication/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##Camelot Legendado > ServidorONSerieS
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot - Serie Finalizada
+http://bit.ly/ONSeries?camelot
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x10 LEG-MOB Reckoning - Season Finale
+http://reb.fairytaill.com/156/Camelot/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x09 LEG-MOB The Battle of Bardon Pass
+http://reb.fairytaill.com/156/Camelot/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x08 LEG-MOB Igraine
+http://reb.fairytaill.com/156/Camelot/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x07 LEG-MOB The Long Night
+http://reb.fairytaill.com/156/Camelot/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x06 LEG-MOB Three Journeys
+http://reb.fairytaill.com/156/Camelot/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x05 LEG-MOB Justice
+http://reb.fairytaill.com/156/Camelot/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x04 LEG-MOB Lady of the Lake
+http://reb.fairytaill.com/156/Camelot/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x03 LEG-MOB Guinevere
+http://reb.fairytaill.com/156/Camelot/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x02 LEG-MOB The Sword And The Crown
+http://reb.fairytaill.com/156/Camelot/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/yJ03Bj" group-title="Camelot",Camelot 1x01 LEG-MOB Homecoming
+http://reb.fairytaill.com/156/Camelot/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Castle Dublado > 1,2ServidorRedeC > 3a7wb5 COMPLETAR!
@@ -2765,24 +2863,44 @@ http://playfreehd.com/media/93c9bc281f62c5c1bfd7bc8ce1813fed.MP4?ONSeries
 	##Da Vinci’s Demons Dublado/Legendado > 1ServidorRedeC > 2DUBwb5
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 3x01 24/10/2015
 http://bit.ly/ONSeries?davinci
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x10 LEG-MOB The Sins of Daedalus
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x10 The Sins of Daedalus
 http://goo.gl/veczle
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x09 LEG-MOB The Enemies of Man
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x09 The Enemies of Man
 http://goo.gl/XGvDso
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x08 LEG-MOB The Fall from Heaven
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x08 The Fall from Heaven
 http://goo.gl/pa4I77
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x07 LEG-MOB The Vault of Heaven
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x07 The Vault of Heaven
 http://goo.gl/GKNZfw
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x06 LEG-MOB The Rope of the Dead
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x06 The Rope of the Dead
 http://goo.gl/7VYFcz
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x05 LEG-MOB The Sun and the Moon
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x05 The Sun and the Moon
 http://goo.gl/3kke88
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x04 LEG-MOB The Ends of the Earth
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x04 The Ends of the Earth
 http://goo.gl/cbAhIg
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x03 LEG-MOB The Voyage of the Damned
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x03 The Voyage of the Damned
 http://goo.gl/2FxmEE
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x02 LEG-MOB The Blood of Brothers
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x02 The Blood of Brothers
 http://goo.gl/IpVN8x
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x01 LEG-MOB The Blood of Man
+http://reb.fairytaill.com/156/Da%20Vinci's%20Demons/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 2x01 The Blood of Man
 http://goo.gl/Llx23H
 #EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Da Vinci’s Demons",Da Vinci’s Demons 1x08 The Lovers
@@ -3045,6 +3163,27 @@ http://goo.gl/vpD1n2
 http://goo.gl/kk9QGU
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##Dominion Legendado > ServidorONSerieS
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x01 UPANDO
+http://bit.ly/ONSeries?dominion
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x08 LEG-MOB Beware Those Closest To You
+http://reb.fairytaill.com/156/Dominion/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x07 LEG-MOB Ouroburos
+http://reb.fairytaill.com/156/Dominion/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x06 LEG-MOB Black Eyes Blue
+http://reb.fairytaill.com/156/Dominion/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x05 LEG-MOB Something Borrowed
+http://reb.fairytaill.com/156/Dominion/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x04 LEG-MOB The Flood
+http://reb.fairytaill.com/156/Dominion/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x03 LEG-MOB Broken Places
+http://reb.fairytaill.com/156/Dominion/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x02 LEG-MOB Godspeed
+http://reb.fairytaill.com/156/Dominion/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x01 LEG-MOB Pilot
+http://reb.fairytaill.com/156/Dominion/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Dracula Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/6jMh7Y" group-title="Dracula",Dracula - Serie Finalizada
 http://bit.ly/ONSeries?dracula
@@ -3277,6 +3416,8 @@ http://playfreehd.com/media/e5a21f15992d94753455bf928ec96042.MP4?ONSeries
 ####################################################################################################################################################
 	##Faking It Legendado > ServidorONSerieS
 http://bit.ly/ONSeries?fakingit
+#EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x17 LEG-MOB Prom Scare
+http://reb.fairytaill.com/156/Faking%20It/S02E17.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x16 LEG-MOB Faking It… Again
 http://reb.fairytaill.com/156/Faking%20It/S02E16.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/q0fcEL" group-title="Faking It",Faking It 2x15 LEG-MOB Boiling Point
@@ -3467,8 +3608,12 @@ http://www.megavideoupload.com/media/faf4517a37f51810c0f63b65063ef71f.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##From Dusk Till Dawn: The Series Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x07 06/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x09 20/10/2015
 http://bit.ly/ONSeries?fromdusktill
+#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x08 LEG-MOB The Last Temptation of Richard Gecko
+http://fab.fairytaill.com/156/From%20Dusk%20Till%20Dawn/S02E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x07 LEG-MOB Bring Me the Head of Santanico Pandemonium
+http://fab.fairytaill.com/156/From%20Dusk%20Till%20Dawn/S02E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x06 LEG-MOB Bizarre Tales
 http://fab.fairytaill.com/156/From%20Dusk%20Till%20Dawn/S02E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/aGL3kW" group-title="From Dusk Till Dawn: The Series",From Dusk Till Dawn: The Series 2x05 LEG-MOB Bondage
@@ -5062,8 +5207,10 @@ http://playfreehd.com/media/30856fa3fb6883e9b79efa5e0263500c.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##iZombie Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x02 13/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x03 20/10/2015
 http://bit.ly/ONSeries?izombie
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x02 LEG-MOB Bro
+http://reb.fairytaill.com/156/iZombie/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x01 LEG-MOB Grumpy Old Liv 
 http://reb.fairytaill.com/156/iZombie/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x13 LEG-MOB Blaine’s World
@@ -5683,6 +5830,43 @@ http://fab.fairytaill.com/156/Orphan%20Black/S01E03.MP4?orphanblack
 http://fab.fairytaill.com/156/Orphan%20Black/S01E02.MP4?orphanblack
 #EXTINF:-1 tvg-logo="https://goo.gl/2POIwG" group-title="Orphan Black",Orphan Black 1x01 LEG-MOB Natural Selection
 http://fab.fairytaill.com/156/Orphan%20Black/S01E01.MP4?orphanblack
+####################################################################################################################################################
+####################################################################################################################################################
+	##Outlander Legendado > ServidorONSerieS
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 2x01 EM 2016
+http://bit.ly/ONSeries?outlander
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x16 LEG-MOB To Ransom a Man’s Soul - Season Finale
+http://reb.fairytaill.com/156/Outlander/S01E16.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x15 LEG-MOB Wentworth Prison
+http://reb.fairytaill.com/156/Outlander/S01E15.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x14 LEG-MOB The Search
+http://reb.fairytaill.com/156/Outlander/S01E14.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x13 LEG-MOB The Watch
+http://reb.fairytaill.com/156/Outlander/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x12 LEG-MOB Lallybroch
+http://reb.fairytaill.com/156/Outlander/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x11 LEG-MOB The Devil’s Mark
+http://reb.fairytaill.com/156/Outlander/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x10 LEG-MOB By the Pricking of My Thumb
+http://reb.fairytaill.com/156/Outlander/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x09 LEG-MOB The Reckoning
+http://reb.fairytaill.com/156/Outlander/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x08 LEG-MOB Both Sides Now
+http://reb.fairytaill.com/156/Outlander/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x07 LEG-MOB The Wedding
+http://reb.fairytaill.com/156/Outlander/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x06 LEG-MOB The Garrison Commander
+http://reb.fairytaill.com/156/Outlander/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x05 LEG-MOB Rent
+http://reb.fairytaill.com/156/Outlander/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x04 LEG-MOB The Gathering
+http://reb.fairytaill.com/156/Outlander/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x03 LEG-MOB The Way Out
+http://reb.fairytaill.com/156/Outlander/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x02 LEG-MOB Castle Leoch
+http://reb.fairytaill.com/156/Outlander/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Outlander",Outlander 1x01 LEG-MOB Sassenach
+http://reb.fairytaill.com/156/Outlander/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Penny Dreadful Legendado > LEGServidorONSeries
@@ -6397,8 +6581,10 @@ http://playfreehd.com/media/5f4b42ac66c7088526a037b340a03238.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Queens Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x05 13/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x06 20/10/2015
 http://bit.ly/ONSeries?screamqueens
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x05 LEG-MOB Pumpkin Patch
+http://reb.fairytaill.com/156/Scream%20Queens/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x04 LEG-MOB Haunted House
 http://reb.fairytaill.com/156/Scream%20Queens/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x03 LEG-MOB Chainsaw
@@ -6903,8 +7089,10 @@ http://fab.fairytaill.com/156/Supergirl/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Supernatural Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x02 14/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x03 21/10/2015
 http://bit.ly/ONSeries?supernatural
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x02 LEG-MOB Form and Void
+http://reb.fairytaill.com/156/Supernatural/S11E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x01 LEG-MOB Out of the Darkness Into the Fire
 http://reb.fairytaill.com/156/Supernatural/S11E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 10x23 Brother’s Keeper
@@ -8135,8 +8323,10 @@ http://playfreehd.com/media/928df839d797b0007e0d18dac47ee550.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Flash Legendado/Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x02 13/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x03 20/10/2015
 http://nit.ly/ONSeries?theflash
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x02 LEG-MOB Flash of Two Worlds
+http://reb.fairytaill.com/156/The%20Flash/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x01 LEG-MOB The Man Who Saved Central City
 http://reb.fairytaill.com/156/The%20Flash/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 1x23 Fast Enough
