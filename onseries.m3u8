@@ -55,7 +55,9 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/mVxTqJ" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Novas Series Adicionadas",1T Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Novas Series Adicionadas",Legendado MOB
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -775,7 +777,7 @@ http://goo.gl/CuIOHt
 http://goo.gl/XkdiF1
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##American Horror Story Dublado/Legendado > DUB1ServidorRedeC 2ServidorEgde LEGServidorONSeries
+	##American Horror Story Dublado/Legendado > DUB1ServidorRedeC LEGServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x03 21/10/2015
 http://bit.ly/ONSeries?americanhorror
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x02 LEG-MOB Chutes and Ladders
@@ -3163,10 +3165,63 @@ http://goo.gl/vpD1n2
 http://goo.gl/kk9QGU
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##Dig Legendado > ServidorONSerieS
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig - Serie Finalizada
+http://bit.ly/ONSeries?dig
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x10 LEG-MOB Armageddon Protocol - Season Finale
+http://reb.fairytaill.com/156/Dig/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x09 LEG-MOB Jehoshaphat
+http://reb.fairytaill.com/156/Dig/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x08 LEG-MOB Sisters of Dinah
+http://reb.fairytaill.com/156/Dig/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x07 LEG-MOB Trust No One
+http://reb.fairytaill.com/156/Dig/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x06 LEG-MOB The Well of Souls
+http://reb.fairytaill.com/156/Dig/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x05 LEG-MOB Emma Wilson’s Father
+http://reb.fairytaill.com/156/Dig/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x04 LEG-MOB Prayer of David
+http://reb.fairytaill.com/156/Dig/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x03 LEG-MOB Meet the Rosenbergs
+http://reb.fairytaill.com/156/Dig/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x02 LEG-MOB Catch You Later
+http://reb.fairytaill.com/156/Dig/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x01 LEG-MOB Pilot
+http://reb.fairytaill.com/156/Dig/S01E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/ox4st7" group-title="Dig",Dig 1x00 LEG-MOB Episode 0
+http://reb.fairytaill.com/156/Dig/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
 	##Dominion Legendado > ServidorONSerieS
-#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x01 UPANDO
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 3x
 http://bit.ly/ONSeries?dominion
-#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x08 LEG-MOB Beware Those Closest To You
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x13 LEG-MOB Sine Deo Nihil - Season Finale
+http://reb.fairytaill.com/156/Dominion/S02E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x12 LEG-MOB Day of Wrath
+http://reb.fairytaill.com/156/Dominion/S02E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x11 LEG-MOB Bewilderment of Heart
+http://reb.fairytaill.com/156/Dominion/S02E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x10 LEG-MOB House of Sacrifice
+http://reb.fairytaill.com/156/Dominion/S02E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x09 LEG-MOB The Seed of Evil
+http://reb.fairytaill.com/156/Dominion/S02E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x08 LEG-MOB The Longest Mile Home
+http://reb.fairytaill.com/156/Dominion/S02E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x07 LEG-MOB Lay Thee Before Kings
+http://reb.fairytaill.com/156/Dominion/S02E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x06 LEG-MOB Reap of the Whirlwind
+http://reb.fairytaill.com/156/Dominion/S02E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x05 LEG-MOB Son of the Fallen
+http://reb.fairytaill.com/156/Dominion/S02E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x04 LEG-MOB A Bitter Truth
+http://reb.fairytaill.com/156/Dominion/S02E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x03 LEG-MOB The Narrow Gate
+http://reb.fairytaill.com/156/Dominion/S02E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x02 LEG-MOB Mouth of the Damned
+http://reb.fairytaill.com/156/Dominion/S02E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 2x01 LEG-MOB Heirs of Salvation
+http://reb.fairytaill.com/156/Dominion/S02E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x08 LEG-MOB Beware Those Closest To You - Season Finale
 http://reb.fairytaill.com/156/Dominion/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/fDhdHe" group-title="Dominion",Dominion 1x07 LEG-MOB Ouroburos
 http://reb.fairytaill.com/156/Dominion/S01E07.MP4?ONSeries
@@ -5251,8 +5306,10 @@ http://www.megavideoupload.com/media/04887d2deda316319c35a9316b4c5972.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Limitless Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x04 20/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x05 27/10/2015
 http://bit.ly/ONSeries?limitless
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x04 LEG-MOB Page 44 
+http://reb.fairytaill.com/156/Limitless/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x03 LEG-MOB The Legend of Marcos Ramos 
 http://reb.fairytaill.com/156/Limitless/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x02 LEG-MOB Badge! Gun!
@@ -7878,8 +7935,10 @@ http://pao.fairytaill.com/156/The%20100/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Bastard Executioner Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x04 29/09/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x07 20/10/2015
 http://bit.ly/ONSeries?thebastardexecutioner
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x06 LEG-MOB The Bastard Executioner 
+http://reb.fairytaill.com/156/The%20Bastard%20Executioner/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x05 LEG-MOB Piss Profit/Proffidwyr Troeth
 http://reb.fairytaill.com/156/The%20Bastard%20Executioner/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x04 LEG-MOB A Hunger/Newyn
@@ -9162,8 +9221,10 @@ http://fab.fairytaill.com/156/The%20Knick/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Originals Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x02 15/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x03 22/10/2015
 http://bit.ly/ONSeries/theoriginals
+#EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x02 LEG-MOB You Hung the Moon
+http://reb.fairytaill.com/156/The%20Originals/S03E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 3x01 LEG-MOB For The Next Millennium
 http://reb.fairytaill.com/156/The%20Originals/S03E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/9xHNBx" group-title="The Originals",The Originals 2x22 LEG-MOB Ashes to Ashes
@@ -9506,8 +9567,10 @@ http://fab.fairytaill.com/156/The%20Strain/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Vampire Diaries Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x02 15/10/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x03 22/10/2015
 http://bit.ly/ONSeries/thevampirediaries
+#EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x02 LEG-MOB Never Let Me Go
+http://reb.fairytaill.com/156/The%20Vampire%20Diaries/S07E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 7x01 LEG-MOB Day One of Twenty-Two Thousand - Give or Take
 http://reb.fairytaill.com/156/The%20Vampire%20Diaries/S07E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/3CykBQ" group-title="The Vampire Diaries",The Vampire Diaries 6x22 LEG-MOB I’m Thinking Of You All The While
@@ -10040,6 +10103,8 @@ http://goo.gl/Q2SQNP
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##True Blood Legendado > 1a6ServidorRedeC > 7wb5
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood - Serie Finalizada
+http://bit.ly/ONSeries?trueblood
 #EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x10 LEG Obrigado
 http://r15---sn-bg07yn7z.googlevideo.com/videoplayback?id=2ea0711bf403fcd5&itag=18&source=blogger&app=blogger&ip=177.132.86.31&ipbits=0&expire=1441041022&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=107DCF02CDC4ECA6784510A98FBDED8E10519810.574DAFD740680CA8916ED6896A09A457A8AD8627&key=cms1&pl=20&req_id=e69a3dac441b36e2&redirect_counter=2&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1438893439&mv=m
 #EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x09 LEG O Amor é Para Morrer
@@ -10204,6 +10269,8 @@ http://goo.gl/ZtV6DW
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##True Detective Dublado/Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/XkF4pW" group-title="True Detective",True Detective 3x SERIE RETORNANDO
+http://bit.ly/ONSeries?truedetective
 #EXTINF:-1 tvg-logo="https://goo.gl/XkF4pW" group-title="True Detective",True Detective 2x08 Omega Station - Season Finale
 http://www.megavideoupload.com/media/32afe31ad590ec7b703131415c4cb30b.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XkF4pW" group-title="True Detective",True Detective 2x08 LEG-TV Omega Station – Season Finale
@@ -10271,7 +10338,9 @@ http://playfreehd.com/media/4599064494f8665b33bda4b21c733649.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Two And A Half Men Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 12x15/16 LEG-MOB Of Course He’s Dead
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men - Serie Finalizada
+http://bit.ly/ONSeries?twoandahalfman
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 12x15/16 LEG-MOB Of Course He’s Dead - Season Finale
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S12E15-16.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 12x14 LEG-MOB Don’t Give A Monkey A Gun
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S12E14.MP4?ONSeries
@@ -10301,7 +10370,7 @@ http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S12E03.MP4?ONSeries
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S12E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 12x01 LEG-MOB The Ol’ Mexican Spinach
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S12E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 11x22 LEG-MOB Oh WALD-E Good Times Ahead
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 11x22 LEG-MOB Oh WALD-E Good Times Ahead - Season Finale
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S11E22.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 11x21 LEG-MOB Dial 1-900-MIX-A-LOT
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S11E21.MP4?ONSeries
@@ -10345,7 +10414,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/DHEMS11EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/DHEMS11EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 11x01 LEG-TV Nangnangnangnang
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/DHEMS11EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 10x23 LEG-TV Cows Prepare To Be Tipped
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 10x23 LEG-TV Cows Prepare To Be Tipped - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/DHEMS10EP23.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 10x22 LEG-TV My Bodacious Vidalia
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/DHEMS10EP22.MP4?ONSeries
@@ -10391,7 +10460,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS10EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS10EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 10x01 LEG-TV I Changed My Mind About the Milk
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS10EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 9x24 LEG-MOB Oh Look! Al-Qaeda!
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 9x24 LEG-MOB Oh Look! Al-Qaeda! - Season Finale
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S09E24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 9x23 LEG-MOB The Straw In My Donut Hole
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S09E23.MP4?ONSeries
@@ -10439,7 +10508,7 @@ http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S09E03.MP4?ONSeries
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S09E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 9x01 LEG-MOB Nice to Meet You Walden Schmidt
 http://fab.fairytaill.com/156/Two%20And%20a%20Half%20Men/S09E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 8x16 LEG-TV That Darn Priest
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 8x16 LEG-TV That Darn Priest - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS08EP16.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 8x15 LEG-TV Three Hookers and a Philly Cheesesteak
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS08EP15.MP4?ONSeries
@@ -10471,7 +10540,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS08EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS08EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 8x01 LEG-TV Three Girls and a Guy Named Bud
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS08EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 7x22 LEG-TV This Is Not Gonna End Well
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 7x22 LEG-TV This Is Not Gonna End Well - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS07EP22.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 7x21 LEG-TV Gumby with a Pokey
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS07EP21.MP4?ONSeries
@@ -10515,7 +10584,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS07EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS07EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 7x01 LEG-TV 818-jklpuzo
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS07EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 6x24 LEG-TV Baseball Was Better With Steroids
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 6x24 LEG-TV Baseball Was Better With Steroids - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS06EP24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 6x23 LEG-TV Good Morning Mrs. Butterworth
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS06EP23.MP4?ONSeries
@@ -10563,7 +10632,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS06EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS06EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 6x01 LEG-TV Taterhead Is Our Love Child
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS06EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 5x19 LEG-TV Waiting for the Right Snapper
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 5x19 LEG-TV Waiting for the Right Snapper - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS05EP19.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 5x18 LEG-TV If My Hole Could Talk
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS05EP18.MP4?ONSeries
@@ -10601,7 +10670,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS05EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS05EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 5x01 LEG-TV Large Birds Spiders and Mom
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS05EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 4x24 LEG-TV Prostitutes and Gelato
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 4x24 LEG-TV Prostitutes and Gelato - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS04EP24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 4x23 LEG-TV Anteaters. They’re Just Crazy-lookin
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS04EP23.MP4?ONSeries
@@ -10649,7 +10718,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS04EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS04EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 4x01 LEG-TV Working for Caligula
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS04EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 3x24 LEG-TV That Pistol-Packin’ Hermaphrodite
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 3x24 LEG-TV That Pistol-Packin’ Hermaphrodite - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS03EP24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 3x23 LEG-TV Arguments for the Quickie
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS03EP23.MP4?ONSeries
@@ -10697,7 +10766,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS03EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS03EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 3x01 LEG-TV Weekend in Bangkok with Two Olym…
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS03EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 2x24 LEG-TV Does This Smell Funny to You?
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 2x24 LEG-TV Does This Smell Funny to You? - Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS02EP24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 2x23 LEG-TV Squab
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS02EP23.MP4?ONSeries
@@ -10745,7 +10814,7 @@ http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS02EP03.MP4?ON
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS02EP02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 2x01 LEG-TV Back Off Mary Poppins
 http://streaming.redecanais.com/RedeCanais/RCServer2/ondemand/DHEMS02EP01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 1x24 LEG-TV Can You Feel My Finger?
+#EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 1x24 LEG-TV Can You Feel My Finger? - Season Finale
 http://goo.gl/1Dohly
 #EXTINF:-1 tvg-logo="https://goo.gl/tt8X16" group-title="Two And A Half Men",Two And A Half Men 1x23 LEG-TV Just Like Buffalo	
 http://goo.gl/a31GTB
@@ -10799,49 +10868,73 @@ http://goo.gl/mePL4q
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome - Serie Cancelada
 http://bit.ly/ONSeries?underthedome
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x13 The Enemy Within - Season Finale
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x13 LEG-MOB The Enemy Within - Season Finale
+http://fab.fairytaill.com/156/Under%20The%20Dome/S03E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x13 LEG-TV The Enemy Within - Season Finale
 http://www.megavideoupload.com/media/0c2ff391b6b300f9bb2318590d4b8f5d.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x12 Incandescence
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x12 LEG-MOB Incandescence
+http://fab.fairytaill.com/156/Under%20The%20Dome/S03E12.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x12 LEG-TV Incandescence
 http://www.megavideoupload.com/media/c5c84eff9efae42e729f0f02604d2340.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x11 Love is a Battlefield
 http://www.megavideoupload.com/media/1c0d75c74d8ffbcc0031f6300fdb68d0.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x11 LEG-MOB Love is a Battlefield
+http://fab.fairytaill.com/156/Under%20The%20Dome/S03E11.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x11 LEG-TV Love is a Battlefield
 http://www.megavideoupload.com/media/516f540ff41339f06a69e29320a1fe8e.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x10 Legacy
 http://www.megavideoupload.com/media/97ac7b79c80658563004fd707506b953.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x10 LEG-MOB Legacy
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x10 LEG-TV Legacy
 http://www.megavideoupload.com/media/b6ebb7d27a1197f461a1c3c0fbdf3b42.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x09 Plan B
 http://www.megavideoupload.com/media/e72a7bf24690d848c156c35ef1079a88.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x09 LEG-MOB Plan B
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x09 LEG-TV Plan B
 http://www.megavideoupload.com/media/812e1a9d6d6f00399311e9134f76e71e.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x08 Breaking Point
 http://www.megavideoupload.com/media/c3e0dcb2e7827f4f2b5f4cfae73f478c.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x08 LEG-MOB Breaking Point
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x08 LEG-TV Breaking Point
 http://www.megavideoupload.com/media/65963a7782685d51520331fd545ff839.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x07 Ejecta
 http://www.megavideoupload.com/media/c199b48d2b0c26ca085a16c6138468ab.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x07 LEG-MOB Ejecta
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x07 LEG-TV Ejecta
 http://www.megavideoupload.com/media/536a3448b0e805685a0408540bb269f6.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x06 Like a House on Fire
 http://www.megavideoupload.com/media/778964396072a07557fa0506e794e1c3.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x06 LEG-MOB Like a House on Fire
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x06 LEG-TV Like a House on Fire
 http://www.megavideoupload.com/media/b8804b38eadfbe27464bc1c778f1db9e.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x05 Alaska
 http://www.megavideoupload.com/media/fd153de062a7ead18dfd79a55194639d.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x05 LEG-MOB Alaska
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x05 LEG-TV Alaska
 http://www.megavideoupload.com/media/9e5d98a2c1411beae7e450ed4f66cb24.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x04 The Kinship
 http://www.megavideoupload.com/media/1063a28ea0b98644ace1b100de50d500.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x04 LEG-MOB The Kinship
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x04 LEG-TV The Kinship
 http://www.megavideoupload.com/media/3cfd2e622adda8fa6b78291d36f26138.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x03 Redux
 http://www.megavideoupload.com/media/3a6bfd55b1ea5e05b137810ba30b8e0b.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x03 LEG-MOB Redux
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x03 LEG-TV Redux
 http://www.megavideoupload.com/media/3cfd2e622adda8fa6b78291d36f26138.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x01/02 Move On
 http://www.megavideoupload.com/media/3caba442b5d143456dccb9e2d71de906.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x01/02 LEG-MOB Move On
+http://pao.fairytaill.com/156/Under%20The%20Dome/S03E01-02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 3x01/02 LEG-TV Move On
 http://www.megavideoupload.com/media/0d59693600d7ccc40c7b034a75f15334.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/XQfpHG" group-title="Under the Dome",Under the Dome 2x13 LEG-MOB Go Now
@@ -10899,6 +10992,8 @@ http://pao.fairytaill.com/156/Under%20The%20Dome/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##UnREAL Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/5vriC7" group-title="UnREAL",UnREAL 2x DATA INDEFINIDA
+http://bit.ly/ONSeries?unreal
 #EXTINF:-1 tvg-logo="https://goo.gl/5vriC7" group-title="UnREAL",UnREAL 1x10 LEG-TV Future - Season Finale
 http://playfreehd.com/media/32cbb5e125f62229f1af3d6066ccf6a0.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/5vriC7" group-title="UnREAL",UnREAL 1x09 LEG-TV Princess
@@ -10921,7 +11016,9 @@ http://playfreehd.com/media/8651c4f6490c2d00e618f15d9138f052.MP4?ONSeries
 http://playfreehd.com/media/fa9c5ca1a8260b8b0a42e111be4412f6.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Vikings Legendado > ServidorONSeries
+	##Vikings Legendado > ServidorONSeries	
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings",Vikings 4x EM 2016
+http://bit.ly/ONSeries?vikings
 #EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings",Vikings 3x10 LEG-MOB The Dead
 http://pao.fairytaill.com/156/Vikings/S03E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings",Vikings 3x09 LEG-MOB Breaking Point
@@ -11001,6 +11098,8 @@ http://goo.gl/hl6c3u
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Wayward Pines Dublado/Legendado > ServidorONSeries2
+#EXTINF:-1 tvg-logo="https://goo.gl/QYGael" group-title="Wayward Pines",Wayward Pines - Serie Finalizada
+http://bit.ly/ONSeries?waywardpines
 #EXTINF:-1 tvg-logo="https://goo.gl/QYGael" group-title="Wayward Pines",Wayward Pines 1x10 Cycle
 http://playfreehd.com/media/bad0027a42739ba650a90496337a2696.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QYGael" group-title="Wayward Pines",Wayward Pines 1x10 LEG-TV Cycle
