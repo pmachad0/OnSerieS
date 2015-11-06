@@ -41,6 +41,8 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Novas Series Adicionadas",Dublado HD
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##100 Code Legendado > ServidorONSeries2
@@ -636,52 +638,76 @@ http://goo.gl/lcYmLp
 http://goo.gl/9H9mzd
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Awkward Legendado > 1,2ServidorRedeC > 3,4wb5
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x21 LEG Sprang Break (Part 2)
-http://r7---sn-p5qlsu7z.googlevideo.com/videoplayback?id=8ef20ed38f2eb23f&itag=18&source=blogger&app=blogger&ip=66.249.88.131&ipbits=0&expire=1438135250&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5A764195CE6D97B21C7F0759EB2C5C6FB1B28B8A.73B3C434CABD612DA763BD2F984576F364C586CA&key=cms1&pl=25&req_id=ecfe45c708faa3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1435987758&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x20 LEG Sprang Break (Part 1)
-http://r4---sn-bg07yn7l.googlevideo.com/videoplayback?id=891bfbce45bcf6f7&itag=18&source=blogger&app=blogger&ip=201.22.53.139&ipbits=0&expire=1438135245&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=61C903692E4ABAAF73D333504BFF488CC3F93368.3906288573F70BDB26F750461E09F889DAD81BFA&key=cms1&pl=20&req_id=71ae84e21b99a3ee&redirect_counter=3&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1435987722&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x19 LEG Over the Hump
-http://r2---sn-p5qlsu76.googlevideo.com/videoplayback?id=d97886bf97c3502a&itag=18&source=blogger&app=blogger&ip=66.249.88.144&ipbits=0&expire=1438135226&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6395C25A0579E8EFB04DE02D360C55F73B371490.5F641D5D79760BBF7C0A260ABACBF519348DEFCA&key=cms1&pl=25&req_id=b9ee81bd62bda3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu76&ms=tsu&mt=1435987697&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x18 LEG Girl Rules
-http://r5---sn-p5qlsu7z.googlevideo.com/videoplayback?id=79754a336c97825f&itag=18&source=blogger&app=blogger&ip=66.102.8.166&ipbits=0&expire=1438135219&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=746FFD6C9CCE41214ECD19659A0A7C1294273D0A.4DAEA69C66CA0036B7DAD2AEE24EC32D6D3DA8A8&key=cms1&pl=25&req_id=bf19320f4d88a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1435987697&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x17 LEG The New Sex Deal
-http://r3---sn-p5qlsu7s.googlevideo.com/videoplayback?id=542e8dc05b21f749&itag=18&source=blogger&app=blogger&ip=66.102.8.156&ipbits=0&expire=1438135213&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=81CE16C0EF2D823EDB965DE85558D0DEC4B6B58F.6DC4FDB1512127911BD936072E4152813DFAC3A6&key=cms1&pl=25&req_id=875fe1712eb2a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7s&ms=tsu&mt=1435987697&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x16 LEG Hashtag Drama
-http://r7---sn-p5qlsu7s.googlevideo.com/videoplayback?id=8e0390de2092a73b&itag=18&source=blogger&app=blogger&ip=66.249.88.219&ipbits=0&expire=1438135205&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=81D62F9B4671ED0B9F08182110742A7D10D31032.6DE160CFFCD3DE843573743A09F35D0110C4877F&key=cms1&pl=25&req_id=482a25c73817a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7s&ms=tsu&mt=1435987697&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x15 LEG Bonfire of the Vanites
-http://r4---sn-p5qlsu76.googlevideo.com/videoplayback?id=a75aa210ae8bd6e0&itag=18&source=blogger&app=blogger&ip=66.249.88.160&ipbits=0&expire=1438135198&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=81E13FE6A3A3130F1E665D06B0C491164B1E6972.2590EC2122A750AD800C5BB41C13D0D46567C5A3&key=cms1&pl=25&req_id=a447f5873984a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu76&ms=tsu&mt=1435987697&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x14 LEG Welcome to Hell
-http://r1---sn-p5qlsu7z.googlevideo.com/videoplayback?id=d2d7ae0e8f650da2&itag=18&source=blogger&app=blogger&ip=66.249.88.243&ipbits=0&expire=1438135189&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=4BB56FDC049325439D7CBAB0517AEDBE3E15454D.3A4CFE2BFD7761B43E1124465968EF4D77782711&key=cms1&pl=25&req_id=f70e65af368ba3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1435987697&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x13 LEG Auld Lang Party Season Finale
-http://r2---sn-p5qlsu7z.googlevideo.com/videoplayback?id=4b961754401d8a46&itag=18&source=blogger&app=blogger&ip=66.102.8.231&ipbits=0&expire=1438135181&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=018559EEAC04F8245666FC359E165972F1918939.36FDB5DBBAB9BB7A5F2B4576407AB00886CF2F6E&key=cms1&pl=25&req_id=7bc0b2b85a57a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1435987637&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x12 LEG Finals
-http://r2---sn-p5qlsu7k.googlevideo.com/videoplayback?id=9cb4510fed3187d9&itag=18&source=blogger&app=blogger&ip=66.249.88.229&ipbits=0&expire=1438135174&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=3007A858A11A6EA9B79E7F8DD0407FE676400753.4C415650EB6DFE5C545B33D3F1EBA3CE23E81C99&key=cms1&pl=25&req_id=8ffb7981eec8a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7k&ms=tsu&mt=1435987637&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x11 LEG Snow Jobs: Part 2
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x10 LEG Snow Job
+	##Awkward Legendado > ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x11 10/11/2015
+http://bit.ly/ONSeries?awkward
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x10 LEG-TV Reality Does Not Bite
+http://reb.fairytaill.com/321/Awkward/S05E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x09 LEG-TV Say No to the Dress
+http://reb.fairytaill.com/321/Awkward/S05E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x08 LEG-TV An Indecent Promposal
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x07 LEG-TV The Big Reveal
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x06 LEG-TV Don’t Dream It’s Over
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x05 LEG-TV The Dis-Engagement Dinner
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x04 LEG-TV Now You See Me Now I Don’t
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x03 LEG-TV Jenna in Wonderland
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x02 LEG-TV Short Circuit Party
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VedATC" group-title="Awkwardd",Awkward 5x01 LEG-TV Prank Amateurs
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS05EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x21 LEG-TV Sprang Break (Part 2)
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x20 LEG-TV Sprang Break (Part 1)
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x19 LEG-TV Over the Hump
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x18 LEG-TV Girl Rules
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x17 LEG-TV The New Sex Deal
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x16 LEG-TV Hashtag Drama
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x15 LEG-TV Bonfire of the Vanites
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x14 LEG-TV Welcome to Hell
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x13 LEG-TV Auld Lang Party Season Finale
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x12 LEG-TV Finals
+http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/AWKRDS04EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x11 LEG-TV Snow Jobs: Part 2
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x10 LEG-TV Snow Job
 http://r4---sn-p5qlsu7z.googlevideo.com/videoplayback?id=6738e70937e54e2f&itag=18&source=blogger&app=blogger&ip=66.249.88.207&ipbits=0&expire=1438135053&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=2FB51DA6330A5D49B5410A8BBE324DB58B09FC85.55D6DCD46612604FC5EBA36E013120A7F2E30CB4&key=cms1&pl=25&req_id=5115c30cc5fa3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x09 LEG My Personal Statement
-http://r2---sn-p5qlsu7s.googlevideo.com/videoplayback?id=4d1f35f139d42514&itag=18&source=blogger&app=blogger&ip=66.249.88.247&ipbits=0&expire=1438135045&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5EE6D923BEEF3B4878F2897CD788C4F201A85923.17386ECE5F5561E13F1C3E74E058D220BA65532A&key=cms1&pl=25&req_id=94f4441e653ba3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7s&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x08 LEG Prison Breaks
-http://r7---sn-p5qlsu7d.googlevideo.com/videoplayback?id=304dd0bb90a7af9a&itag=18&source=blogger&app=blogger&ip=66.249.88.196&ipbits=0&expire=1438135039&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=0FE438035A822C51084FC4A147A5658995922B06.113930BDDA15517EB98AFEF5B2A2C2232A9AA8CC&key=cms1&pl=25&req_id=bb8ea2fd2116a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7d&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x07 LEG After Hours
-http://r1---sn-p5qlsu7l.googlevideo.com/videoplayback?id=2437ec1189a82e3f&itag=18&source=blogger&app=blogger&ip=66.249.88.137&ipbits=0&expire=1438135031&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=7A22476DE399E620E6C5E7276D8C8DBAA545DC7C.5387E43CD82EC23B5FCB6EE845CFA28F2ABC18F6&key=cms1&pl=25&req_id=c1a85312b5b3a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7l&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x06 LEG Crowning Moments
-http://r5---sn-p5qlsu7e.googlevideo.com/videoplayback?id=4729309f2e6f3651&itag=18&source=blogger&app=blogger&ip=66.102.8.184&ipbits=0&expire=1438135025&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=57EB4645F65E255E49568BC85C1956FDCE2AFA4C.81B3CEDA0E832C9F323087FA362EFDF34CFC51F1&key=cms1&pl=25&req_id=f91d0a1acaa4a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7e&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x05 LEG Overnight
-http://r6---sn-p5qlsu7z.googlevideo.com/videoplayback?id=de1613d478b3038f&itag=18&source=blogger&app=blogger&ip=66.249.88.198&ipbits=0&expire=1438135018&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=030EDBB44DFE6904976703A2BCDE1EE585560678.51FC670009C61E80727F7700D6241A17B9F6B973&key=cms1&pl=25&req_id=ae65e3e5ce09a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x04 LEG Sophomore Sluts
-http://r3---sn-p5qlsu7k.googlevideo.com/videoplayback?id=3741f126beeb54c0&itag=18&source=blogger&app=blogger&ip=66.249.88.228&ipbits=0&expire=1438135012&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=019FF769BDDB7F80A8A2E6AEBB045BB7B4368D75.75E86FE88E0338F9F271D9CDE8F6FC3CAA7D754A&key=cms1&pl=25&req_id=b35be8173dda3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7k&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x03 LEG Touched by an Angel
-http://r4---sn-p5qlsu7d.googlevideo.com/videoplayback?id=0b3002ae7c302204&itag=18&source=blogger&app=blogger&ip=66.249.88.163&ipbits=0&expire=1438135007&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=57198E49443544BCFEF5FB90B393629F73E798CC.6F98549534695EDB54C0FFF6F46B4D1D27219519&key=cms1&pl=25&req_id=b6c26abad5baa3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7d&ms=tsu&mt=1435987518&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x02 LEG Listen to This
-http://r4---sn-p5qlsu7e.googlevideo.com/videoplayback?id=03906b9f71b09fb6&itag=18&source=blogger&app=blogger&ip=66.249.88.237&ipbits=0&expire=1438135001&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=11719116CEF3E4727D0B305E28DB14F121CCAE26.452205D252B28607D8DABC8DAEF13DE0BF54839F&key=cms1&pl=25&req_id=484045ae510ba3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7e&ms=tsu&mt=1435987456&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x01 LEG No Woman is an Island
-http://r4---sn-bg07yn7s.googlevideo.com/videoplayback?id=d4424fdd90b81b4a&itag=18&source=blogger&app=blogger&ip=201.22.53.139&ipbits=0&expire=1438134995&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=571D98E932CBBF2A37CFD2E0C3E59135775C6D60.1585F2A72E8D4479FFF3A5D8C7701B5DF6604957&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1435987484&mv=m&pl=20
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x20 LEG Who I Want to Be
-https://r10---sn-bg07yn7l.googlevideo.com/videoplayback?requiressl=yes&id=fd0486d73abaae8f&itag=18&source=picasa&ip=201.22.53.139&ipbits=0&expire=1438579214&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=0F0B3E5CACB27F50A313F19C5FE7AEE78C77D11B.350D5D88593014A6FBBBB753243628B1339548C6&key=cms1&begin=0&cm2=0&pl=20&redirect_counter=1&req_id=56b4ca1e590ca3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1435987185&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x19 LEG Karmic Relief
-https://r8---sn-bg07yn7e.googlevideo.com/videoplayback?requiressl=yes&id=0337be53bb91a5cb&itag=18&source=picasa&ip=201.22.53.139&ipbits=0&expire=1438579170&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=1291031B984A02B550EA984BD41B0F901E038D0C.16A61A3526CF47C028C960EA384BF622CCA7026F&key=cms1&begin=0&cm2=0&pl=20&redirect_counter=1&req_id=c25d831c8f4fa3ee&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1435987185&mv=m
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x09 LEG-TV My Personal Statement
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x08 LEG-TV Prison Breaks
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x07 LEG-TV After Hours
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x06 LEG-TV Crowning Moments
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x05 LEG-TV Overnight
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x04 LEG-TV Sophomore Sluts
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x03 LEG-TV Touched by an Angel
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x02 LEG-TV Listen to This
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 4x01 LEG-TV No Woman is an Island
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/AWKRDS04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x20 LEG-TV Who I Want to Be
+http://streaming.redecanais.com/RedeCanais/RCServer6/ondemand/AWKRDS03EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x19 LEG-TV Karmic Relief
+http://streaming.redecanais.com/RedeCanais/RCServer6/ondemand/AWKRDS03EP19.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x18 LEG-TV Old Jenna
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/AWKRDS03EP18.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x17 LEG-TV The Campaign Fail
@@ -765,8 +791,10 @@ http://goo.gl/XkdiF1
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##American Horror Story Dublado/Legendado > DUB1ServidorRedeC LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x05 05/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x06 12/11/2015
 http://bit.ly/ONSeries?americanhorror
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x05 LEG-MOB Room Service
+http://reb.fairytaill.com/321/American%20Horror%20Story/S05E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x04 LEG-MOB Devil’s Night
 http://reb.fairytaill.com/321/American%20Horror%20Story/S05E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x03 LEG-MOB Mommy
@@ -835,7 +863,7 @@ http://tet.fairytaill.com/321/American%20Horror%20Story/S02E12.MP4?ONSeries
 http://tet.fairytaill.com/321/American%20Horror%20Story/S02E11.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 2x10 LEG-MOB The Name Game
 http://tet.fairytaill.com/321/American%20Horror%20Story/S02E10.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 2x09 LEG-MOB LEG The Coat Hanger
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 2x09 LEG-MOB LEG-TV The Coat Hanger
 http://tet.fairytaill.com/321/American%20Horror%20Story/S02E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 2x08 LEG-MOB Unholy Night
 http://tet.fairytaill.com/321/American%20Horror%20Story/S02E08.MP4?ONSeries
@@ -867,7 +895,7 @@ http://goo.gl/uM86UW
 http://tet.fairytaill.com/321/American%20Horror%20Story/S01E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 1x09 Spooky Little Girl
 http://goo.gl/tvuIqz
-#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 1x09 LEG-MOB LEG Spooky Little Girl
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 1x09 LEG-MOB LEG-TV Spooky Little Girl
 http://tet.fairytaill.com/321/American%20Horror%20Story/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 1x08 Rubber Man
 http://goo.gl/gc7o3o
@@ -1497,27 +1525,27 @@ http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E01.MP4?ONSeries
 	##Bitten Legendado > ServidorONSerieS
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 3T EM 2016
 http://bit.ly/ONSeries?bitten
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x10 LEG Fine Temporum
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x10 LEG-TV Fine Temporum
 http://reb.fairytaill.com/321/Bitten/S02E10.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x09 LEG Scavenger’s Daughter
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x09 LEG-TV Scavenger’s Daughter
 http://reb.fairytaill.com/321/Bitten/S02E09.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x08 LEG Dark Arts
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x08 LEG-TV Dark Arts
 http://reb.fairytaill.com/321/Bitten/S02E08.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x07 LEG Bad Dreams
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x07 LEG-TV Bad Dreams
 http://reb.fairytaill.com/321/Bitten/S02E07.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x06 LEG Nine Circles
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x06 LEG-TV Nine Circles
 http://reb.fairytaill.com/321/Bitten/S02E06.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x05 LEG Rabbit Hole
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x05 LEG-TV Rabbit Hole
 http://reb.fairytaill.com/321/Bitten/S02E05.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x04 LEG Dead Meat
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x04 LEG-TV Dead Meat
 http://reb.fairytaill.com/321/Bitten/S02E04.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x03 LEG Hell’s Teeth
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x03 LEG-TV Hell’s Teeth
 http://reb.fairytaill.com/321/Bitten/S02E03.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x02 LEG Scare Tactics
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x02 LEG-TV Scare Tactics
 http://reb.fairytaill.com/321/Bitten/S02E02.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x01 LEG Bad Blood
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x01 LEG-TV Bad Blood
 http://reb.fairytaill.com/321/Bitten/S02E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x13 LEG Bad Ready
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x13 LEG-TV Bad Ready
 http://reb.fairytaill.com/321/Bitten/S01E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x12 LEG-MOB Caged
 http://reb.fairytaill.com/321/Bitten/S01E12.MP4?ONSeries
@@ -3817,7 +3845,7 @@ http://goo.gl/rO5gFh
 http://tet.fairytaill.com/321/Game%20of%20Thrones/S02E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/asl5DV" group-title="Game of Thrones",Game of Thrones 2x09 Blackwater
 http://goo.gl/VKalff
-#EXTINF:-1 tvg-logo="https://goo.gl/asl5DV" group-title="Game of Thrones",Game of Thrones 2x09 LEG-MOB LEG Blackwater
+#EXTINF:-1 tvg-logo="https://goo.gl/asl5DV" group-title="Game of Thrones",Game of Thrones 2x09 LEG-MOB LEG-TV Blackwater
 http://tet.fairytaill.com/321/Game%20of%20Thrones/S02E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/asl5DV" group-title="Game of Thrones",Game of Thrones 2x08 The Prince of Winterfell
 http://goo.gl/4EsoeM
@@ -3896,7 +3924,7 @@ http://tet.fairytaill.com/321/Game%20of%20Thrones/S01E01.MP4?ONSeries
 	##Glee Dublado > ServidorRedeC
 #EXTINF:-1 tvg-logo="https://goo.gl/jc8BWE" group-title="Glee",Glee 1x22 Jornada
 http://goo.gl/wVlgdY
-#EXTINF:-1 tvg-logo="https://goo.gl/jc8BWE" group-title="Glee",Glee 1x21 LEG Funk
+#EXTINF:-1 tvg-logo="https://goo.gl/jc8BWE" group-title="Glee",Glee 1x21 LEG-TV Funk
 http://goo.gl/6wrTaH
 #EXTINF:-1 tvg-logo="https://goo.gl/jc8BWE" group-title="Glee",Glee 1x20 Teatralidade
 http://goo.gl/x5h5Rb
@@ -5408,8 +5436,10 @@ http://www.megavideoupload.com/media/04887d2deda316319c35a9316b4c5972.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Limitless Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x07 04/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x08 11/11/2015
 http://bit.ly/ONSeries?limitless
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x07 LEG-MOB Brian Finch’s Black Op
+http://reb.fairytaill.com/321/Limitless/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x06 LEG-MOB Side Effects May Include…
 http://reb.fairytaill.com/321/Limitless/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x05 LEG-MOB Personality Crisis
@@ -6618,15 +6648,15 @@ http://goo.gl/nprNJ1
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Revolution Legendado > 1ServidorRedeC
-#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x22 LEG Declaration of Independence
+#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x22 LEG-TV Declaration of Independence
 http://r10---sn-bg07yn7z.googlevideo.com/videoplayback?id=c5030933434b02b6&itag=18&source=blogger&app=blogger&ip=200.175.195.227&ipbits=0&expire=1440763484&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=1D9D46F35A9FC918B7FAB943605F3DF0B7AD0956.259A93A4DD8A72C893E663089B0A1B5F37C0B385&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1438615941&mv=m&pl=22
-#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x21 LEG Memorial Day
+#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x21 LEG-TV Memorial Day
 http://r1---sn-bg07yn7e.googlevideo.com/videoplayback?id=45b3418303a36519&itag=18&source=blogger&app=blogger&ip=200.175.195.227&ipbits=0&expire=1440763480&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=12616C21009D0D00B06176C2020BB7420E25DE2F.3BD31E4ADD103308E6B291076E534F7BA211C278&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1438615941&mv=m&pl=22
-#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x20 LEG Tomorrowland
+#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x20 LEG-TV Tomorrowland
 http://r9---sn-bg07yn7s.googlevideo.com/videoplayback?id=1b73786c14f045e9&itag=18&source=blogger&app=blogger&ip=200.175.195.227&ipbits=0&expire=1440763477&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=38BFA561CD677965499A4BD61967F37E67AB6975.35E01C24E946DB0E0062B1579921FB23325839A4&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1438615941&mv=m&pl=22
-#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x19 LEG Happens
+#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x19 LEG-TV Happens
 http://r6---sn-bg07dnle.googlevideo.com/videoplayback?id=8ce76d26c1aae358&itag=18&source=blogger&app=blogger&ip=200.175.195.227&ipbits=0&expire=1440763475&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=0B27280D0C8C5A3FF84209023E8DAAD8778A38D9.5B00CD54125E04B6DC65C56C7DF2F8F3F2851819&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1438615941&mv=m&pl=22
-#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x18 LEG Austin City Limits
+#EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x18 LEG-TV Austin City Limits
 http://r5---sn-bg07yn7e.googlevideo.com/videoplayback?id=2ed7cb03130c13d7&itag=18&source=blogger&app=blogger&ip=200.175.195.227&ipbits=0&expire=1440763452&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=27E837CAFCF4D5477D06A3D1568E2C0C404B6857.480D903856D5F9F17AA7730585585100B753DD22&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1438615941&mv=m&pl=22
 #EXTINF:-1 tvg-logo="https://goo.gl/W1Iw4Z" group-title="Revolution",Revolution 2x17 LEG-TV Why We Fight
 http://goo.gl/GNnfDX
@@ -7385,8 +7415,10 @@ http://fab.fairytaill.com/321/Supergirl/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Supernatural Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x05 04/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x06 11/11/2015
 http://bit.ly/ONSeries?supernatural
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x05 LEG-MOB Thin Lizzie
+http://reb.fairytaill.com/321/Supernatural/S11E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x04 LEG-MOB Baby
 http://reb.fairytaill.com/321/Supernatural/S11E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x03 LEG-MOB The Bad Seed
@@ -7936,9 +7968,9 @@ http://fab.fairytaill.com/321/Teen%20Wolf/S05E08.MP4?ONSeries
 http://fab.fairytaill.com/321/Teen%20Wolf/S05E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Teen Wolf",Teen Wolf 5x06 LEG-MOB Required Reading
 http://fab.fairytaill.com/321/Teen%20Wolf/S05E06.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Teen Wolf",Teen Wolf 5x05 LEG A Novel Approach
+#EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Teen Wolf",Teen Wolf 5x05 LEG-TV A Novel Approach
 http://fab.fairytaill.com/321/Teen%20Wolf/S05E05.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Teen Wolf",Teen Wolf 5x04 LEG Condition Terminal
+#EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Teen Wolf",Teen Wolf 5x04 LEG-TV Condition Terminal
 http://fab.fairytaill.com/321/Teen%20Wolf/S05E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/CmSsHZ" group-title="Teen Wolf",Teen Wolf 5x03 LEG-MOB Dreamcatchers
 http://fab.fairytaill.com/321/Teen%20Wolf/S05E03.MP4?ONSeries
@@ -8929,9 +8961,9 @@ http://pao.fairytaill.com/321/The%20Lizzie%20Borden%20Chronicles/S01E01.MP4?thel
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Mentalist Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/YPy4Q0" group-title="The Mentalist",The Mentalist 7x13 LEG White Orchids
+#EXTINF:-1 tvg-logo="https://goo.gl/YPy4Q0" group-title="The Mentalist",The Mentalist 7x13 LEG-TV White Orchids
 http://r3---sn-p5qlsu7e.googlevideo.com/videoplayback?id=3195834c4578d6b9&itag=18&source=blogger&app=blogger&ip=66.102.8.175&ipbits=0&expire=1439686239&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=459C6FF0A14EDB02EB8F0387D073A8AE3DC58116.578CE7650BD6EEDD4AF47FDB4C3BEFB7AF61C862&key=cms1&pl=26&req_id=952512c3dd1ca3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7e&ms=tsu&mt=1437538706&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/YPy4Q0" group-title="The Mentalist",The Mentalist 7x12 LEG Brown Shag Carpet
+#EXTINF:-1 tvg-logo="https://goo.gl/YPy4Q0" group-title="The Mentalist",The Mentalist 7x12 LEG-TV Brown Shag Carpet
 http://r5---sn-p5qlsu7l.googlevideo.com/videoplayback?id=5df560a9b828fde5&itag=18&source=blogger&app=blogger&ip=66.249.88.161&ipbits=0&expire=1439686227&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=3D82AAB8897250F95F1F409445078545E1DA3416.7F815FF4C2A9ACB74AE91098F158E5ADADC0BCEC&key=cms1&pl=25&req_id=4ae65cb66f00a3ee&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7l&ms=tsu&mt=1437538706&mv=m
 #EXTINF:-1 tvg-logo="https://goo.gl/YPy4Q0" group-title="The Mentalist",The Mentalist 7x11 LEG-TV-TV Byzantium
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/TMENTS07EP11.mp4
@@ -10421,25 +10453,25 @@ http://goo.gl/Q2SQNP
 	##True Blood Legendado > 1a6ServidorRedeC > 7wb5
 #EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood - Serie Finalizada
 http://bit.ly/ONSeries?trueblood
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x10 LEG Obrigado
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x10 LEG-TV Obrigado
 http://r15---sn-bg07yn7z.googlevideo.com/videoplayback?id=2ea0711bf403fcd5&itag=18&source=blogger&app=blogger&ip=177.132.86.31&ipbits=0&expire=1441041022&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=107DCF02CDC4ECA6784510A98FBDED8E10519810.574DAFD740680CA8916ED6896A09A457A8AD8627&key=cms1&pl=20&req_id=e69a3dac441b36e2&redirect_counter=2&cms_redirect=yes&mm=30&mn=sn-bg07yn7z&ms=nxu&mt=1438893439&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x09 LEG O Amor é Para Morrer
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x09 LEG-TV O Amor é Para Morrer
 http://r2---sn-p5qlsu7l.googlevideo.com/videoplayback?id=a11709c12be1f76d&itag=18&source=blogger&app=blogger&ip=66.249.88.250&ipbits=0&expire=1441041017&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=2BAB664B752899E7C771278D964DC157EA59CD76.3DD13BDE50A16527EFBEC1C5E2A769062F222731&key=cms1&pl=25&req_id=9b4ceff397b336e2&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7l&ms=tsu&mt=1438893515&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x08 LEG A Aproximar-se... Até o Chão
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x08 LEG-TV A Aproximar-se... Até o Chão
 http://r6---sn-p5qlsu7k.googlevideo.com/videoplayback?id=ec6a63f760c5cf01&itag=18&source=blogger&app=blogger&ip=66.102.8.152&ipbits=0&expire=1441041009&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=3995CDC936BEE5FDDA47ECAF9610C5B2BA7B0295.61C5FE4FB67CFA953EE2F42EF66978A6BF66C28C&key=cms1&pl=25&req_id=76cab061ac9336e2&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7k&ms=tsu&mt=1438893515&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x07 LEG Pode Ser a Última Vez
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x07 LEG-TV Pode Ser a Última Vez
 http://r3---sn-p5qlsu7z.googlevideo.com/videoplayback?id=de1d50b458ad5313&itag=18&source=blogger&app=blogger&ip=66.249.88.190&ipbits=0&expire=1441041004&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=21556C1C219E0A407FEB0FA9BF8FCEA78375E079.84AF8079ACDF50B2A8417C3C1112B82917B0CC65&key=cms1&pl=25&req_id=71707bc5192f36e2&redirect_counter=3&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1438893515&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x06 LEG Carma
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x06 LEG-TV Carma
 http://r7---sn-bg07yn7s.googlevideo.com/videoplayback?id=c2e117c1abb31d5c&itag=18&source=blogger&app=blogger&ip=177.132.86.31&ipbits=0&expire=1441040999&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=71A35BD1B4DF6353530FAEC660CEF4E6E8C73A53.2730F8C8B5C4BC0793EB736C3E5EDC8E894ECEB3&key=cms1&pl=20&req_id=8a515bb4b06936e2&redirect_counter=2&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1438893439&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x05 LEG Causa Perdida
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x05 LEG-TV Causa Perdida
 http://r4---sn-p5qlsu7l.googlevideo.com/videoplayback?id=c81b8440b4795597&itag=18&source=blogger&app=blogger&ip=66.249.88.229&ipbits=0&expire=1441040995&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6F36FC8B919A2A0B4F9EE8AA23D23CADC060C354.6D45AEA539A740F863105D3D6709A2FBDBBA9853&key=cms1&pl=25&req_id=3bb0f019afe536e2&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7l&ms=tsu&mt=1438893455&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x04 LEG A Morte Não é o Fim
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x04 LEG-TV A Morte Não é o Fim
 http://r4---sn-p5qlsu7l.googlevideo.com/videoplayback?id=f8e8c264d2158f71&itag=18&source=blogger&app=blogger&ip=66.102.8.156&ipbits=0&expire=1441040990&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=64439B7E16E24DF5517F1C536942B57ECD993CC6.66EBD178BE9F555E0C01FD759AB004786D242311&key=cms1&pl=25&req_id=227f15c7429636e2&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7l&ms=tsu&mt=1438893455&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x03 LEG Fogo no Buraco
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x03 LEG-TV Fogo no Buraco
 http://r2---sn-p5qlsu7d.googlevideo.com/videoplayback?id=c8e019d3d13e0971&itag=18&source=blogger&app=blogger&ip=66.249.88.166&ipbits=0&expire=1441040986&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=65565C24BD417E3E3124609D07EF1916321FE101.47751BA54D4B9C45E7885E82BECB49D66DD654C4&key=cms1&pl=25&req_id=1948579c7e8a36e2&redirect_counter=2&cms_redirect=yes&mm=26&mn=sn-p5qlsu7d&ms=tsu&mt=1438893455&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x02 LEG Eu Encontrei Você
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x02 LEG-TV Eu Encontrei Você
 http://r14---sn-bg07yn7e.googlevideo.com/videoplayback?id=a2d272bbff92b427&itag=18&source=blogger&app=blogger&ip=177.132.86.31&ipbits=0&expire=1441040980&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6D04A3E67A86A43BBB2587A536152D7A72980F67.78067C76A3992B27405FEE29152EFC97C2D88493&key=cms1&pl=20&req_id=b8a3b488903f36e2&redirect_counter=2&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1438893439&mv=m
-#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x01 LEG Jesus Vai Ser Aqui
+#EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 7x01 LEG-TV Jesus Vai Ser Aqui
 http://r13---sn-bg07yn7s.googlevideo.com/videoplayback?id=08feb80af5197abd&itag=18&source=blogger&app=blogger&ip=177.132.86.31&ipbits=0&expire=1441040975&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6228DDFBE0FE5C35B5DF9AF3D7AD007D8ECEE78F.5A93E194FF10ED58150265B6B843D57F7849276F&key=cms1&pl=20&req_id=9d0c7aa2705636e2&redirect_counter=2&cms_redirect=yes&mm=30&mn=sn-bg07yn7s&ms=nxu&mt=1438893439&mv=m
 
 #EXTINF:-1 tvg-logo="https://goo.gl/u4EqkP" group-title="True Blood",True Blood 6x10 LEG-TV Vamos Ir Todos Juntos Quando Vamos
