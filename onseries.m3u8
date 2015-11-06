@@ -39,6 +39,8 @@ http://bit.ly/ONSeries
 http://bit.ly/ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/2B4xRu" group-title="Novas Series Adicionadas",Legendado MOB
 http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Novas Series Adicionadas",Dublado HD
+http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##100 Code Legendado > ServidorONSeries2
@@ -3541,28 +3543,28 @@ http://reb.fairytaill.com/321/Faking%20It/S01E02.MP4?ONSeries
 http://reb.fairytaill.com/321/Faking%20It/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Falling Skies Dublado/Legendado > 1a3ServidorRedeC > 4,5wb5 ADD 4DUB
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x09 23/08/2015
+	##Falling Skies Dublado > ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 6x DATA INDEFINIDA
 http://bit.ly/ONSeries?fallingskies
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x09 23/08/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x10 Reborn – Season Finale
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x09 23/08/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x09 Reunion
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x08 LEG Stalag 14th Virginia
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x08 Stalag 14th Virginia
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x07 LEG Everybody Has Their Reasons
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x07 Everybody Has Their Reasons
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x06 LEG Respite
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x06 Respite
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x05 LEG Non-Essential Personnel
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x05 Non-Essential Personnel
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x04 LEG Pope Breaks Bad
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x04 Pope Breaks Bad
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x03 LEG 5Hatchlings 
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x03 Hatchlings 
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x02 LEG Hunger Pains
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x02 Hunger Pains
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x01 LEG Find Your Warrior
+#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 5x01 Find Your Warrior
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT05EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 4x12 Shoot the Moon 
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT04EP12.mp4
@@ -3585,9 +3587,9 @@ http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT04EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 4x03 Exodus
 http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT04EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 4x02 The Eye
-http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT04EP02.mp4
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/FALSKT04EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 4x01 Ghost in the Machine
-http://streaming.redecanais.com/RedeCanais/RCServer9/ondemand/FALSKT04EP01.mp4
+http://streaming.redecanais.com/RedeCanais/RCServer8/ondemand/FALSKT04EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 3x10 Brazil
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/FALSKT03EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Falling Skies",Falling Skies 3x09 Journey to Xilbalba
