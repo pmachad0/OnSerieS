@@ -2,7 +2,7 @@
 ####################################################################################################################################################
 ####################################################################################################################################################
 #PLAYLISTV: pltv-logo="https://goo.gl/UW9kcR" pltv-name="ONSeries" pltv-description="Lista de séries para PlaylisTV/IPTV" pltv-cover="http://i.ytimg.com/vi/UoMYfrdAmV8/maxresdefault.jpg" pltv-author="PMachado" pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="0000000000"
-#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="SERVIDOR HD OFF",SERVIDOR HD OFF
+#EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="SERVIDOR HD ON!!!",SERVIDOR HD ON!!!
 http://bit.ly/ONSeries
 #EXTINF:0 tvg-logo="https://goo.gl/UW9kcR" group-title="bit.ly/MyFuckingTVShows",bit.ly/MyFuckingTVShows
 http://bit.ly/ONSeries
@@ -23,25 +23,37 @@ http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Novas Series Adicionadas
-#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Novas Series Adicionadas",Dublado/Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/mhIfHL" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/GkbVY2" group-title="Novas Series Adicionadas",5T Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="Novas Series Adicionadas",Dublado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/cKmCDM" group-title="Novas Series Adicionadas",2T Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Novas Series Adicionadas",Dublado/Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Novas Series Adicionadas",Dublado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/Rcac2C" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Novas Series Adicionadas",Dublado/Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/G4iqn1" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Novas Series Adicionadas",Dublado/Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/2B4xRu" group-title="Novas Series Adicionadas",Legendado MOB
+#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="Novas Series Adicionadas",Dublado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/tgQiye" group-title="Novas Series Adicionadas",Dublado HD
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Novas Series Adicionadas",Dublado/Legendado HD
 http://bit.ly/ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Novas Series Adicionadas",Legendado HD
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Novas Series Adicionadas",Dublado/Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Novas Series Adicionadas",Dublado/Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="Novas Series Adicionadas",Dublado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Novas Series Adicionadas",Dublado/Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="Novas Series Adicionadas",Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Novas Series Adicionadas",Dublado/Legendado HD
+http://bit.ly/ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Novas Series Adicionadas",Legendado HD
 http://bit.ly/ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -223,6 +235,195 @@ http://fab.fairytaill.com/321/24%20Horas/S01E02.MP4?ONSeries
 http://fab.fairytaill.com/321/24%20Horas/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
+	##2 Broke Girls Dublado > ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x22 And The In and Out
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x21 And the Grate Expectations
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x20 And the Minor Problem
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x19 And the Look of the Irish
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x18 And the Taste Test
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x17 And the High Hook-Up
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x16 And the Zero Tolerance
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x15 And the Fat Cat
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x14 And the Cupcake Captives
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x13 And the Great Unwashed
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x12 And the Knock Off Knock Out
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x11 And the Crime Ring
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x10 And the Move-In Meltdown
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x09 And the Past and the Furious
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x08 And the Fun Factory
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x07 And a Loan for Christmas
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x06 And the Model Apartment
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x05 And the Brand Job
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x04 And the Old Bike Yarn
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x03 And the Childhood Not Included
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x02 And the DJ Face
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 4x01 And the Reality Problem
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x24 And the First Degree
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x23 And the Free Money
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x22 And the New Lease on Life
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x21 And the Wedding Cake Cake Cake
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x20 And the Not Broke Parents
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x19 And the Kilt Trip
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x18 And the Near Death Experience
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x17 And the Married Man Sleepover
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x16 And the ATM
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x15 And The Icing On The Cake
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x14 And the Dumpster Sex
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x13 And the Big But
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x12 And the French Kiss
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x11 And the Life After Death
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x10 And The First Day Of School
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x09 And the Pastry Porn
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x08 And the ‘It’ Hole
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x07 And the Girlfriend Experience
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x06 And the Piece of Sheet
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x05 And the Cronuts
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x04 And the Group Head
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x03 And the Kitty Kitty Spank Spank
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x02 And the Kickstarter
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 3x01 And the Soft Opening
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x24 And the Window of Opportunity
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x23 And the Tip Slip
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x22 And the Extra Work
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x21 And the Worst Selfie Ever
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x20 And the Big Hole
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x19 And the Temporary Distraction
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x18 And Not-So-Sweet Charity
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x17 And the Broken Hip
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x16 And Just Plane Magic
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x15 And the Psychic Shakedown
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x14 And Too Little Sleep
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x13 And the Bear Truth
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x12 And the High Holidays
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x11 And the Silent Partner
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x10 And the Big Opening
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x09 And the New Boss
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x08 And the Egg Special
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x07 And the Three Boys With Wood
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x06 And the Candy Manwich
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x05 And the Pre-Approved Credit Card
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x04 And the Cupcake War
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x03 And the Hold-Up
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x02 And the Pearl Necklace
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 2x01 And the Hidden Stash
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT02EP01.mp4
+EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x23/24 And Martha Stewart Have a Ball
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP23-24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x22 And the Big Buttercream Breakthrough
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x21 And the Messy Purse Smackdown
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x20 And The Drug Money
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x19 And The Spring Break
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x18 And the One-Night Stands
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x17 And the Kosher Cupcakes
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x16 And the Broken Hearts
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x15 And The Blind Spot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x14 And The Upstairs Neighbor
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x13 And The Secret Ingredient
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x12 And The Pop-Up Sale
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x11 And The Reality Check
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x10 And the Very Christmas Thanksgiving
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x09 And The Really Petty Cash
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x08 And Hoarder Culture
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x07 And the Pretty Problem
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x06 And the Disappearing Bed
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x05 And The ’90’s Horse Party
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x04 And The Rich People Problems
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x03 And Strokes of Goodwill
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x02 And the Break-up Scene
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VKMk9i" group-title="2 Broke Girls",2 Broke Girls 1x01 Pilot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/2BRKGLT01EP01.mp4
+####################################################################################################################################################
+####################################################################################################################################################
 	##Agent Carter Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="Agent Carter",Agent Carter 2x01 EM JANEIRO
 http://bit.ly/ONSeries?agentcarter
@@ -245,8 +446,10 @@ http://fab.fairytaill.com/321/Agent%20Carter/S01E01.MP4?agentcarter
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Agents of S.H.I.E.L.D. Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x07 10/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x08 17/11/2015
 http://bit.ly/ONSeries?marvels
+#EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x07 LEG-MOB Chaos Theory
+http://reb.fairytaill.com/321/Agents%20of%20S.H.I.E.L.D/S03E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x06 LEG-MOB Among Us Hide…
 http://reb.fairytaill.com/321/Agents%20of%20S.H.I.E.L.D/S03E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/71d0HL" group-title="Agents of S.H.I.E.L.D.",Agents of S.H.I.E.L.D. 3x05 LEG-MOB 4,722 Hours
@@ -639,8 +842,10 @@ https://googledrive.com/host/0B265dpk7MD54Z0ZZblhTR05GSlk/AVDRS01EP01.mp4
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Awkward Legendado > ServidorRedeC
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 5x11 10/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 5x12 17/11/2015
 http://bit.ly/ONSeries?awkward
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 5x11 LEG-MOB The Graduates
+http://reb.fairytaill.com/321/Awkward/S05E11.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 5x10 LEG-TV Reality Does Not Bite
 http://reb.fairytaill.com/321/Awkward/S05E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 5x09 LEG-TV Say No to the Dress
@@ -712,8 +917,10 @@ http://streaming.redecanais.com/RedeCanais/RCServer6/ondemand/AWKRDS03EP19.mp4
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/AWKRDS03EP18.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x17 LEG-TV The Campaign Fail
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/AWKRDS03EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x15/16 LEG-TV A Very Special Episode of Awkward
-http://streaming.redecanais.com
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x16 LEG-TV A Very Special Episode of Awkward 2
+https://googledrive.com/host/0B265dpk7MD54dXJYU0ZGSHByR1U/AWKRDS03EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x15 LEG-TV A Very Special Episode of Awkward
+https://googledrive.com/host/0B265dpk7MD54dXJYU0ZGSHByR1U/AWKRDS03EP15.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x14 LEG-TV The Bad Seed
 http://streaming.redecanais.com/RedeCanais/RCServer5/ondemand/AWKRDS03EP14.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ZxLsuO" group-title="Awkward",Awkward 3x13 LEG-TV Taking Sides
@@ -791,8 +998,10 @@ http://goo.gl/XkdiF1
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##American Horror Story Dublado/Legendado > DUB1ServidorRedeC LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x06 12/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x07 19/11/2015
 http://bit.ly/ONSeries?americanhorror
+#EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x06 LEG-MOB Room 33
+http://reb.fairytaill.com/321/American%20Horror%20Story/S05E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x05 LEG-MOB Room Service
 http://reb.fairytaill.com/321/American%20Horror%20Story/S05E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/LSqnwA" group-title="American Horror Story",American Horror Story 5x04 LEG-MOB Devil’s Night
@@ -932,8 +1141,10 @@ http://tet.fairytaill.com/321/American%20Horror%20Story/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Arrow Dublado/Legendado > DUBSrevidosEdge LEGServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x06 09/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x07 16/11/2015
 http://bit.ly/ONSeries?arrow
+#EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x06 LEG-MOB Lost Souls 
+http://reb.fairytaill.com/321/Arrow/S04E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x05 LEG-TV Haunted
 http://www.sv2.share1.megavideoupload.com/media/Arrow%204x5%20720p%20Legendado%20-%20JeanNinjja.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="Arrow",Arrow 4x05 LEG-MOB Haunted
@@ -1214,47 +1425,47 @@ http://playfreehd.com/media/86649bae39eb89ad141e4c28d989845c.MP4?ONSeries
 http://playfreehd.com/media/80a22db5b1485fed73dc6241422b3eaa.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Ballers Dublado/Legendado > ServidorONSeries2
+	##Ballers Dublado/Legendado > ServidorONSeries ServidorRedeC
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x10 Flamingos - Season Finale
-http://www.megavideoupload.com/media/d198953f53f4b0c86eca78c37b29a63c.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x10 LEG-TV Flamingos - Season Finale
-http://www.megavideoupload.com/media/44d3aba1563accfd17767e6ade099a8b.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x10 LEG-MOB Flamingos - Season Finale
+http://fab.fairytaill.com/321/Ballers/S01E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x09 Head-On 
-http://www.megavideoupload.com/media/3d723c302d1489a25a185fed5d31ce1d.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x09 LEG-TV Head-On 
-http://www.megavideoupload.com/media/f405721c46c63303c43e4c7c8aced607.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x09 LEG-MOB Head-On 
+http://fab.fairytaill.com/321/Ballers/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x08 Gaslighting
-http://playfreehd.com/media/090c52d82bddf33427ba93c219188114.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x08 LEG-TV Gaslighting
-http://playfreehd.com/media/f241389891402247ae854506280b18f0.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x08 LEG-MOB Gaslighting
+http://fab.fairytaill.com/321/Ballers/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x07 Ends
-http://playfreehd.com/media/2b49a4a7ef527ae384c6bd70f1132c0e.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x07 LEG-TV Ends
-http://playfreehd.com/media/d6617a2f189e2bd4bfb18853f86a9e27.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x07 LEG-MOB Ends
+http://fab.fairytaill.com/321/Ballers/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x06 Everything Is Everything
-http://playfreehd.com/media/7bbe2ea9e85eb9a50cc6b0d29ae14c59.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x06 LEG-TV Everything Is Everything
-http://playfreehd.com/media/336fbf6540e87f0ab5b9b510d0833214.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x06 LEG-MOB Everything Is Everything
+http://fab.fairytaill.com/321/Ballers/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x05 Machete Charge
-http://playfreehd.com/media/fae4c4e793f43ee62bb9f3e20ae0073c.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x05 LEG-TV Machete Charge
-http://playfreehd.com/media/2a46ba221a6307c20a21dd0798fcb0bb.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x05 LEG-MOB Machete Charge
+http://fab.fairytaill.com/321/Ballers/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x04 Heads will roll
-http://playfreehd.com/media/fd2f648c7bc7aec7c7d11b63bb67057c.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x04 LEG-TV Heads will roll
-http://playfreehd.com/media/2327758ba1bcae5a56c4a29e9738c705.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x04 LEG-MOB Heads will roll
+http://fab.fairytaill.com/321/Ballers/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x03 Move the Chains
-http://playfreehd.com/media/f70cf434b731b5784ef49f6ac267c2c1.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x03 LEG-TV Move the Chains
-http://playfreehd.com/media/1a56a73b81ee102dd07993927baed47d.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x03 LEG-MOB Move the Chains
+http://fab.fairytaill.com/321/Ballers/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x02 Raise Up
-http://playfreehd.com/media/0b8fbda073dc88a35aeebeb24f40e5ef.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x02 LEG-TV Raise Up
-http://playfreehd.com/media/5730ff91d30a6c763647c12023c64984.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x02 LEG-MOB Raise Up
+http://fab.fairytaill.com/321/Ballers/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x01 Pilot
-http://playfreehd.com/media/5d8944ef2ebc2522ee117df233558bc1.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x01 LEG-TV Pilot
-http://playfreehd.com/media/06fd2475893ea820e86d105b9d4beae9.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BALRST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QUnGy8" group-title="Ballers",Ballers 1x01 LEG-MOB Pilot
+http://fab.fairytaill.com/321/Ballers/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Bates Motel /Legendado > ServidorONSeries
@@ -1509,25 +1720,65 @@ http://fab.fairytaill.com/321/Beauty%20and%20the%20Beast/S01E01.MP4?ONSeries
 http://playfreehd.com/media/9ee0930a5a6a28c7d722c8229fe1875f.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Better Call Saul Legendado > ServidorONSeries
+	##Better Call Saul Dublado/Legendado > ServidorONSeries ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x10 Marco
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x10 LEG-MOB Marco
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x10 LEG-TV Marco
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x09 Pimento
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x09 LEG-MOB Pimento
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x09 LEG-TV Pimento
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x08 Rico
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x08 LEG-MOB Rico
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x08 LEG-TV Rico
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x07 Bingo
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x07 LEG-MOB Bingo
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x07 LEG-TV Bingo
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x06 Five-O
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x06 LEG-MOB Five-O
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x06 LEG-TV Five-O
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x05 Alpine Shepherd Boy
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x05 LEG-MOB Alpine Shepherd Boy
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x05 LEG-TV Alpine Shepherd Boy
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x04 Hero
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x04 LEG-MOB Hero
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x04 LEG-TV Hero
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x03 Nacho
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x03 LEG-MOB Nacho
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x03 LEG-TV Nacho
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x02 Mijo
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x02 LEG-MOB Mijo
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x02 LEG-TV Mijo
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x01 Uno
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x01 LEG-MOB Uno
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTRCLSLS01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul",Better Call Saul 1x01 LEG-TV Uno
 http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E01.MP4?ONSeries
 ####################################################################################################################################################
@@ -1535,50 +1786,96 @@ http://pao.fairytaill.com/321/Better%20Call%20Saul/S01E01.MP4?ONSeries
 	##Bitten Legendado > ServidorONSerieS
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 3T EM 2016
 http://bit.ly/ONSeries?bitten
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x10 LEG-TV Fine Temporum
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x10 Fine Temporum
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x10 LEG-MOB Fine Temporum
 http://reb.fairytaill.com/321/Bitten/S02E10.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x09 LEG-TV Scavenger’s Daughter
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x09 Scavenger’s Daughter
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x09 LEG-MOB Scavenger’s Daughter
 http://reb.fairytaill.com/321/Bitten/S02E09.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x08 LEG-TV Dark Arts
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x08 Dark Arts
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x08 LEG-MOB Dark Arts
 http://reb.fairytaill.com/321/Bitten/S02E08.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x07 LEG-TV Bad Dreams
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x07 Bad Dreams
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x07 LEG-MOB Bad Dreams
 http://reb.fairytaill.com/321/Bitten/S02E07.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x06 LEG-TV Nine Circles
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x06 Nine Circles
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x06 LEG-MOB Nine Circles
 http://reb.fairytaill.com/321/Bitten/S02E06.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x05 LEG-TV Rabbit Hole
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x05 Rabbit Hole
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x05 LEG-MOB Rabbit Hole
 http://reb.fairytaill.com/321/Bitten/S02E05.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x04 LEG-TV Dead Meat
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x04 Dead Meat
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x04 LEG-MOB Dead Meat
 http://reb.fairytaill.com/321/Bitten/S02E04.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x03 LEG-TV Hell’s Teeth
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x03 Hell’s Teeth
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x03 LEG-MOB Hell’s Teeth
 http://reb.fairytaill.com/321/Bitten/S02E03.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x02 LEG-TV Scare Tactics
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x02 Scare Tactics
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x02 LEG-MOB Scare Tactics
 http://reb.fairytaill.com/321/Bitten/S02E02.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x01 LEG-TV Bad Blood
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x01 Bad Blood
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 2x01 LEG-MOB Bad Blood
 http://reb.fairytaill.com/321/Bitten/S02E01.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x13 LEG-TV Bad Ready
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x13 Bad Ready
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x13 LEG-MOB Bad Ready
 http://reb.fairytaill.com/321/Bitten/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x12 Caged
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x12 LEG-MOB Caged
 http://reb.fairytaill.com/321/Bitten/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x11 Settling
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x11 LEG-MOB Settling
 http://reb.fairytaill.com/321/Bitten/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x10 Descent
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x10 LEG-MOB Descent
 http://reb.fairytaill.com/321/Bitten/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x09 Vengeance
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x09 LEG-MOB Vengeance
 http://reb.fairytaill.com/321/Bitten/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x08 Prisoner
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x08 LEG-MOB Prisoner
 http://reb.fairytaill.com/321/Bitten/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x07 Stalking
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x07 LEG-MOB Stalking
 http://reb.fairytaill.com/321/Bitten/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x06 Committed
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x06 LEG-MOB Committed
 http://reb.fairytaill.com/321/Bitten/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x05 Bitten
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x05 LEG-MOB Bitten
 http://reb.fairytaill.com/321/Bitten/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x04 Grief
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x04 LEG-MOB Grief
 http://reb.fairytaill.com/321/Bitten/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x03 Trespass
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x03 LEG-MOB Trespass
 http://reb.fairytaill.com/321/Bitten/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x02 Prodigal
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x02 LEG-MOB Prodigal
 http://reb.fairytaill.com/321/Bitten/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x01 Summons
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/BTENT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten",Bitten 1x01 LEG-MOB Summons
 http://reb.fairytaill.com/321/Bitten/S01E01.MP4?ONSeries
 ####################################################################################################################################################
@@ -1625,8 +1922,10 @@ http://pao.fairytaill.com/321/Black%20Sails/S01E01.MP4?blacksails
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Blindspot Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x08 09/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x09 16/11/2015
 http://bit.ly/ONSeries?blindspot
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x08 LEG-MOB Persecute Envoys
+http://reb.fairytaill.com/321/Blindspot/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x07 LEG-MOB Sent on Tour
 http://reb.fairytaill.com/321/Blindspot/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot",Blindspot 1x06 LEG-MOB Cede Your Soul
@@ -2637,31 +2936,83 @@ http://tet.fairytaill.com/321/Chuck/S01E02.MP4?ONSeries
 http://tet.fairytaill.com/321/Chuck/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Constantine Legendado > ServidorONSeries
+	##Constantine Dublado/Legendado > ServidorONSeries ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x13 Waiting for the Man 
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x13 LEG-TV Waiting for the Man 
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP13.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x13 LEG-MOB Waiting for the Man 
 http://tet.fairytaill.com/321/Constantine/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x12 Angels and Ministers of Grace
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x12 LEG-TV Angels and Ministers of Grace
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x12 LEG-MOB Angels and Ministers of Grace
 http://tet.fairytaill.com/321/Constantine/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x11 A Whole World Out There
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x11 LEG-TV A Whole World Out There
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x11 LEG-MOB A Whole World Out There
 http://tet.fairytaill.com/321/Constantine/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x10 Quid Pro Quo
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x10 LEG-TV Quid Pro Quo
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x10 LEG-MOB Quid Pro Quo
 http://tet.fairytaill.com/321/Constantine/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x09 The Saint of Last Resorts: Part 2
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x09 LEG-TV The Saint of Last Resorts: Part 2
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x09 LEG-MOB The Saint of Last Resorts: Part 2
 http://tet.fairytaill.com/321/Constantine/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x08 The Saint of Last Resorts
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x08 LEG-TV The Saint of Last Resorts
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x08 LEG-MOB The Saint of Last Resorts
 http://tet.fairytaill.com/321/Constantine/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x07 Blessed are the Damned
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x07 LEG-TV Blessed are the Damned
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x07 LEG-MOB Blessed are the Damned
 http://tet.fairytaill.com/321/Constantine/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x06 Rage of Caliban
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x06 LEG-TV Rage of Caliban
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x06 LEG-MOB Rage of Caliban
 http://tet.fairytaill.com/321/Constantine/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x05 Danse Vaudou
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x05 LEG-TV Danse Vaudou
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x05 LEG-MOB Danse Vaudou
 http://tet.fairytaill.com/321/Constantine/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x04 A Feast of Friends
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x04 LEG-TV A Feast of Friends
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x04 LEG-MOB A Feast of Friends
 http://tet.fairytaill.com/321/Constantine/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x03 The Devil’s Vinyl
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x03 LEG-TV The Devil’s Vinyl
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x03 LEG-MOB The Devil’s Vinyl
 http://tet.fairytaill.com/321/Constantine/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x02 The Darkness Beneath
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x02 LEG-TV The Darkness Beneath
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x02 LEG-MOB The Darkness Beneath
 http://tet.fairytaill.com/321/Constantine/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x01 Pilot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/CNSTNTT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x01 LEG-TV Pilot
+https://googledrive.com/host/0B265dpk7MD54M2tSSFR3bk82MW8/CNSTNTS01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/He4e6h" group-title="Constantine",Constantine 1x01 LEG-MOB Pilot
 http://tet.fairytaill.com/321/Constantine/S01E01.MP4?ONSeries
 ####################################################################################################################################################
@@ -2827,31 +3178,57 @@ http://bit.ly/ONSeries?crowded
 http://playfreehd.com/media/83ee3a1ea54ac998db1bb1b241ac7ea2.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Daredevil Legendado > LEGServidorONSeries
+	##Daredevil Dublado/Legendado > ServidorONSeries ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x13 Dare-devil
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP13.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x13 LEG-MOB Dare-devil
 http://fab.fairytaill.com/321/Demolidor/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x12 The Ones We Leave Behind
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x12 LEG-MOB The Ones We Leave Behind
 http://fab.fairytaill.com/321/Demolidor/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x11 The Path of the Righteous
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x11 LEG-MOB The Path of the Righteous
 http://fab.fairytaill.com/321/Demolidor/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x10 Nelson v. Murdock
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x10 LEG-MOB Nelson v. Murdock
 http://fab.fairytaill.com/321/Demolidor/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x09 Speak of the Devil
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x09 LEG-MOB Speak of the Devil
 http://fab.fairytaill.com/321/Demolidor/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x08 Shadows in the Glass
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x08 LEG-MOB Shadows in the Glass
 http://fab.fairytaill.com/321/Demolidor/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x07 Stick
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x07 LEG-MOB Stick
 http://fab.fairytaill.com/321/Demolidor/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x06 Condemned
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x06 LEG-MOB Condemned
 http://fab.fairytaill.com/321/Demolidor/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x05 World on Fire
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x05 LEG-MOB World on Fire
 http://fab.fairytaill.com/321/Demolidor/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x04 In the Blood
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x04 LEG-MOB In the Blood
 http://fab.fairytaill.com/321/Demolidor/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x03 Rabbit in a Snow Storm
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x03 LEG-MOB Rabbit in a Snow Storm
 http://fab.fairytaill.com/321/Demolidor/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x02 Cut Man
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x02 LEG-MOB Cut Man
 http://fab.fairytaill.com/321/Demolidor/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x01 Into the Ring
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/DMLDRT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Daredevil",Daredevil 1x01 LEG-MOB Into the Ring
 http://fab.fairytaill.com/321/Demolidor/S01E01.MP4?ONSeries
 ####################################################################################################################################################
@@ -3692,39 +4069,90 @@ http://goo.gl/UcTvXG
 http://goo.gl/WjVOIk
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Fear The Walking Dead Dublado/Legendado > ServidorONSeries2
+	##Fear The Walking Dead Dublado/Legendado
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 The Good Man 
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 LEG-MOB The Good Man 
 http://fab.fairytaill.com/321/Fear%20The%20Walking%20Dead/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x06 LEG-TV The Good Man 
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDS01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 Cobalt
-http://www.megavideoupload.com/media/395782bdeee9097bc50437b205fa4a29.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 LEG-MOB Cobalt
 http://fab.fairytaill.com/321/Fear%20The%20Walking%20Dead/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x05 LEG-TV Cobalt
-http://www.megavideoupload.com/media/9059ceb686bd0620a5c6c41864f6109c.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDS01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 Not Fade Awa
-http://megavideoupload.com/media/1728db076e2e5808f168c9ec57a78f4e.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 LEG-MOB Not Fade Awa
 http://fab.fairytaill.com/321/Fear%20The%20Walking%20Dead/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x04 LEG-TV Not Fade Awa
-http://megavideoupload.com/media/cf3b2570b939a7500b41a6021547f51c.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDS01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 The Dog
-http://www.megavideoupload.com/media/ac1e4e6c6d2ad941d68431a0fd225e71.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 LEG-MOB The Dog
 http://fab.fairytaill.com/321/Fear%20The%20Walking%20Dead/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x03 LEG-TV The Dog
-http://www.megavideoupload.com/media/22a72111c27a487b6527adcb8e2e0be7.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDS01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x02 So Close Yet So Far
-http://www.megavideoupload.com/media/9ba173566b28c8f712fb2f94383e97bd.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x02 LEG-MOB So Close Yet So Far
 http://fab.fairytaill.com/321/Fear%20The%20Walking%20Dead/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x02 LEG-TV So Close Yet So Far
-http://www.megavideoupload.com/media/e6bfe6acba416fc675f2fcf803ef8604.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDS01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x01 Pilot
-http://www.megavideoupload.com/media/8709edb0d5ea0f536625f2787c49561b.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x01 LEG-MOB Pilot
 http://fab.fairytaill.com/321/Fear%20The%20Walking%20Dead/S01E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0mGWuY" group-title="Fear The Walking Dead",Fear The Walking Dead 1x01 LEG-TV Pilot
-http://www.megavideoupload.com/media/faf4517a37f51810c0f63b65063ef71f.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FRTWDS01EP01.mp4
+####################################################################################################################################################
+####################################################################################################################################################
+	##Forever Legendado > ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x22 LEG-TV The Last Death of Henry Morgan
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x21 LEG-TV The Night in Question
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x20 LEG-TV Best Foot Forward
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x19 LEG-TV Punk is Dead
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x18 LEG-TV Dead Men Tell Long Tales
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x17 LEG-TV Social Engineering
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x16 LEG-TV Memories of Murder
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x15 LEG-TV The King of Columbus Circle
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x14 LEG-TV Hitler on the Half Shell
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x13 LEG-TV Diamonds Are Forever
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x12 LEG-TV The Wolves of Deep Brooklyn
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x11 LEG-TV Skinny Dipper
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x10 LEG-TV The Man in the Killer Suit
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x09 LEG-TV 6 A.M.
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x08 LEG-TV The Ecstasy of Agony
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x07 LEG-TV New York Kids
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x06 LEG-TV The Frustrating Thing About Psychopaths
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x05 LEG-TV The Pugilist Break
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x04 LEG-TV The Art of Murder
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x03 LEG-TV Fountain of Youth
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x02 LEG-TV Look Before You Leap
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lRf45t" group-title="Forever",Forever 1x01 LEG-TV Pilot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/FORVERS01EP01.mp4
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##From Dusk Till Dawn: The Series Legendado > ServidorONSeries
@@ -5341,23 +5769,25 @@ http://reb.fairytaill.com/321/How%20To%20Get%20Away%20With%20Murder/S01E02.MP4?O
 http://reb.fairytaill.com/321/How%20To%20Get%20Away%20With%20Murder/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Humans Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x08 LEG-TV Episódio 8 – Season Finale
-http://playfreehd.com/media/44985032febf5c1d520bda8b240b8712.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x07 LEG-TV Episódio 7
-http://playfreehd.com/media/80ae9a5a3cb45c07f343f99e23fb7dce.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x06 LEG-TV Episódio 6
-http://playfreehd.com/media/9b68d028c7d28f17044acdaf2025fe86.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x05 LEG-TV Episódio 5
-http://playfreehd.com/media/33605e94fd816b334ab061843a638f2f.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x04 LEG-TV Episódio 4
-http://playfreehd.com/media/7a8917cf4df8ec6b8e9034ea9f352bcb.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x03 LEG-TV Episódio 3
-http://playfreehd.com/media/825260dd5160f20be6c5a750c6ee69fd.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x02 LEG-TV Episódio 2
-http://playfreehd.com/media/d198b902acb6fd3a01da041220a75ba8.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x01 LEG-TV Episódio 1
-http://playfreehd.com/media/8f077775665b5b4437d1e1754f7879b8.MP4?ONSeries
+	##Humans Legendado > ServidorONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 2x EM 2016
+http://bit.ly/ONSeries?humans
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x08 LEG-MOB Episódio 8 – Season Finale
+http://reb.fairytaill.com/321/Humans/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x07 LEG-MOB Episódio 7
+http://reb.fairytaill.com/321/Humans/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x06 LEG-MOB Episódio 6
+http://reb.fairytaill.com/321/Humans/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x05 LEG-MOB Episódio 5
+http://reb.fairytaill.com/321/Humans/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x04 LEG-MOB Episódio 4
+http://reb.fairytaill.com/321/Humans/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x03 LEG-MOB Episódio 3
+http://reb.fairytaill.com/321/Humans/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x02 LEG-MOB Episódio 2
+http://reb.fairytaill.com/321/Humans/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/snFMQI" group-title="Humans",Humans 1x01 LEG-MOB Episódio 1
+http://reb.fairytaill.com/321/Humans/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Intruders Legendado > ServidorONSeries
@@ -5401,8 +5831,10 @@ http://playfreehd.com/media/30856fa3fb6883e9b79efa5e0263500c.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##iZombie Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x06 10/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x07 17/11/2015
 http://bit.ly/ONSeries?izombie
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x06 LEG-MOB Max Wager
+http://reb.fairytaill.com/321/iZombie/S02E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x05 LEG-MOB Love & Basketball
 http://reb.fairytaill.com/321/iZombie/S02E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x04 LEG-MOB Even Cowgirls Get the Black & Blues
@@ -5413,37 +5845,65 @@ http://reb.fairytaill.com/321/iZombie/S02E03.MP4?ONSeries
 http://reb.fairytaill.com/321/iZombie/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 2x01 LEG-MOB Grumpy Old Liv 
 http://reb.fairytaill.com/321/iZombie/S02E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x13 LEG-TV Blaine’s World
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP13.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x13 LEG-MOB Blaine’s World
 http://fab.fairytaill.com/321/iZombie/S01E13.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x12 LEG-TV Dead Rat Live Rat Brown Rat White Rat
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x12 LEG-MOB Dead Rat Live Rat Brown Rat White Rat
 http://fab.fairytaill.com/321/iZombie/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x11 LEG-TV Astroburger
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x11 LEG-MOB Astroburger
 http://fab.fairytaill.com/321/iZombie/S01E11.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x10 LEG-TV Mr. Berserk
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x10 LEG-MOB Mr. Berserk
 http://fab.fairytaill.com/321/iZombie/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x09 LEG-TV Patriot Brains
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x09 LEG-MOB Patriot Brains
 http://fab.fairytaill.com/321/iZombie/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x08 LEG-TV Dead Air
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x08 LEG-MOB Dead Air
 http://fab.fairytaill.com/321/iZombie/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x07 LEG-TV Maternity Liv
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x07 LEG-MOB Maternity Liv
 http://fab.fairytaill.com/321/iZombie/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x06 LEG-TV Virtual Reality Bites
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x06 LEG-MOB Virtual Reality Bites
 http://fab.fairytaill.com/321/iZombie/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x05 LEG-TV Flight of the Living Dead
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x05 LEG-MOB Flight of the Living Dead
 http://fab.fairytaill.com/321/iZombie/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x04 LEG-TV Liv and Let Clive
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x04 LEG-MOB Liv and Let Clive
 http://fab.fairytaill.com/321/iZombie/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x03 LEG-TV The Exterminator
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x03 LEG-MOB The Exterminator
 http://fab.fairytaill.com/321/iZombie/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x02 LEG-TV Brother Can You Spare A Brain?
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x02 LEG-MOB Brother Can You Spare A Brain?
 http://fab.fairytaill.com/321/iZombie/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x01 LEG-TV Pilot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/IZOMBIES01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/V4RBMv" group-title="iZombie",iZombie 1x01 LEG-MOB Pilot
 http://fab.fairytaill.com/321/iZombie/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Jekyll and Hyde Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/mhIfHL" group-title="Jekyll and Hyde",Jekyll and Hyde 1x03 07/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/mhIfHL" group-title="Jekyll and Hyde",Jekyll and Hyde 1x04 14/11/2015
 http://bit.ly/ONSeries?jekylandhyde
+#EXTINF:-1 tvg-logo="https://goo.gl/mhIfHL" group-title="Jekyll and Hyde",Jekyll and Hyde 1x03 LEG-MOB The Cutter
+http://reb.fairytaill.com/321/Jekyll%20and%20Hyde/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/mhIfHL" group-title="Jekyll and Hyde",Jekyll and Hyde 1x02 LEG-MOB Mr Hyde
 http://reb.fairytaill.com/321/Jekyll%20and%20Hyde/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/mhIfHL" group-title="Jekyll and Hyde",Jekyll and Hyde 1x01 LEG-MOB The Harbinger
@@ -5460,8 +5920,10 @@ http://www.megavideoupload.com/media/04887d2deda316319c35a9316b4c5972.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Limitless Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x08 11/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x09 18/11/2015
 http://bit.ly/ONSeries?limitless
+#EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x08 LEG-MOB When Pirates Pirate Pirates
+http://reb.fairytaill.com/321/Limitless/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x07 LEG-MOB Brian Finch’s Black Op
 http://reb.fairytaill.com/321/Limitless/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/SdDTzp" group-title="Limitless",Limitless 1x06 LEG-MOB Side Effects May Include…
@@ -5526,6 +5988,51 @@ http://reb.fairytaill.com/321/Manhattan/S01E03.MP4?ONSeries
 http://reb.fairytaill.com/321/Manhattan/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/03NMNH" group-title="Manhattan",Manhattan 1x01 LEG-MOB You Always Hurt the One You Love
 http://reb.fairytaill.com/321/Manhattan/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##Marco Polo Dublado/Legendado > ServidorONSeries ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 2x EM DEZEMBRO
+http://bit.ly/ONSeries?marcopolo
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x10 The Heavenly and Primal
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x10 LEG-MOB The Heavenly and Primal
+http://reb.fairytaill.com/321/Marco%20Polo/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x09 Prisoners
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x09 LEG-MOB Prisoners
+http://reb.fairytaill.com/321/Marco%20Polo/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x08 Rendering
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x08 LEG-MOB Rendering
+http://reb.fairytaill.com/321/Marco%20Polo/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x07 The Scholars Pen
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x07 LEG-MOB The Scholars Pen
+http://reb.fairytaill.com/321/Marco%20Polo/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x06 White Moon
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x06 LEG-MOB White Moon
+http://reb.fairytaill.com/321/Marco%20Polo/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x05 Hashshashin
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x05 LEG-MOB Hashshashin
+http://reb.fairytaill.com/321/Marco%20Polo/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x04 The Fourth Step
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x04 LEG-MOB The Fourth Step
+http://reb.fairytaill.com/321/Marco%20Polo/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x03 Feast
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x03 LEG-MOB Feast
+http://reb.fairytaill.com/321/Marco%20Polo/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x02 The Wolf and the Deer
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x02 LEG-MOB The Wolf and the Deer
+http://reb.fairytaill.com/321/Marco%20Polo/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x01 The Wayfarer
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/MRCPLT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="Marco Polo",Marco Polo 1x01 LEG-MOB The Wayfarer
+http://reb.fairytaill.com/321/Marco%20Polo/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Mike & Molly Dublado
@@ -5699,45 +6206,45 @@ http://playfreehd.com/media/05f092e1f9bfeeff14545f041994e162.MP4?ONSeries
 ####################################################################################################################################################
 	##Narcos Dublado/Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x10 Decolando
-http://www.megavideoupload.com/media/2b1273d366a7b127c45e7746179ff298.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x10 LEG-TV Decolando
-http://www.megavideoupload.com/media/de5d752b560a49cde357258e543d6740.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x10 LEG-MOB Decolando
+http://fab.fairytaill.com/321/Narcos/S01E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x09 A Catedral
-http://www.megavideoupload.com/media/874338470eceaced02aea94a1fb2e0f9.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x09 LEG-TV A Catedral
-http://www.megavideoupload.com/media/e1e48cf1475d46bc98a7314105c5532b.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x09 LEG-MOB A Catedral
+http://fab.fairytaill.com/321/Narcos/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x08 A Grande Mentira
-http://www.megavideoupload.com/media/441a37ea1ab92f0690b6b2e56e3c63c3.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x08 LEG-TV A Grande Mentira
-http://www.megavideoupload.com/media/f4b1287c705673bffdb2b8cd2b9b1506.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x08 LEG-MOB A Grande Mentira
+http://fab.fairytaill.com/321/Narcos/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x07 Chorarás Lágrimas de Sangue
-http://www.megavideoupload.com/media/650e297a48e2d835066923487b99acc5.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x07 LEG-TV Chorarás Lágrimas de Sangue
-http://www.megavideoupload.com/media/f3d9dcb6b16f8c4c54c41a3db9c002b5.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x07 LEG-MOB Chorarás Lágrimas de Sangue
+http://fab.fairytaill.com/321/Narcos/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x06 Explosivos
-http://www.megavideoupload.com/media/b2323ba60d3bdf0414996c212ac6818a.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x06 LEG-TV Explosivos
-http://www.megavideoupload.com/media/0884a5f9acc1d45fc94358ddbeae2721.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x06 LEG-MOB Explosivos
+http://fab.fairytaill.com/321/Narcos/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x05 Haverá um Futuro
-http://www.megavideoupload.com/media/49ca6fadf634799382c56171fd31816f.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x05 LEG-TV Haverá um Futuro
-http://www.megavideoupload.com/media/2bdc49cd6c7dec0856856c87c3fc26c9.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x05 LEG-MOB Haverá um Futuro
+http://fab.fairytaill.com/321/Narcos/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x04 O Palácio em Chamas
-http://www.megavideoupload.com/media/c9c2187a8a89f2826329eb61900740fb.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x04 LEG-TV O Palácio em Chamas
-http://www.megavideoupload.com/media/b6fa6dc2dfd6c69baf8c03cec4badd5c.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x04 LEG-MOB O Palácio em Chamas
+http://fab.fairytaill.com/321/Narcos/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x03 Os Homens de Sempre
-http://www.megavideoupload.com/media/6bf5f9c056e4b581295fcb0bdda3fa89.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x03 LEG-TV Os Homens de Sempre
-http://www.megavideoupload.com/media/8699bf29c208ba048ca5209bc68a37c0.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x03 LEG-MOB Os Homens de Sempre
+http://fab.fairytaill.com/321/Narcos/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x02 A Espada de Simón Bolívar
-http://www.megavideoupload.com/media/644ce3b020ab68c8d334e42433fad140.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x02 LEG-TV A Espada de Simón Bolívar
-http://www.megavideoupload.com/media/f3687657dbc6cc5af56ddea3d6963e21.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x02 LEG-MOB A Espada de Simón Bolívar
+http://fab.fairytaill.com/321/Narcos/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x01 A chegada
-http://www.megavideoupload.com/media/d93b537586ba15314e24122d7bf78f27.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x01 LEG-TV A chegada
-http://www.megavideoupload.com/media/d8e5003e20872556f5663f9cf91147e2.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/NRCST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NKBKAx" group-title="Narcos",Narcos 1x01 LEG-MOB A chegada
+http://fab.fairytaill.com/321/Narcos/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##New Orleans Legendado > ServidorONSerieS2
@@ -6392,8 +6899,10 @@ http://playfreehd.com/media/eb88df96a18426fcf899111a0b38bd7a.MP4?ONSeries
 http://playfreehd.com/media/5d012de528533008412c73b78eae5989.MP4?ONSeries
 ####################################################################################################################################################
 	##Quantico Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x07 09/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x08 16/11/2015
 http://bit.ly/ONSeries?quantico
+#EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x07 LEG-MOB Go
+http://reb.fairytaill.com/321/Quantico/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x06 LEG-MOB God
 http://reb.fairytaill.com/321/Quantico/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/QvGOa4" group-title="Quantico",Quantico 1x05 LEG-MOB Found
@@ -6833,8 +7342,10 @@ http://www.megavideoupload.com/media/8229d882b54d054d23b5760be4c65a92.MP4?ONSeri
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scorpion Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x08 16/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x09 23/11/2015
 http://bit.ly/ONSeries?scorpion
+#EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x08 LEG-MOB Area 51 
+http://reb.fairytaill.com/321/Scorpion/S02E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x07 LEG-MOB Crazy Train
 http://reb.fairytaill.com/321/Scorpion/S02E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/Dah4ie" group-title="Scorpion",Scorpion 2x06 LEG-MOB Tech Drugs and Rock ‘n’ Roll
@@ -6900,31 +7411,33 @@ http://reb.fairytaill.com/321/Scorpion/S01E01.MP4?ONSeries
 	##Scream Legendado > ServidorONSeries2
 #EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 2x01 EM 2016
 http://bit.ly/ONSeries?scream
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x10 LEG-TV Revelations - Season Finale
-http://www.megavideoupload.com/media/c350569d2d5bc21d00a705933169fe8e.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x09 LEG-TV The Dance
-http://www.megavideoupload.com/media/193fc2bd87aa872023122db1084f7dab.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x08 LEG-TV Ghosts
-http://www.megavideoupload.com/media/88a8a58c092f49dea58986751431efe1.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x07 LEG-TV In the Trenches
-http://www.megavideoupload.com/media/79338ca05c332afaa2ac78adc466e622.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x06 LEG-TV Betrayed
-http://playfreehd.com/media/3e44fb87dbc413d4d9b6a3afa7f66a1d.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x05 LEG-TV Exposed
-http://playfreehd.com/media/290e5df2c59293ec3ce6471ef414427b.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x04 LEG-TV Aftermath
-http://playfreehd.com/media/50c0b10fd6b7f3edec149f639d0bac45.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x03 LEG-TV Wanna Play a Game?
-http://playfreehd.com/media/63d8ded0ab185b7a5d3a1c5dd5400b13.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x02 LEG-TV Hello Emma
-http://playfreehd.com/media/da9bafac12e47fcb836f10d703da142c.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x01 LEG-TV Pilot
-http://playfreehd.com/media/5f4b42ac66c7088526a037b340a03238.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x10 Revelations - Season Finale
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x09 The Dance
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x08 Ghosts
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x07 In the Trenches
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x06 Betrayed
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x05 Exposed
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x04 Aftermath
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x03 Wanna Play a Game?
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x02 Hello Emma
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/i1bkKx" group-title="Scream",Scream 1x01 Pilot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SCRMT01EP01.mp4
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Scream Queens Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x08 03/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x09 10/11/2015
 http://bit.ly/ONSeries?screamqueens
+#EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x08 LEG-MOB Mommie Dearest
+http://reb.fairytaill.com/321/Scream%20Queens/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x07 LEG-MOB Beware of Young Girls
 http://reb.fairytaill.com/321/Scream%20Queens/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/0GejaX" group-title="Scream Queens",Scream Queens 1x06 LEG-MOB Seven Minutes in Hell
@@ -6947,29 +7460,53 @@ http://reb.fairytaill.com/321/Scream%20Queens/S01E00.MP4?ONSeries
 http://www.megavideoupload.com/media/3ec65bd0f12b687ecf5b8da230ddeba5.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##Sense 8 Legendado > ServidorONSeries
+	##Sense 8 Dublado/Legendado > ServidorONSeries ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x12 I Can't Leave Her
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x12 LEG-MOB I Can't Leave Her
 http://pao.fairytaill.com/321/Sense8/S01E12.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x11 Just Turn the Wheel and the Future Changes
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x11 LEG-MOB Just Turn the Wheel and the Future Changes
 http://pao.fairytaill.com/321/Sense8/S01E11.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x10 LEG-MOBLEG-MOB What Is Human?
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x10 What Is Human?
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x10 LEG-MOB What Is Human?
 http://pao.fairytaill.com/321/Sense8/S01E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x09 Death Doesn't Let You Say Goodbye
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x09 LEG-MOB Death Doesn't Let You Say Goodbye
 http://pao.fairytaill.com/321/Sense8/S01E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x08 We Will All Be Judged by the Courage of Our Hearts
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x08 LEG-MOB We Will All Be Judged by the Courage of Our Hearts
 http://pao.fairytaill.com/321/Sense8/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x07 WWN Double-D?
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x07 LEG-MOB WWN Double-D?
 http://pao.fairytaill.com/321/Sense8/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x06 Demons
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x06 LEG-MOB Demons
 http://pao.fairytaill.com/321/Sense8/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x05 Art Is Like Religion
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x05 LEG-MOB Art Is Like Religion
 http://pao.fairytaill.com/321/Sense8/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x04 What's Going On?
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x04 LEG-MOB What's Going On?
 http://pao.fairytaill.com/321/Sense8/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x0 Smart Money's on the Skinny Bitch
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x03 LEG-MOB Smart Money's on the Skinny Bitch
 http://pao.fairytaill.com/321/Sense8/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x02 I Am Also A We
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x02 LEG-MOB I Am Also A We
 http://pao.fairytaill.com/321/Sense8/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x01 Limbic Resonance
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SNSE8T01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lP1mcv" group-title="Sense 8",Sense 8 1x01 LEG-MOB Limbic Resonance
 http://pao.fairytaill.com/321/Sense8/S01E01.MP4?ONSeries
 ####################################################################################################################################################
@@ -7021,40 +7558,76 @@ http://www.megavideoupload.com/media/f24755e68fd43b7d7060eaa7f3d05ca9.MP4?ONSeri
 	##Silicon Valley Legendado > ServidorONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 3x01 EM 2016
 http://bit.lY/ONSeries?siliconvalley
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x10 Two Days of the Condor
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x10 LEG-MOB Two Days of the Condor
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E10.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x09 Binding Arbitration
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x09 LEG-MOB Binding Arbitration
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E09.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x08 White Hat/Black Hat
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x08 LEG-MOB White Hat/Black Hat
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x07 Adult Content
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x07 LEG-MOB Adult Content
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x06 Homicide
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x06 LEG-MOB Homicide
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x05 Server Space
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x05 LEG-MOB Server Space
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x04 The Lady
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x04 LEG-MOB The Lady
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x03 Bad Money
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x03 LEG-MOB Bad Money
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x02 Runaway Devaluation
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x02 LEG-MOB Runaway Devaluation
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x01 Sand Hill Shuffle
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 2x01 LEG-MOB Sand Hill Shuffle
 http://reb.fairytaill.com/321/Silicon%20Valley/S02E01.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x08 Optimal Tip-to-Tip Efficiency
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x08 LEG-MOB Optimal Tip-to-Tip Efficiency
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E08.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x07 Proof of Concept
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x07 LEG-MOB Proof of Concept
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E07.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x06 Third Party Insourcing
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x06 LEG-MOB Third Party Insourcing
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E06.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x05 Signaling Risk
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x05 LEG-MOB Signaling Risk
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E05.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x04 Fiduciary Duties
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x04 LEG-MOB Fiduciary Duties
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E04.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x03 Articles of Incorporation
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x03 LEG-MOB Articles of Incorporation
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E03.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x02 The Cap Table
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x02 LEG-MOB The Cap Table
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E02.MP4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x01 Minimum Viable Product
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/SLCNVLEYT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GRGkHX" group-title="Silicon Valley",Silicon Valley 1x01 LEG-MOB Minimum Viable Product
 http://reb.fairytaill.com/321/Silicon%20Valley/S01E01.MP4?ONSeries
 ####################################################################################################################################################
@@ -7451,8 +8024,10 @@ http://fab.fairytaill.com/321/Supergirl/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##Supernatural Dublado/Legendado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x06 11/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x07 18/11/2015
 http://bit.ly/ONSeries?supernatural
+#EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x06 LEG-MOB Our Little World
+http://reb.fairytaill.com/321/Supernatural/S11E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x05 LEG-MOB Thin Lizzie
 http://reb.fairytaill.com/321/Supernatural/S11E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/rkwZvC" group-title="Supernatural",Supernatural 11x04 LEG-MOB Baby
@@ -8246,8 +8821,10 @@ http://pao.fairytaill.com/321/The%20100/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Bastard Executioner Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x09 03/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x10 10/11/2015
 http://bit.ly/ONSeries?thebastardexecutioner
+#EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x09 LEG-MOB The Bernadette Maneuver/Cynllwyn Bernadette
+http://reb.fairytaill.com/321/The%20Bastard%20Executioner/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x08 LEG-MOB Broken Things/Pethau Toredig 
 http://reb.fairytaill.com/321/The%20Bastard%20Executioner/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/tECX5N" group-title="The Bastard Executioner",The Bastard Executioner 1x07 LEG-MOB Behold the Lamb/Gweled yr Oen
@@ -8271,8 +8848,10 @@ http://megavideoupload.com/media/1373098ace200f6d36e01b3b8ae20c33.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Big Bang Theory Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x08 10/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x09 17/11/2015
 http://bit.ly/ONSeries?thebigbang
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x08 LEG-MOB The Mystery Date Observation
+http://reb.fairytaill.com/321/The%20Big%20Bang%20Theory/S09E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x07 LEG-MOB The Spock Resonance
 http://reb.fairytaill.com/321/The%20Big%20Bang%20Theory/S09E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="The Big Bang Theory",The Big Bang Theory 9x06 LEG-MOB The Helium Insufficiency
@@ -8659,52 +9238,34 @@ http://pao.fairytaill.com/321/The%20Big%20Bang%20Theory/S01E02.MP4?ONSeries
 http://pao.fairytaill.com/321/The%20Big%20Bang%20Theory/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
-	##The Brink Dublado/Legendado > ServidorONSeries2
+	##The Brink Dublado > ServidorRedeC
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x10 There Will Be Consequences5 - Season Finale
-http://www.megavideoupload.com/media/855e0a11c22eb8f9880fd0a23ca50682.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x10 LEG-TV There Will Be Consequences - Season Finale
-http://www.megavideoupload.com/media/5ae9ab75ab75e7cc9e98ac0f9fb978a4.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x09 Just a Little Crazy Talk
-http://www.megavideoupload.com/media/be056ccf2f9968df7bd380ff1a90776a.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x09 LEG-TV Just a Little Crazy Talk
-http://www.megavideoupload.com/media/4c49710439527c7de4f72f6f5d11255b.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x08 Who's Grover Cleveland?
-http://www.megavideoupload.com/media/9c1811d189dcbd3be5a0c6d6ba59aec3.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x08 LEG-TV Who's Grover Cleveland? 
-http://playfreehd.com/media/f328e9702d9a3a3bbf8ea9378d7dc361.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x07 Sticky Wicket
-http://playfreehd.com/media/4446d96a6535f04ab20935ae46853391.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x07 LEG-TV Sticky Wicket
-http://playfreehd.com/media/83245272fb0ca1145ad9b08390e04efa.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x06 Tweet Tweet Tweet
-http://playfreehd.com/media/64d18075b558309e9e2b2a21f0b2fa0f.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x06 LEG-TV Tweet Tweet Tweet
-http://playfreehd.com/media/1efc52329f468317873e37ecec9a7ad9.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x05 Swim Shmuley Swim
-http://playfreehd.com/media/56631579a84d5d18715a343d556747e9.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x05 LEG-TV Swim Shmuley Swim
-http://playfreehd.com/media/ff7c0e0e92a24757a80d8e90760c0295.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x04 I'll Never Be Batman
-http://playfreehd.com/media/f0b1ed8d4660b8ced3f8276bf5f80ed1.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x04 LEG-TV I'll Never Be Batman
-http://playfreehd.com/media/7725107912f61463d974e3c88ce4e713.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x03 Baghdad My Ass
-http://playfreehd.com/media/2dd7461a558c4aa8a12558314bf62999.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x03 LEG-TV Baghdad My Ass
-http://playfreehd.com/media/3c1b6ed3bbacd88a25bbe05a3d2bc9f0.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x02 Half-Cocked
-http://playfreehd.com/media/45a04aa0ca511ff0f05fd570c4651636.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x02 LEG-TV AGUARDEM
-http://playfreehd.com/media/c55aabb4fc13a000d6be30e0c85dc6ae.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x01 Pilot
-http://playfreehd.com/media/b554387a208ebc099e85a9925f8bfe00.MP4?ONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/pQRSD4" group-title="The Brink",The Brink 1x01 LEG-TV Pilot
-http://playfreehd.com/media/928df839d797b0007e0d18dac47ee550.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/TBRNKT01EP01.mp4
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Flash Legendado/Dublado > ServidorONSeries
-#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x06 09/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x07 16/11/2015
 http://bit.ly/ONSeries?theflash
+#EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x06 LEG-MOB Enter Zoom
+http://reb.fairytaill.com/321/The%20Flash/S02E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x05 LEG-TV The Darkness and the Light
 http://www.sv3.share1.megavideoupload.com/media/The%20Flash%202014%202x5%20720p%20Legendado%20-%20JeanNinjja.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/UrSXGc" group-title="The Flash",The Flash 2x05 LEG-MOB The Darkness and the Light
@@ -8859,8 +9420,10 @@ http://fab.fairytaill.com/321/The%20Knick/S01E01.MP4?ONSeries
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Last Man On Earth Legendado > ServidorONSeries2
-#EXTINF:-1 tvg-logo="https://goo.gl/B73UBi" group-title="The Last Man On Earth",The Last Man On Earth 2x06 02/11/2015
+#EXTINF:-1 tvg-logo="https://goo.gl/B73UBi" group-title="The Last Man On Earth",The Last Man On Earth 2x07 09/11/2015
 http://bit.ly/ONSeries?thelastmanonearth
+#EXTINF:-1 tvg-logo="https://goo.gl/B73UBi" group-title="The Last Man On Earth",The Last Man On Earth 2x06 LEG-MOB A Real Live Wire
+http://reb.fairytaill.com/321/The%20Last%20Man%20on%20Earth/S02E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/B73UBi" group-title="The Last Man On Earth",The Last Man On Earth 2x05 LEG-MOB Crickets
 http://reb.fairytaill.com/321/The%20Last%20Man%20on%20Earth/S02E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/B73UBi" group-title="The Last Man On Earth",The Last Man On Earth 2x04 LEG-MOB C to the T 
@@ -8879,97 +9442,122 @@ http://bit.ly/ONSeries?thelastmanonearth
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 3x01 EM 2016!
 http://bit.ly/ONSeries?thelastship
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x13 A More Perfect Union
-http://www.megavideoupload.com/media/ba73b42b2d64a8a987b8c6d1e4db2f72.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP13.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x13 LEG-TV
-http://www.megavideoupload.com/media/aacd97864a64e1ed04448946d195308d.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E13.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x12 Cry Havoc
-http://www.megavideoupload.com/media/86f2e0f6e06c98ba7b8dd735156f2be2.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x12 LEG-TV Cry Havoc
-http://www.megavideoupload.com/media/ab042b65cac54cc7aceecc7f54e49b94.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E12.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x11 Valkyrie
-http://www.megavideoupload.com/media/df94c6e589585bc87720430f5bd23cc0.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x11 LEG-TV Valkyrie
-http://www.megavideoupload.com/media/f570ac73491911277d1ca645f26e9b8d.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E11.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x10 Friendly Fire
-http://www.megavideoupload.com/media/7968c2b2ff57ef407fb37bae721b6399.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x10 LEG-TV Friendly Fire
-http://www.megavideoupload.com/media/f31c78188068f81081a49afea6ce2891.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x09 Uneasy Lies the Head
-http://playfreehd.com/media/e84c962cd24f312925fdbb75eee9d448.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x09 LEG-TV Uneasy Lies the Head
-http://playfreehd.com/media/af1dc921a1243903e47352861179566c.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x08 Safe Zone
-http://playfreehd.com/media/cd0e217dd0233495d88ae36619fe6e48.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x08 LEG-TV Safe Zone
-http://playfreehd.com/media/86c14856669e19537afa71528aa8233d.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x07 Alone and Unafraid
-http://playfreehd.com/media/9f5b475dd22f4f4ee37a24f26013d989.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x07 LEG-TV Alone and Unafraid
-http://playfreehd.com/media/7222890b1d2ccc18ccfb3a148a2046d9.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x06 Long Day’s Journey
-http://playfreehd.com/media/e875c63bce833374d29857b091803b12.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x06 LEG-TV Long Day’s Journey
-http://playfreehd.com/media/b5be2952383570150fc86537bcaef067.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x05 Achilles
-http://playfreehd.com/media/e11d2f8ac1163f9a04dea52d01b70230.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x05 LEG-TV Achilles
-http://playfreehd.com/media/cc524eacdcd69e3141a4644581967c11.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x04 Solace
-http://playfreehd.com/media/29eb812e7a43e96a117b4807fe25c9f8.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x04 LEG-TV Solace
-http://playfreehd.com/media/b24d7b11241ad5c85af27d4c70730a5b.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x03 It's Not a Rumor
-http://playfreehd.com/media/5fe360904d6389be185bd5dc37a6feb3.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x03 LEG-TV It's Not a Rumor
-http://playfreehd.com/media/72383debf4785c4466bd911bb4828454.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x02 Fight the Ship
-http://playfreehd.com/media/040e64cc6916406c8e0a5a41ad32f4fc.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x02 LEG-TV Fight the Ship
-http://playfreehd.com/media/7c63334ed045aa0307a06ea431619505.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x01 Unreal City
-http://playfreehd.com/media/9149777fc93d92c8aac1e5e08a1a83e5.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 2x01 LEG-TV Unreal City
-http://playfreehd.com/media/a810de94a4d8cc3a6c40f6cb277585d4.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S02E01.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x10 No Place Like Home
-http://playfreehd.com/media/3ea82d63289d28b5ed7979d76ffca8ea.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x10 LEG-TV No Place Like Home
-http://playfreehd.com/media/986bee469741c412102aac34bce6c603.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E10.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x09 Trials
-http://playfreehd.com/media/e4829a3cc5df9e7f5ff0f1f0b6692a34.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x09 LEG-TV Trials
-http://playfreehd.com/media/3bb4fd170ad8256f5b573026bc8560cc.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E09.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x08 Two Sailors Walk Into a Bar
-http://playfreehd.com/media/ed618e27931f09cf88718d895bf6f409.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x08 LEG-TV Two Sailors Walk Into a Bar
-http://playfreehd.com/media/5a6291ae4b583538900772306e606d30.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E08.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x07 SOS
-http://playfreehd.com/media/a3e44fa39eb685e94e599a2d4b881166.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x07 LEG-TV SOS
-http://playfreehd.com/media/76246c9f73966843bcff7995edb25938.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E07.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x06 Lockdown
-http://playfreehd.com/media/61b20b2ef11b9f5769e57f11fc3e07ab.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x06 LEG-TV Lockdown
-http://playfreehd.com/media/014f9a5a3755f2a349801c4b627bce8f.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E06.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x05 El Toro
-http://playfreehd.com/media/b5e69ed401fd89d762517b4ab0c847bc.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x05 LEG-TV El Toro
-http://playfreehd.com/media/04e0da3c511bd6f7f1ec0415896827e4.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E05.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x04 We'll Get There
-http://playfreehd.com/media/29eb812e7a43e96a117b4807fe25c9f8.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x04 LEG-TV We'll Get There
-http://playfreehd.com/media/7be458ea10b2d910c27a35199d3b15f5.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E04.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x03 Dead Reckoning
-http://playfreehd.com/media/5fe360904d6389be185bd5dc37a6feb3.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x03 LEG-TV Dead Reckoning
-http://playfreehd.com/media/315b24e5f7b6753ef348a1e06b995c6b.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E03.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x02 Welcome to Gitmo
-http://playfreehd.com/media/040e64cc6916406c8e0a5a41ad32f4fc.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x02 LEG-TV Welcome to Gitmo
-http://playfreehd.com/media/5b17858d6dd131d5acf5c1dbb5eedbdb.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E02.MP4?ONSeries
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x01 Phase Six
-http://playfreehd.com/media/9149777fc93d92c8aac1e5e08a1a83e5.MP4?ONSeries
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THELSTSHOT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gS3HY6" group-title="The Last Ship",The Last Ship 1x01 LEG-TV Phase Six
-http://playfreehd.com/media/1d6fd7d5124d636267fde62568b12c5f.MP4?ONSeries
+http://reb.fairytaill.com/321/The%20Last%20Ship/S01E01.MP4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##The Leftovers Dublado > ServidorRedeC
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 2x EM BREVE
+http://bit.ly/ONSeries?leftovers
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x10 The Prodigal Son Returns
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x09 The Garveys at Their Best
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x08 Cairo
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x07 Solace for Tired Feet
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x06 Guest
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x05 Gladys
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x04 B.J. and the A.C.
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x03 Two Boats and a Helicopter
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x02 Penguins One Us Zero
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DVQvvz" group-title="The Leftovers",The Leftovers 1x01 Pilot
+https://googledrive.com/host/0B265dpk7MD54cWlxTFM4eUdObEU/THLFFTVRST01EP01.mp4
 ####################################################################################################################################################
 ####################################################################################################################################################
 	##The Librarians Legendado > ServidorONSeries
