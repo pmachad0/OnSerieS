@@ -1,0 +1,316 @@
+#EXTM3U
+####################################################################################################################################################
+####################################################################################################################################################
+#PLAYLISTV: pltv-logo="https://goo.gl/wHZIoC" pltv-name="ONSeries" pltv-description="" pltv-cover="https://goo.gl/CcugjT" pltv-author="PMachado" 
+pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="4196550164"
+#EXTINF:0 tvg-logo="https://goo.gl/wHZIoC" group-title="Atualizado 05/06",Atualizado 05/06
+http://myonseries.blogspot.com
+####################################################################################################################################################
+####################################################################################################################################################
+	##Novas Series Adicionadas
+#EXTINF:-1 tvg-logo="https://goo.gl/bWQSRF" group-title="Novas Series Adicionadas",Dublado/Legendado
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/dzOvK8" group-title="Novas Series Adicionadas",Dublado/Legendado
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/asl5DV" group-title="Novas Series Adicionadas",6T Dublado/Legendado
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Novas Series Adicionadas",4T Legendado
+http://myonseries.blogspot.com
+####################################################################################################################################################
+####################################################################################################################################################
+	##Bates Motel Dublado
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Serie Renovada!
+http://myonseries.blogspot.com?batesmotel
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",4T Dublado em breve!
+http://myonseries.blogspot.com?batesmotel
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x10 Unconscious - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x09 Crazy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x08 The Pit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x07 The Last Supper
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x06 Norma Louise
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x05 The Deal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x04 Unbreak-Able
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x03 Persuasion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x02 The Arcanum Club
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 3x01 A Death in the Family
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x10 The Immutable Truth - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x09 The Box
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x08 Meltdown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x07 Presumed Innocent
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x06 Plunge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x05 The Escape Artist
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x04 Check-Out
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x03 Caleb
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x02 Shadow of a Doubt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 2x01 Gone But Not Forgotten
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x10 Midnight - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x09 Underwater
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x08 A Boy and His Dog
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x07 The Man in Number 9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x06 The Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x05 Ocean View
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x04 Trust Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x03 What’s Wrong With Norman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x02 Nice Town You Picked Norma…
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Dublado",Bates 1x01 First You Dream Then You Die
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP01.mp4
+####################################################################################################################################################
+####################################################################################################################################################
+	##Bates Motel Legendado
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Serie Renovada!
+http://myonseries.blogspot.com?batesmotel
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x10 Norman – Season Finale
+http://www.blogger.com/video-play.mp4?contentId=bff82d548edecad2
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x09 Forever
+http://www.blogger.com/video-play.mp4?contentId=87347664a02a0986
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x08 Unfaithful
+http://www.blogger.com/video-play.mp4?contentId=71d2bc34739b1e4b
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x07 There is No Place Like Home
+http://www.blogger.com/video-play.mp4?contentId=5e19fd5b106d7684
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x06 The Vault
+http://www.blogger.com/video-play.mp4?contentId=6befbb0921750e38
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x05 Refraction
+http://www.blogger.com/video-play.mp4?contentId=60f592fb4fc83fd9
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x04 Lights of Winter
+http://www.blogger.com/video-play.mp4?contentId=5c81fc6ba76d69c4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x03 Til Death Do You Part
+http://www.blogger.com/video-play.mp4?contentId=a1e83f971cc8e1ba
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x02 Goodnight Mother
+http://www.blogger.com/video-play.mp4?contentId=d5bafbaa5cf31cf3
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 4x01 A Danger to Himself and Others
+http://www.blogger.com/video-play.mp4?contentId=ec63300a544ef2a7
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x10 Unconscious - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x09 Crazy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x08 The Pit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x07 The Last Supper
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x06 Norma Louise
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x05 The Deal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x04 Unbreak-Able
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x03 Persuasion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x02 The Arcanum Club
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 3x01 A Death in the Family
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x10 The Immutable Truth - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x09 The Box
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x08 Meltdown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x07 Presumed Innocent
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x06 Plunge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x05 The Escape Artist
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x04 Check-Out
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x03 Caleb
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x02 Shadow of a Doubt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 2x01 Gone But Not Forgotten
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x10 Midnight - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x09 Underwater
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x08 A Boy and His Dog
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x07 The Man in Number 9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x06 The Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x05 Ocean View
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x04 Trust Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x03 What’s Wrong With Norman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x02 Nice Town You Picked Norma…
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel" pltv-subgroup="Legendado",Bates 1x01 First You Dream Then You Die
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP01.mp4?ONSeries
+####################################################################################################################################################
+####################################################################################################################################################
+	##Vikings Dublado	
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",4T dia 18/02/2016
+http://myonseries.blogspot.com?vikings
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x10 The Dead - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x09 Breaking Point
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x08 To the Gates!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x07 Paris
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x06 Born Again
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x05 The Usurper
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x04 Scarred
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x03 Warrior’s Fate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x02 The Wanderer
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 3x01 Mercenary
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x10 The Lord's Prayer - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x09 The Choice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x08 Boneless
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x07 Blood Eagle
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x06 Unforgiven
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x05 Answers in Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x04 Eye For an Eye
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x03 Treachery
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x02 Invasion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 2x01 Brother's War
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGST02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x09 All Change - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x08 Sacrifice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x07 A King's Ransom
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x06 Burial of the Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x05 Raid
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x04 Trial
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x03 Dispossessed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x02 Wrath of the Northmen
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Dublado",Vikings 1x01 Rites of Passage
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/VKGST01EP01.mp4
+####################################################################################################################################################
+####################################################################################################################################################
+	##Vikings Legendado	
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",4T em 2017!
+http://myonseries.blogspot.com?vikings
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x10 The Last Ship - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x09 Death All ‘Round
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x08 Portage
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x07 The Profit and the Loss
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x06 What Might Have Been
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x05 Promised
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x04 Yol
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x03 Mercy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x02 Kill the Queen
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 4x01 A Good Treason
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x10 The Dead - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x09 Breaking Point
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x08 To the Gates!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x07 Paris
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x06 Born Again
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x05 The Usurper
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x04 Scarred
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x03 Warrior’s Fate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x02 The Wanderer
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 3x01 Mercenary
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/VKGSS03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x10 The Lord's Prayer - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGSS02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x09 The Choice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/VKGSS02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x08 Boneless
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/VKGSS02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x07 Blood Eagle
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/VKGSS02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x06 Unforgiven
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/VKGSS02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x05 Answers in Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/VKGSS02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x04 Eye For an Eye
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/VKGSS02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x03 Treachery
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/VKGSS02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x02 Invasion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/VKGSS02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 2x01 Brother's War
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/VKGSS02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x09 All Change - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x08 Sacrifice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x07 A King's Ransom
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x06 Burial of the Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x05 Raid
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x04 Trial
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x03 Dispossessed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x02 Wrath of the Northmen
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8YUZ1z" group-title="Vikings" pltv-subgroup="Legendado",Vikings 1x01 Rites of Passage
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VKGSS01EP01.mp4
