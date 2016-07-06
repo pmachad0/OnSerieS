@@ -1,17 +1,17 @@
 #EXTM3U
 ####################################################################################################################################################
 ####################################################################################################################################################
-#PLAYLISTV: pltv-logo="https://goo.gl/KexKte" pltv-name="ONSeries" pltv-description="" pltv-cover="https://goo.gl/eGIXd8" pltv-author="PMachado" 
+#PLAYLISTV: pltv-logo="https://goo.gl/NBVvTt" pltv-name="ONSeries" pltv-description="" pltv-cover="https://goo.gl/tPhR1R" pltv-author="PMachado" 
 pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="4196550164"
-#EXTINF:0 tvg-logo="https://goo.gl/KexKte" group-title="[COLOR red]Informações[/COLOR]",Sua lista de series.
+#EXTINF:0 tvg-logo="https://goo.gl/NBVvTt" group-title="[COLOR red]Informações[/COLOR]",Sua lista de series.
 http://myonseries.blogspot.com
-#EXTINF:0 tvg-logo="https://goo.gl/KexKte" group-title="[COLOR red]Informações[/COLOR]",A mais completa.
+#EXTINF:0 tvg-logo="https://goo.gl/NBVvTt" group-title="[COLOR red]Informações[/COLOR]",A mais completa.
 http://myonseries.blogspot.com
-#EXTINF:0 tvg-logo="https://goo.gl/KexKte" group-title="[COLOR red]Informações[/COLOR]",Atualizado 4/7
+#EXTINF:0 tvg-logo="https://goo.gl/NBVvTt" group-title="[COLOR red]Informações[/COLOR]",Atualizado 4/7
 http://myonseries.blogspot.com
-#EXTINF:0 tvg-logo="https://goo.gl/KexKte" group-title="[COLOR red]Informações[/COLOR]",LEG-MOB -> CELULAR
+#EXTINF:0 tvg-logo="https://goo.gl/NBVvTt" group-title="[COLOR red]Informações[/COLOR]",LEG-MOB -> CELULAR
 http://myonseries.blogspot.com
-#EXTINF:0 tvg-logo="https://goo.gl/KexKte" group-title="[COLOR red]Informações[/COLOR]",LEG-TV -> HD
+#EXTINF:0 tvg-logo="https://goo.gl/NBVvTt" group-title="[COLOR red]Informações[/COLOR]",LEG-TV -> HD
 http://myonseries.blogspot.com
 #EXTINF:0 tvg-logo="https://goo.gl/YzhaxI" group-title="[COLOR red]Informações[/COLOR]",Use Wiseplay
 http://myonseries.blogspot.com
