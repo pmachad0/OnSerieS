@@ -1,7 +1,7 @@
 #EXTM3U
 ####################################################################################################################################################
 ####################################################################################################################################################
-#PLAYLISTV: pltv-logo="https://goo.gl/DCHnMq" pltv-name="ONSeries" pltv-description=",Atualizado 14/7" pltv-cover="https://goo.gl/zGNGhg" pltv-author="PMachado" 
+#PLAYLISTV: pltv-logo="https://goo.gl/DCHnMq" pltv-name="ONSeries" pltv-description="Atualizado 14/7" pltv-cover="https://goo.gl/zGNGhg" pltv-author="PMachado" 
 pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="4196550164"
 #EXTINF:0 tvg-logo="https://goo.gl/DCHnMq" group-title="[COLOR red]Informações[/COLOR]",Atualizado 14/7
 http://myonseries.blogspot.com
@@ -12,65 +12,3 @@ http://myonseries.blogspot.com
 	##Novas Series Adicionadas
 #EXTINF:-1 tvg-logo="http://goo.gl/g4fszZ" group-title="[COLOR purple]Novas[/COLOR] Series Adicionadas",Dublado/Legendado
 https://googledrive.com/host/1iP3PXMzLxBUa_aH2ur44bvcgyX9Rm-v4vA?.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/jdkTMA" group-title="[COLOR purple]Novas[/COLOR] Series Adicionadas",7T Dublado/Legendado
-magnet:?xt=urn:btih:038a2160b4ac3901b84aea0cf56c96ea27f5efb5&dn=Mem%C3%B3rias+Secretas+2016+WWW.BLUDV.COM
-####################################################################################################################################################
-####################################################################################################################################################
-	##100 Code Legendado
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",Serie Cancelada!
-http://myonseries.blogspot.com?100code
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x12 LEG-MOB Everytime You Think You’re Winning - ONSeason Finale
-https://www.blogger.com/video-play.mp4?contentId=9392e704c33da582
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x11 LEG-MOB Still Living After All
-https://www.blogger.com/video-play.mp4?contentId=5d82f3bef56e9fc3
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x10 LEG-MOB Secrets
-https://www.blogger.com/video-play.mp4?contentId=bdd450bda05659dd
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x09 LEG-MOB The Deep Heart’s Core
-https://www.blogger.com/video-play.mp4?contentId=6d65215229617c37
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x08 LEG-MOB Nobody Sleeps
-https://www.blogger.com/video-play.mp4?contentId=7d3c9990294ea7b6
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x07 LEG-MOB The Cop That Hugs
-https://www.blogger.com/video-play.mp4?contentId=90a9765aa0c994b7
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x06 LEG-MOB There Are No Heroes
-https://www.blogger.com/video-play.mp4?contentId=635f78eebbc699c1
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x05 LEG-MOB The First Blush
-https://www.blogger.com/video-play.mp4?contentId=1397acd922aa09bd
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x04 LEG-MOB My Only Friend
-https://www.blogger.com/video-play.mp4?contentId=25e7f8e2ca635e03
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x03 LEG-MOB Down the Rabbit Hole
-https://www.blogger.com/video-play.mp4?contentId=871cd0003828e34d
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x02 LEG-MOB Flowers in Hell
-https://www.blogger.com/video-play.mp4?contentId=d192d0d02d5e38e5
-#EXTINF:-1 tvg-logo="http://goo.gl/v6PoKl" pltv-subgroup="100 Code" group-title="Series [COLOR blue]Legendadas[/COLOR]",100 Code 1x01 LEG-MOB Pilot
-https://www.blogger.com/video-play.mp4?contentId=04e33edddae03add
-####################################################################################################################################################
-####################################################################################################################################################
-	##12 Monkeys Dublado
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",2T Dublado em breve!
-magnet:?xt=urn:btih:376D7323DCA55321B1C3D5C144A8AC074892463B&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x13 Arms of Mine - ONSeason Finale
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP13.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x12 Paradox
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP12.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x11 Shonin
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP11.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x10 Divine Move
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP10.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x09 Tomorrow
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP09.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x08 Yesterday
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP08.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x07 The Keys
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP07.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x06 The Red Forest
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP06.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x05 The Night Room
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP05.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x04 Atari
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP04.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x03 Cassandra Complex
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP03.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x02 Mentally Divergent
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKT01EP02.mp4?ONSeries
-#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="Series [COLOR blue]Dubladas[/COLOR]" pltv-subgroup="12 Monkeys",12 Monkeys 1x01 Pilot
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/12MONKS01EP01.mp4?ONSeries
